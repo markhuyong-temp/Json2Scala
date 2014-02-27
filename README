@@ -1,0 +1,22 @@
+Nothing to explain
+
+> git clone git@github.com:tuhlmann/lift_24_sbt11_selenium.git
+> cd lift_24_sbt11_selenium
+> ./sbt
+> container:start
+
+Your webapp is running on http://localhost:8080
+
+The template also has support for:
+
+- the sbt idea plugin (gen-idea)
+- the sbt eclipse plugin
+- JRebel (not scanning scanDirs)
+- Jetty 7
+
+This template integrates Selenium WebDriver with specs2 and a basic Lift project.
+
+To run the tests type:
+
+> ./sbt
+> test
