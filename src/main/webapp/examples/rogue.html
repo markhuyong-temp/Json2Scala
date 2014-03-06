@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <title>Forms</title>
+  </head>
+  <body class="lift:content_id=main">
+
+    <div id="main" class="lift:surround?with=default;at=content">
+
+      <h2>Rogue Examples</h2>
+      <h3>Select All Users</h3>
+      <pre><code>
+def forAllUsers2: NodeSeq = (User fetch).flatMap(mapToRow)
+
+with:
+
+&lt;table data-lift="RogueExamples.allUsers">
+  &lt;thead>
+    &lt;th>Name&lt;/th>&lt;th>Email&lt;/th>
+  &lt;/thead>
+  &lt;tbody id="rogue-ex1-body">&lt;/tbody>
+&lt;/table>
+
+      </code></pre>
+      <p>
+        Resulting in:
+        <table data-lift="RogueExamples.allUsers">
+          <thead>
+            <th>Name</th><th>Email</th>
+          </thead>
+          <tbody id="rogue-ex1-body">
+
+          </tbody>
+        </table>
+      </p>
+
+      <p>&nbsp;</p>
+
+      <h3>Select All Users with a .com domain email address</h3>
+      <pre><code>
+def findAllComEmail(): List[(String, String)] = {
+    val pattern = """.*\.com""".r
+    User where (_.email matches pattern) select(_.firstName, _.email) fetch()
+}
+
+with:
+
+&lt;table data-lift="RogueExamples.dotComUsers">
+  &lt;thead>
+    &lt;th>Name&lt;/th>&lt;th>Email&lt;/th>
+  &lt;/thead>
+  &lt;tbody id="rogue-ex2-body">&lt;/tbody>
+&lt;/table>
+
+      </code></pre>
+      <p>
+        Resulting in:
+        <table data-lift="RogueExamples.dotComUsers">
+          <thead>
+            <th>Name</th><th>Email</th>
+          </thead>
+          <tbody id="rogue-ex2-body">
+
+          </tbody>
+        </table>
+      </p>
+
+      <p>&nbsp;</p>
+
+
+      <h3>Count all notes created in the last 24 hours</h3>
+      <pre><code>
+def countNotesInLast24h = Note where (_.date after 24.hours.ago) count
+
+with:
+
+&lt;span data-lift="RogueExamples.notesLast24h">&lt;/span>
+
+      </code></pre>
+      <p>
+        Resulting in: <span data-lift="RogueExamples.notesLast24h"></span>
+      </p>
+
+      <p>&nbsp;</p>
+
+
+      <h3>Display Notes Per User</h3>
+      <p>Please enter an email address form your database in the input field below.
+        After submission the list of notes attached to that user should be displayed here.
+        We use a simple table as shown above and append the rows by Ajax. The Lift
+        snippet binding happens in <code>RogueExamples.notesByUser</code>
+      </p>
+
+      <table>
+        <thead>
+          <th>Date</th><th>Note</th>
+        </thead>
+        <tbody id="rogue-ex3-body">
+        </tbody>
+      </table>
+
+
+      <form data-lift="form.ajax?class=inline">
+        <fieldset data-lift="RogueExamples.notesByUser">
+          <legend>Enter an Email Address</legend>
+            <div class="span-13">
+              <label for="email-address">Email Address:&nbsp;</label>
+              <input id="email-address" name="email-address" class="title">
+            </div>
+            <div class="span-3 last">
+              <button type="button">Submit</button>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+
+      <p style="clear: both;"></p>
+
+    </div>
+
+  </body>
+</html>
+

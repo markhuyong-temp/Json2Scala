@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"></meta>
+    <meta name="description" content=""</meta>
+    <meta name="keywords" content=""</meta>
+    <title class="lift:Menu.title">App: </title>
+    <style class="lift:CSS.blueprint"></style>
+    <style class="lift:CSS.fancyType"></style>
+    <script id="jquery" src="/classpath/jquery.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/media/css/blueprint-buttons/screen.css" type="text/css" media="screen, projection"></link>
+    <style type="text/css">
+.edit_error_class {
+  display: block;
+  color: red;
+}
+
+.sidebar ul {
+  margin:0;
+  padding:0;
+  border-bottom:1px solid #ccc;
+}
+
+
+.sidebar ul li {
+  margin:0;
+  padding:0;
+  list-style:none;
+  border:1px solid #ccc;
+  border-bottom:none;
+}
+
+.sidebar ul li a {
+  display:block;
+  padding:3px;
+  text-indent:30px;
+  text-decoration:none;
+}
+
+.sidebar ul li span {
+  display:block;
+  padding:3px;
+  text-indent:30px;
+  text-decoration:none;
+}
+
+.sidebar ul li a:hover {
+  background-color: #eee;
+}
+
+p + p {
+  margin-top: -1em;
+  text-indent: 0em;
+}
+
+.large {
+  font-size: larger;
+}
+
+.huge {
+  font-size: large;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+}
+
+.box { border-radius: 15px; }
+
+.errorMsg { color: red; }
+
+h1 { margin-top:10px; }
+
+  </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="column span-12 last" style="text-align: right">
+        <h1 class="alt">A Sample App<img alt="" id="ajax-loader" style="display:none; margin-bottom: 0px; margin-left: 5px" src="/images/ajax-loader.gif"></h1>
+      </div>
+
+      <hr>
+
+      <div class="column span-6 colborder sidebar">
+        <hr class="space" >
+
+        <!--<span class="lift:Menu.builder"></span>
+        <hr class="space" >-->
+        <span class="lift:Menu.builder?group=main"></span>
+        <hr class="space" >
+        <span class="lift:Menu.builder?group=examples"></span>
+        <hr class="space" >
+        <span class="lift:Menu.builder?group=PostingUsers"></span>
+
+        <div data-lift="Msgs">
+          <lift:error_class>errorMsg</lift:error_class>
+          <lift:warning_class>warningMsg</lift:warning_class>
+          <lift:notice_class>noticeMsg</lift:notice_class>
+        </div>
+        <!--
+          If you want to show all messages in this block, even those that are assigned with field IDs, use:
+          <div data-lift="Msgs?showAll=true"></div>
+        -->
+        <hr class="space" >
+      </div>
+
+      <div class="column span-17 last">
+        <div id="content">The main content will get bound here</div>
+      </div>
+
+      <hr />
+      <div class="column span-23 last" style="text-align: center">
+        <h4 class="alt">
+          <a href="http://www.liftweb.net"><i>Lift</i></a> is Copyright 2007-2011 WorldWide Conferencing, LLC.
+          Distributed under an Apache 2.0 License.
+        </h4>
+        <h4 class="alt">This example application is part of Packt Publishing's Lift HowTo</h4>
+      </div>
+    </div>
+  </body>
+</html>

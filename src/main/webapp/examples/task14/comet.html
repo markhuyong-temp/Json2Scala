@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"></meta>
+    <title>Templates</title>
+  </head>
+  <body class="lift:content_id=main">
+
+    <div id="main" class="lift:surround?with=default;at=content">
+
+      <head_merge>
+<style>
+.FixedHeightContainer
+{
+  float:right;
+  height: 500px;
+  width:100%;
+  padding:3px;
+}
+.Content
+{
+  height:450px;
+  overflow:auto;
+}​
+</style>
+      </head_merge>
+
+      <h2>Comet Chat</h2>
+
+      <p>
+        Let's build our own chat client and server here, shall we?
+      </p>
+
+      <div class="FixedHeightContainer">
+       <h2>What do your friends say:</h2>
+         <div id="chat-msg-content" class="Content">
+           <table>
+             <thead>
+               <tr>
+                 <th style="width:25%">Time</th>
+                 <th style="width:30%">Name</th>
+                 <th style="width:45%">Message</th>
+               </tr>
+             </thead>
+             <tbody id="chat-msg-tbody">
+             </tbody>
+           </table>
+         </div>
+       </div>​
+
+       <p style="clear: both;">&nbsp;</p>
+
+      <div>
+        <form class="lift:Form.ajax?class=inline">
+          <fieldset>
+            <legend>Shout Box:</legend>
+            <div class="span-12">
+              <input id="inp_chat" data-lift="ChatFrontend" class="title" style="width:90%">
+            </div>
+            <div class="span-4 last">
+              <button class="positive" type="submit">Say Something</button>
+            </div>
+          </fieldset>
+        </form>
+      </div>
+
+      <span data-lift="comet?type=ChatBrowserComponent"></span>
+    </div>
+  </body>
+</html>
+
