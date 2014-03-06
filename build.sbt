@@ -38,7 +38,7 @@ libraryDependencies ++= {
     "ch.qos.logback" % "logback-classic" % "1.0.6",
     "org.specs2" %% "specs2" % "1.14" % "test",
     "commons-io" % "commons-io" % "2.3",
-    "org.jsoup" % "jsoup" % "0.2.1b",
+    "org.jsoup" % "jsoup" % "1.7.3",
     "junit" % "junit" % "4.8.2" % "test"
   )
 }
