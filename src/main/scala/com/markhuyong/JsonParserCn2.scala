@@ -8,17 +8,9 @@ import scala._
 import scala.Predef._
 import scala.collection.generic.CanBuildFrom
 
-object JsonParserCn2 extends App with Loggable {
-  val getCurrentDirectory = new java.io.File(".").getCanonicalPath
-  logger.debug(s"CurrentDirectory:${getCurrentDirectory}")
-
+object JsonParserCn2 extends Loggable {
   val fileName = "./src/main/resources/location_chs.json" //allunivlist.json
-//val fileName = "./src/main/resources/allunivlist.json"
-  logger.debug(s"fileName: ${fileName}")
   val lines = scala.io.Source.fromFile(fileName).mkString
-
-  //  System.out.println(lines)
-
   val utf8 = "UTF-8"
 
   /**
@@ -28,15 +20,7 @@ object JsonParserCn2 extends App with Loggable {
 
 
   val outfileName = "./src/main/scala/com/markhuyong/Location_chs.json"
-  logger.debug(s"outfileName: ${outfileName}")
-
-
   implicit val formats = DefaultFormats
-
-  //  case class City(name: String)
-  //  case class State(name: String, citys:City *)
-  //  case class Country(name: String,states: State *)
-  //  case class World(countrys: Country *)
 
   case class Row(key: String, value: String)
 
@@ -48,24 +32,11 @@ object JsonParserCn2 extends App with Loggable {
 
   case class World(world:Row, countries: List[Country])
 
-//  val js = Stringify(Run(jsonstr).toJsCmd).toString()
-//  logger.debug("js:"+js)
-//  val json = parse(jsonstr).asInstanceOf[JObject]
   val json = parse(jsonstr)
   val values = json.values
-//  val res = values match {
-//    case coun: Map[String, _] => logger.debug(s"country_name:${coun.get("n")}"); coun.get("n")
-//    case _ => logger.debug(s"error country"); JNothing
-//  }
 
 //  json
  logger.debug("json1" + json)
-//  val test= json.children.map {
-//    v =>
-//      logger.debug("child=" + v.values)
-//      v.values
-//
-//  }
 
   //get country
   val country_name = "ALA" :: "AFG" :: Nil
@@ -155,14 +126,12 @@ object JsonParserCn2 extends App with Loggable {
   //  getAllCountry
   val globle_key = "n"
   val alajson = parse(alastr)
-//  val alajvalue = JObject(List(JField("ALA",JObject(List(JField(0,JObject(List(JField(0,JObject(List(JField(n,JString())))), JField(n,JString())))), JField(n,JString(奥兰群岛)))))))
 
   logger.debug("alajson:: "+ alajson)
 
   def getAllCountry = alajson match {
     case JObject(cs) => cs map {
       case JField(country_key, JObject(countries)) => {
-        logger.debug("CountryKey:" + country_key)
         countries.map {
           case JField(count_key, JString(country_name)) => logger.debug("CountryName:" + country_name)
           case JField(_, JObject(states)) => {
@@ -196,7 +165,6 @@ object JsonParserCn2 extends App with Loggable {
     }
     case _ => ???
   }
-  getAllCountryName
 
   def getAllCountryName2 = alajson.children map {
       case JField(country_key, JObject(_)) => {
@@ -205,7 +173,6 @@ object JsonParserCn2 extends App with Loggable {
         logger.debug(s"country_key=${c._1}, country_name=${c._2}")
       }
     }
-  getAllCountryName2
 
   def getAllCountryO3 = json match {
     case JObject(cs) => val world = cs collect {
@@ -216,12 +183,10 @@ object JsonParserCn2 extends App with Loggable {
             val state_name = json \ country_key \ state_key \ globle_key values
             val stat = json \ country_key children
 
-            logger.debug(s"country:wo3:${stat  toString}")
             val cities = state collect {
               case JField(city_key,JObject(city)) =>
                 val city_name =  json \ country_key \ state_key \ city_key \ globle_key values
 
-                logger.debug("wo3:city_name:" + city_name)
                  City(Row(city_key, city_name toString))
             }
             State(Row(state_key, state_name toString),cities)
@@ -235,52 +200,14 @@ object JsonParserCn2 extends App with Loggable {
   }
 
   val wo3 = getAllCountryO3
-  logger.debug("wo3:" + wo3)
 
-   val getzl3 = wo3.countries.groupBy(_.country).get(zl)
-
-  logger.debug("getzl3:" + getzl3)
-
-  val getzg3 = wo3.countries.groupBy(_.country).get(zg)
-
-  logger.debug("getzg3:" + getzg3)
-//  def getAllCountryP = getCountry(country_name) map {
-//    case c  =>logger.debug("allparser:" + c)
-//    case _ =>
-//  }
+//   val getzl3 = wo3.countries.groupBy(_.country).get(zl)
 //
-//  getAllCountryP
-
-  //JField(IRN,JObject(List(JField(0,JObject(List(JField(0,JObject(List(JField(n,JString())))), JField(n,JString())))), JField(n,JString(伊朗)))))
-
-  import net.liftweb.json.JsonAST._
-  import net.liftweb.json.Extraction._
-  import net.liftweb.json.Printer._
-
-//    val toJson = compact(render(decompose(json)))
-  //val toJson = decompose(test.head.asInstanceOf[Map[String,_]])
-//  val head = test.head
-//  val toJson = decompose(test.head)
-//  logger.debug("toJson: " + toJson)
-  //  val test = json.children.map {
-  //    cou => cou.children map { s => s.children map { c =>
-  //      logger.debug("child_city=" + c )
-  //      c
-  //    }
-
-  //
-  //    }
-  //
-  //  }
-
-//  logger.debug(s"json: ${json}")
-
-//  logger.debug(s"json.values: ${values}")
-
-  //  case class Fields(country_id: String,(: Double, field3: Boolean)
-
-  //  val result = json.extract[World]
-  //val result = json.extract[Map[String,Country]]
+//  logger.debug("getzl3:" + getzl3)
+//
+//  val getzg3 = wo3.countries.groupBy(_.country).get(zg)
+//
+//  logger.debug("getzg3:" + getzg3)
 
   /**
    * output scala source file
