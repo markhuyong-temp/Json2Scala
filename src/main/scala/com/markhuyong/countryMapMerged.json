@@ -1,0 +1,152 @@
+[
+    {
+        "key": "1",
+        "code": "0",
+        "name": "中国"
+    },
+    {
+        "key": "USA",
+        "code": "7",
+        "name": "美国"
+    },
+    {
+        "key": "CAN",
+        "code": "6",
+        "name": "加拿大"
+    },
+    {
+        "key": "GBR",
+        "code": "5",
+        "name": "英国"
+    },
+    {
+        "key": "AUS",
+        "code": "1",
+        "name": "澳大利亚"
+    },
+    {
+        "key": "FRA",
+        "code": "2",
+        "name": "法国"
+    },
+    {
+        "key": "DEU",
+        "code": "8",
+        "name": "德国"
+    },
+    {
+        "key": "NZL",
+        "code": "4",
+        "name": "新西兰"
+    },
+    {
+        "key": "SGP",
+        "code": "3",
+        "name": "新加坡"
+    },
+    {
+        "key": "KOR",
+        "code": "9",
+        "name": "韩国"
+    },
+    {
+        "key": "RUS",
+        "code": "10",
+        "name": "俄罗斯"
+    },
+    {
+        "key": "JPN",
+        "code": "11",
+        "name": "日本"
+    },
+    {
+        "key": "ITA",
+        "code": "12",
+        "name": "意大利"
+    },
+    {
+        "key": "IRL",
+        "code": "13",
+        "name": "爱尔兰"
+    },
+    {
+        "key": "NLD",
+        "code": "14",
+        "name": "荷兰"
+    },
+    {
+        "key": "MYS",
+        "code": "15",
+        "name": "马来西亚"
+    },
+    {
+        "key": "CHE",
+        "code": "16",
+        "name": "瑞士"
+    },
+    {
+        "key": "THA",
+        "code": "17",
+        "name": "泰国"
+    },
+    {
+        "key": "UKR",
+        "code": "18",
+        "name": "乌克兰"
+    },
+    {
+        "key": "ZAF",
+        "code": "19",
+        "name": "南非"
+    },
+    {
+        "key": "FIN",
+        "code": "20",
+        "name": "芬兰"
+    },
+    {
+        "key": "SWE",
+        "code": "21",
+        "name": "瑞典"
+    },
+    {
+        "key": "ESP",
+        "code": "22",
+        "name": "西班牙"
+    },
+    {
+        "key": "BEL",
+        "code": "23",
+        "name": "比利时"
+    },
+    {
+        "key": "NOR",
+        "code": "24",
+        "name": "挪威"
+    },
+    {
+        "key": "DNK",
+        "code": "25",
+        "name": "丹麦"
+    },
+    {
+        "key": "PHL",
+        "code": "26",
+        "name": "菲律宾"
+    },
+    {
+        "key": "POL",
+        "code": "27",
+        "name": "波兰"
+    },
+    {
+        "key": "IND",
+        "code": "28",
+        "name": "印度"
+    },
+    {
+        "key": "AUT",
+        "code": "29",
+        "name": "奥地利"
+    }
+]
