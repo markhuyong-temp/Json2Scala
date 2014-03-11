@@ -1,0 +1,3750 @@
+[
+    {
+        "univ_name": "北京大学",
+        "univ_url": "http://baike.baidu.com/view/1471.htm"
+    },
+    {
+        "univ_name": "北京信息科技大学",
+        "univ_url": "http://baike.baidu.com/view/23083.htm"
+    },
+    {
+        "univ_name": "北京工商大学",
+        "univ_url": "http://baike.baidu.com/view/5854.htm"
+    },
+    {
+        "univ_name": "北京联合大学",
+        "univ_url": "http://baike.baidu.com/view/7362.htm"
+    },
+    {
+        "univ_name": "北京工业大学",
+        "univ_url": "http://baike.baidu.com/view/4434.htm"
+    },
+    {
+        "univ_name": "北方工业大学",
+        "univ_url": "http://baike.baidu.com/view/22806.htm"
+    },
+    {
+        "univ_name": "首都医科大学",
+        "univ_url": "http://baike.baidu.com/view/22219.htm"
+    },
+    {
+        "univ_name": "首都师范大学",
+        "univ_url": "http://baike.baidu.com/view/9542.htm"
+    },
+    {
+        "univ_name": "首都经济贸易大学",
+        "univ_url": "http://baike.baidu.com/view/22227.htm"
+    },
+    {
+        "univ_name": "北京建筑大学",
+        "univ_url": "http://baike.baidu.com/view/8400377.htm"
+    },
+    {
+        "univ_name": "北京服装学院",
+        "univ_url": "http://baike.baidu.com/view/24945.htm"
+    },
+    {
+        "univ_name": "北京印刷学院",
+        "univ_url": "http://baike.baidu.com/view/15302.htm"
+    },
+    {
+        "univ_name": "北京石油化工学院",
+        "univ_url": "http://baike.baidu.com/view/17370.htm"
+    },
+    {
+        "univ_name": "首钢工学院",
+        "univ_url": "http://baike.baidu.com/view/6834.htm"
+    },
+    {
+        "univ_name": "北京农学院",
+        "univ_url": "http://baike.baidu.com/view/23528.htm"
+    },
+    {
+        "univ_name": "首都体育学院",
+        "univ_url": "http://baike.baidu.com/view/274876.htm"
+    },
+    {
+        "univ_name": "北京第二外国语学院",
+        "univ_url": "http://baike.baidu.com/view/36129.htm"
+    },
+    {
+        "univ_name": "北京物资学院",
+        "univ_url": "http://baike.baidu.com/view/10844.htm"
+    },
+    {
+        "univ_name": "北京警察学院",
+        "univ_url": "http://baike.baidu.com/view/1550327.htm"
+    },
+    {
+        "univ_name": "中国音乐学院",
+        "univ_url": "http://baike.baidu.com/view/47167.htm"
+    },
+    {
+        "univ_name": "北京舞蹈学院",
+        "univ_url": "http://baike.baidu.com/view/80933.htm"
+    },
+    {
+        "univ_name": "北京电影学院",
+        "univ_url": "http://baike.baidu.com/view/8353.htm"
+    },
+    {
+        "univ_name": "中国戏曲学院",
+        "univ_url": "http://baike.baidu.com/view/15347.htm"
+    },
+    {
+        "univ_name": "北京城市学院",
+        "univ_url": "http://baike.baidu.com/view/19175.htm"
+    },
+    {
+        "univ_name": "中国青年政治学院",
+        "univ_url": "http://baike.baidu.com/view/22996.htm"
+    },
+    {
+        "univ_name": "北京电子科技学院",
+        "univ_url": "http://baike.baidu.com/view/23252.htm"
+    },
+    {
+        "univ_name": "中华女子学院",
+        "univ_url": "http://baike.baidu.com/view/9883.htm"
+    },
+    {
+        "univ_name": "中国劳动关系学院",
+        "univ_url": "http://baike.baidu.com/view/6065.htm"
+    },
+    {
+        "univ_name": "北京理工大学",
+        "univ_url": "http://baike.baidu.com/view/2914.htm"
+    },
+    {
+        "univ_name": "北京航空航天大学",
+        "univ_url": "http://baike.baidu.com/view/2928.htm"
+    },
+    {
+        "univ_name": "中国人民公安大学",
+        "univ_url": "http://baike.baidu.com/view/22948.htm"
+    },
+    {
+        "univ_name": "中央民族大学",
+        "univ_url": "http://baike.baidu.com/view/8874.htm"
+    },
+    {
+        "univ_name": "北京体育大学",
+        "univ_url": "http://baike.baidu.com/view/9569.htm"
+    },
+    {
+        "univ_name": "中国人民大学",
+        "univ_url": "http://baike.baidu.com/view/3216.htm"
+    },
+    {
+        "univ_name": "清华大学",
+        "univ_url": "http://baike.baidu.com/view/1563.htm"
+    },
+    {
+        "univ_name": "北京交通大学",
+        "univ_url": "http://baike.baidu.com/view/3398.htm"
+    },
+    {
+        "univ_name": "北京科技大学",
+        "univ_url": "http://baike.baidu.com/view/3113.htm"
+    },
+    {
+        "univ_name": "中国石油大学",
+        "univ_url": "http://baike.baidu.com/view/4920.htm"
+    },
+    {
+        "univ_name": "北京邮电大学",
+        "univ_url": "http://baike.baidu.com/view/3262.htm"
+    },
+    {
+        "univ_name": "华北电力大学",
+        "univ_url": "http://baike.baidu.com/view/6079.htm"
+    },
+    {
+        "univ_name": "北京化工大学",
+        "univ_url": "http://baike.baidu.com/view/4492.htm"
+    },
+    {
+        "univ_name": "中国农业大学",
+        "univ_url": "http://baike.baidu.com/view/4634.htm"
+    },
+    {
+        "univ_name": "北京林业大学",
+        "univ_url": "http://baike.baidu.com/view/8870.htm"
+    },
+    {
+        "univ_name": "北京中医药大学",
+        "univ_url": "http://baike.baidu.com/view/22877.htm"
+    },
+    {
+        "univ_name": "北京师范大学",
+        "univ_url": "http://baike.baidu.com/view/3293.htm"
+    },
+    {
+        "univ_name": "北京外国语大学",
+        "univ_url": "http://baike.baidu.com/view/9374.htm"
+    },
+    {
+        "univ_name": "北京语言大学",
+        "univ_url": "http://baike.baidu.com/view/22187.htm"
+    },
+    {
+        "univ_name": "对外经济贸易大学",
+        "univ_url": "http://baike.baidu.com/view/22667.htm"
+    },
+    {
+        "univ_name": "中央财经大学",
+        "univ_url": "http://baike.baidu.com/view/5826.htm"
+    },
+    {
+        "univ_name": "中国政法大学",
+        "univ_url": "http://baike.baidu.com/view/3237.htm"
+    },
+    {
+        "univ_name": "中国传媒大学",
+        "univ_url": "http://baike.baidu.com/view/6410.htm"
+    },
+    {
+        "univ_name": "国际关系学院",
+        "univ_url": "http://baike.baidu.com/view/63649.htm"
+    },
+    {
+        "univ_name": "中央美术学院",
+        "univ_url": "http://baike.baidu.com/view/8683.htm"
+    },
+    {
+        "univ_name": "中央戏剧学院",
+        "univ_url": "http://baike.baidu.com/view/15261.htm"
+    },
+    {
+        "univ_name": "中央音乐学院",
+        "univ_url": "http://baike.baidu.com/view/4554.htm"
+    },
+    {
+        "univ_name": "外交学院",
+        "univ_url": "http://baike.baidu.com/view/23032.htm"
+    },
+    {
+        "univ_name": "北京协和医学院",
+        "univ_url": "http://baike.baidu.com/view/468852.htm"
+    },
+    {
+        "univ_name": "中国地质大学(北京)",
+        "univ_url": "http://baike.baidu.com/view/412600.htm"
+    },
+    {
+        "univ_name": "中国矿业大学(北京)",
+        "univ_url": "http://baike.baidu.com/view/87735.htm"
+    },
+    {
+        "univ_name": "复旦大学",
+        "univ_url": "http://baike.baidu.com/view/1565.htm"
+    },
+    {
+        "univ_name": "上海大学",
+        "univ_url": "http://baike.baidu.com/view/16054.htm"
+    },
+    {
+        "univ_name": "上海理工大学",
+        "univ_url": "http://baike.baidu.com/view/17817.htm"
+    },
+    {
+        "univ_name": "上海海事大学",
+        "univ_url": "http://baike.baidu.com/view/13808.htm"
+    },
+    {
+        "univ_name": "上海工程技术大学",
+        "univ_url": "http://baike.baidu.com/view/96235.htm"
+    },
+    {
+        "univ_name": "上海海洋大学",
+        "univ_url": "http://baike.baidu.com/view/1495427.htm"
+    },
+    {
+        "univ_name": "上海中医药大学",
+        "univ_url": "http://baike.baidu.com/view/29007.htm"
+    },
+    {
+        "univ_name": "上海师范大学",
+        "univ_url": "http://baike.baidu.com/view/29149.htm"
+    },
+    {
+        "univ_name": "华东政法大学",
+        "univ_url": "http://baike.baidu.com/view/937617.htm"
+    },
+    {
+        "univ_name": "上海政法学院",
+        "univ_url": "http://baike.baidu.com/view/357831.htm"
+    },
+    {
+        "univ_name": "上海应用技术学院",
+        "univ_url": "http://baike.baidu.com/view/96252.htm"
+    },
+    {
+        "univ_name": "上海电力学院",
+        "univ_url": "http://baike.baidu.com/view/140950.htm"
+    },
+    {
+        "univ_name": "上海第二工业大学",
+        "univ_url": "http://baike.baidu.com/view/96232.htm"
+    },
+    {
+        "univ_name": "上海电机学院",
+        "univ_url": "http://baike.baidu.com/view/737682.htm"
+    },
+    {
+        "univ_name": "上海对外经贸大学",
+        "univ_url": "http://baike.baidu.com/view/9248394.htm"
+    },
+    {
+        "univ_name": "上海金融学院",
+        "univ_url": "http://baike.baidu.com/view/28963.htm"
+    },
+    {
+        "univ_name": "上海商学院",
+        "univ_url": "http://baike.baidu.com/view/28891.htm"
+    },
+    {
+        "univ_name": "上海立信会计学院",
+        "univ_url": "http://baike.baidu.com/view/29040.htm"
+    },
+    {
+        "univ_name": "上海体育学院",
+        "univ_url": "http://baike.baidu.com/view/29097.htm"
+    },
+    {
+        "univ_name": "上海音乐学院",
+        "univ_url": "http://baike.baidu.com/view/29053.htm"
+    },
+    {
+        "univ_name": "上海戏剧学院",
+        "univ_url": "http://baike.baidu.com/view/96261.htm"
+    },
+    {
+        "univ_name": "上海建桥学院",
+        "univ_url": "http://baike.baidu.com/view/164345.htm"
+    },
+    {
+        "univ_name": "上海杉达学院",
+        "univ_url": "http://baike.baidu.com/view/164342.htm"
+    },
+    {
+        "univ_name": "上海海关学院",
+        "univ_url": "http://baike.baidu.com/view/936212.htm"
+    },
+    {
+        "univ_name": "同济大学",
+        "univ_url": "http://baike.baidu.com/view/2912.htm"
+    },
+    {
+        "univ_name": "上海交通大学",
+        "univ_url": "http://baike.baidu.com/view/2784.htm"
+    },
+    {
+        "univ_name": "华东理工大学",
+        "univ_url": "http://baike.baidu.com/view/26224.htm"
+    },
+    {
+        "univ_name": "东华大学",
+        "univ_url": "http://baike.baidu.com/view/17410.htm"
+    },
+    {
+        "univ_name": "华东师范大学",
+        "univ_url": "http://baike.baidu.com/view/8835.htm"
+    },
+    {
+        "univ_name": "上海外国语大学",
+        "univ_url": "http://baike.baidu.com/view/32678.htm"
+    },
+    {
+        "univ_name": "上海财经大学",
+        "univ_url": "http://baike.baidu.com/view/29129.htm"
+    },
+    {
+        "univ_name": "上海视觉艺术学院",
+        "univ_url": "http://baike.baidu.com/view/1972449.htm"
+    },
+    {
+        "univ_name": "上海纽约大学",
+        "univ_url": "http://baike.baidu.com/view/5114042.htm"
+    },
+    {
+        "univ_name": "哈尔滨工业大学",
+        "univ_url": "http://baike.baidu.com/view/13897.htm"
+    },
+    {
+        "univ_name": "黑龙江大学",
+        "univ_url": "http://baike.baidu.com/view/5414.htm"
+    },
+    {
+        "univ_name": "哈尔滨理工大学",
+        "univ_url": "http://baike.baidu.com/view/4566.htm"
+    },
+    {
+        "univ_name": "东北农业大学",
+        "univ_url": "http://baike.baidu.com/view/9471.htm"
+    },
+    {
+        "univ_name": "哈尔滨医科大学",
+        "univ_url": "http://baike.baidu.com/view/14422.htm"
+    },
+    {
+        "univ_name": "黑龙江中医药大学",
+        "univ_url": "http://baike.baidu.com/view/14583.htm"
+    },
+    {
+        "univ_name": "哈尔滨师范大学",
+        "univ_url": "http://baike.baidu.com/view/14212.htm"
+    },
+    {
+        "univ_name": "哈尔滨商业大学",
+        "univ_url": "http://baike.baidu.com/view/14179.htm"
+    },
+    {
+        "univ_name": "黑龙江科技大学",
+        "univ_url": "http://baike.baidu.com/view/1869421.htm"
+    },
+    {
+        "univ_name": "黑龙江工程学院",
+        "univ_url": "http://baike.baidu.com/view/14403.htm"
+    },
+    {
+        "univ_name": "哈尔滨学院",
+        "univ_url": "http://baike.baidu.com/view/14663.htm"
+    },
+    {
+        "univ_name": "哈尔滨金融学院",
+        "univ_url": "http://baike.baidu.com/view/3109049.htm"
+    },
+    {
+        "univ_name": "哈尔滨体育学院",
+        "univ_url": "http://baike.baidu.com/view/17653.htm"
+    },
+    {
+        "univ_name": "黑龙江外国语学院",
+        "univ_url": "http://baike.baidu.com/view/5265349.htm"
+    },
+    {
+        "univ_name": "黑龙江东方学院",
+        "univ_url": "http://baike.baidu.com/view/13995.htm"
+    },
+    {
+        "univ_name": "哈尔滨剑桥学院",
+        "univ_url": "http://baike.baidu.com/view/5287481.htm"
+    },
+    {
+        "univ_name": "哈尔滨华德学院",
+        "univ_url": "http://baike.baidu.com/view/5356509.htm"
+    },
+    {
+        "univ_name": "哈尔滨工程大学",
+        "univ_url": "http://baike.baidu.com/view/8988.htm"
+    },
+    {
+        "univ_name": "黑龙江财经学院",
+        "univ_url": "http://baike.baidu.com/view/7979932.htm"
+    },
+    {
+        "univ_name": "哈尔滨石油学院",
+        "univ_url": "http://baike.baidu.com/view/6890139.htm"
+    },
+    {
+        "univ_name": "哈尔滨广厦学院",
+        "univ_url": "http://baike.baidu.com/view/8112294.htm"
+    },
+    {
+        "univ_name": "哈尔滨远东理工学院",
+        "univ_url": "http://baike.baidu.com/view/7926983.htm"
+    },
+    {
+        "univ_name": "齐齐哈尔大学",
+        "univ_url": "http://baike.baidu.com/view/14145.htm"
+    },
+    {
+        "univ_name": "齐齐哈尔医学院",
+        "univ_url": "http://baike.baidu.com/view/44486.htm"
+    },
+    {
+        "univ_name": "齐齐哈尔工程学院",
+        "univ_url": "http://baike.baidu.com/view/5358739.htm"
+    },
+    {
+        "univ_name": "牡丹江医学院",
+        "univ_url": "http://baike.baidu.com/view/14642.htm"
+    },
+    {
+        "univ_name": "牡丹江师范学院",
+        "univ_url": "http://baike.baidu.com/view/14475.htm"
+    },
+    {
+        "univ_name": "东北石油大学",
+        "univ_url": "http://baike.baidu.com/view/1975558.htm"
+    },
+    {
+        "univ_name": "黑龙江八一农垦大学",
+        "univ_url": "http://baike.baidu.com/view/14362.htm"
+    },
+    {
+        "univ_name": "大庆师范学院",
+        "univ_url": "http://baike.baidu.com/view/42419.htm"
+    },
+    {
+        "univ_name": "东北林业大学",
+        "univ_url": "http://baike.baidu.com/view/14101.htm"
+    },
+    {
+        "univ_name": "黑河学院",
+        "univ_url": "http://baike.baidu.com/view/292676.htm"
+    },
+    {
+        "univ_name": "佳木斯大学",
+        "univ_url": "http://baike.baidu.com/view/14284.htm"
+    },
+    {
+        "univ_name": "绥化学院",
+        "univ_url": "http://baike.baidu.com/view/14518.htm"
+    },
+    {
+        "univ_name": "黑龙江工业学院",
+        "univ_url": "http://baike.baidu.com/view/10324948.htm"
+    },
+    {
+        "univ_name": "吉林大学",
+        "univ_url": "http://baike.baidu.com/view/4124.htm"
+    },
+    {
+        "univ_name": "长春大学",
+        "univ_url": "http://baike.baidu.com/view/40221.htm"
+    },
+    {
+        "univ_name": "长春理工大学",
+        "univ_url": "http://baike.baidu.com/view/15299.htm"
+    },
+    {
+        "univ_name": "长春工业大学",
+        "univ_url": "http://baike.baidu.com/view/5534.htm"
+    },
+    {
+        "univ_name": "吉林农业大学",
+        "univ_url": "http://baike.baidu.com/view/26666.htm"
+    },
+    {
+        "univ_name": "长春中医药大学",
+        "univ_url": "http://baike.baidu.com/view/113999.htm"
+    },
+    {
+        "univ_name": "吉林财经大学",
+        "univ_url": "http://baike.baidu.com/view/3108016.htm"
+    },
+    {
+        "univ_name": "长春工程学院",
+        "univ_url": "http://baike.baidu.com/view/5273.htm"
+    },
+    {
+        "univ_name": "吉林建筑大学",
+        "univ_url": "http://baike.baidu.com/view/9202933.htm"
+    },
+    {
+        "univ_name": "吉林工程技术师范学院",
+        "univ_url": "http://baike.baidu.com/view/6105.htm"
+    },
+    {
+        "univ_name": "长春师范大学",
+        "univ_url": "http://baike.baidu.com/view/9749288.htm"
+    },
+    {
+        "univ_name": "吉林工商学院",
+        "univ_url": "http://baike.baidu.com/view/936267.htm"
+    },
+    {
+        "univ_name": "吉林警察学院",
+        "univ_url": "http://baike.baidu.com/view/3109048.htm"
+    },
+    {
+        "univ_name": "吉林体育学院",
+        "univ_url": "http://baike.baidu.com/view/40326.htm"
+    },
+    {
+        "univ_name": "吉林艺术学院",
+        "univ_url": "http://baike.baidu.com/view/490717.htm"
+    },
+    {
+        "univ_name": "长春建筑学院",
+        "univ_url": "http://baike.baidu.com/view/247609.htm"
+    },
+    {
+        "univ_name": "吉林华桥外国语学院",
+        "univ_url": "http://baike.baidu.com/view/392018.htm"
+    },
+    {
+        "univ_name": "吉林动画学院",
+        "univ_url": "http://baike.baidu.com/view/2028383.htm"
+    },
+    {
+        "univ_name": "东北师范大学",
+        "univ_url": "http://baike.baidu.com/view/4249.htm"
+    },
+    {
+        "univ_name": "长春科技学院",
+        "univ_url": "http://baike.baidu.com/view/10373700.htm"
+    },
+    {
+        "univ_name": "长春光华学院",
+        "univ_url": "http://baike.baidu.com/view/10045535.htm"
+    },
+    {
+        "univ_name": "北华大学",
+        "univ_url": "http://baike.baidu.com/view/40365.htm"
+    },
+    {
+        "univ_name": "东北电力大学",
+        "univ_url": "http://baike.baidu.com/view/6083.htm"
+    },
+    {
+        "univ_name": "吉林化工学院",
+        "univ_url": "http://baike.baidu.com/view/26678.htm"
+    },
+    {
+        "univ_name": "吉林农业科技学院",
+        "univ_url": "http://baike.baidu.com/view/409785.htm"
+    },
+    {
+        "univ_name": "吉林医药学院",
+        "univ_url": "http://baike.baidu.com/view/325750.htm"
+    },
+    {
+        "univ_name": "白城师范学院",
+        "univ_url": "http://baike.baidu.com/view/35414.htm"
+    },
+    {
+        "univ_name": "吉林师范大学",
+        "univ_url": "http://baike.baidu.com/view/26652.htm"
+    },
+    {
+        "univ_name": "通化师范学院",
+        "univ_url": "http://baike.baidu.com/view/40353.htm"
+    },
+    {
+        "univ_name": "延边大学",
+        "univ_url": "http://baike.baidu.com/view/26704.htm"
+    },
+    {
+        "univ_name": "大连理工",
+        "univ_url": "http://baike.baidu.com/view/3035.htm"
+    },
+    {
+        "univ_name": "南开大学",
+        "univ_url": "http://baike.baidu.com/view/2967.htm"
+    },
+    {
+        "univ_name": "天津工业大学",
+        "univ_url": "http://baike.baidu.com/view/13512.htm"
+    },
+    {
+        "univ_name": "天津科技大学",
+        "univ_url": "http://baike.baidu.com/view/21179.htm"
+    },
+    {
+        "univ_name": "天津理工大学",
+        "univ_url": "http://baike.baidu.com/view/23459.htm"
+    },
+    {
+        "univ_name": "天津医科大学",
+        "univ_url": "http://baike.baidu.com/view/4385.htm"
+    },
+    {
+        "univ_name": "天津中医药大学",
+        "univ_url": "http://baike.baidu.com/view/23758.htm"
+    },
+    {
+        "univ_name": "天津师范大学",
+        "univ_url": "http://baike.baidu.com/view/7219.htm"
+    },
+    {
+        "univ_name": "天津职业技术师范大学",
+        "univ_url": "http://baike.baidu.com/view/3109026.htm"
+    },
+    {
+        "univ_name": "天津外国语大学",
+        "univ_url": "http://baike.baidu.com/view/415193.htm"
+    },
+    {
+        "univ_name": "天津财经大学",
+        "univ_url": "http://baike.baidu.com/view/6003.htm"
+    },
+    {
+        "univ_name": "天津商业大学",
+        "univ_url": "http://baike.baidu.com/view/936208.htm"
+    },
+    {
+        "univ_name": "天津城建大学",
+        "univ_url": "http://baike.baidu.com/view/9749245.htm"
+    },
+    {
+        "univ_name": "天津农学院",
+        "univ_url": "http://baike.baidu.com/view/23508.htm"
+    },
+    {
+        "univ_name": "天津体育学院",
+        "univ_url": "http://baike.baidu.com/view/23702.htm"
+    },
+    {
+        "univ_name": "天津美术学院",
+        "univ_url": "http://baike.baidu.com/view/4686.htm"
+    },
+    {
+        "univ_name": "天津音乐学院",
+        "univ_url": "http://baike.baidu.com/view/47191.htm"
+    },
+    {
+        "univ_name": "天津天狮学院",
+        "univ_url": "http://baike.baidu.com/view/1545714.htm"
+    },
+    {
+        "univ_name": "中国民航大学",
+        "univ_url": "http://baike.baidu.com/view/419903.htm"
+    },
+    {
+        "univ_name": "天津大学",
+        "univ_url": "http://baike.baidu.com/view/2945.htm"
+    },
+    {
+        "univ_name": "中国科大",
+        "univ_url": "http://baike.baidu.com/view/4522.htm"
+    },
+    {
+        "univ_name": "安徽大学",
+        "univ_url": "http://baike.baidu.com/view/13670.htm"
+    },
+    {
+        "univ_name": "安徽农业大学",
+        "univ_url": "http://baike.baidu.com/view/6910.htm"
+    },
+    {
+        "univ_name": "安徽医科大学",
+        "univ_url": "http://baike.baidu.com/view/42508.htm"
+    },
+    {
+        "univ_name": "安徽建筑大学",
+        "univ_url": "http://baike.baidu.com/view/3537253.htm"
+    },
+    {
+        "univ_name": "安徽中医药大学",
+        "univ_url": "http://baike.baidu.com/view/3289036.htm"
+    },
+    {
+        "univ_name": "合肥师范学院",
+        "univ_url": "http://baike.baidu.com/view/743297.htm"
+    },
+    {
+        "univ_name": "合肥学院",
+        "univ_url": "http://baike.baidu.com/view/10067.htm"
+    },
+    {
+        "univ_name": "安徽文达信息工程学院",
+        "univ_url": "http://baike.baidu.com/view/5356527.htm"
+    },
+    {
+        "univ_name": "安徽外国语学院",
+        "univ_url": "http://baike.baidu.com/view/1175626.htm"
+    },
+    {
+        "univ_name": "安徽新华学院",
+        "univ_url": "http://baike.baidu.com/view/345591.htm"
+    },
+    {
+        "univ_name": "合肥工业大学",
+        "univ_url": "http://baike.baidu.com/view/5712.htm"
+    },
+    {
+        "univ_name": "安徽三联学院",
+        "univ_url": "http://baike.baidu.com/view/1623027.htm"
+    },
+    {
+        "univ_name": "安徽财经大学",
+        "univ_url": "http://baike.baidu.com/view/36204.htm"
+    },
+    {
+        "univ_name": "蚌埠医学院",
+        "univ_url": "http://baike.baidu.com/view/155699.htm"
+    },
+    {
+        "univ_name": "蚌埠学院",
+        "univ_url": "http://baike.baidu.com/view/720293.htm"
+    },
+    {
+        "univ_name": "安徽理工大学",
+        "univ_url": "http://baike.baidu.com/view/42517.htm"
+    },
+    {
+        "univ_name": "淮南师范学院",
+        "univ_url": "http://baike.baidu.com/view/4043.htm"
+    },
+    {
+        "univ_name": "安徽工程大学",
+        "univ_url": "http://baike.baidu.com/view/3105219.htm"
+    },
+    {
+        "univ_name": "安徽师范大学",
+        "univ_url": "http://baike.baidu.com/view/42491.htm"
+    },
+    {
+        "univ_name": "皖南医学院",
+        "univ_url": "http://baike.baidu.com/view/61507.htm"
+    },
+    {
+        "univ_name": "安徽科技学院",
+        "univ_url": "http://baike.baidu.com/view/61582.htm"
+    },
+    {
+        "univ_name": "滁州学院",
+        "univ_url": "http://baike.baidu.com/view/247051.htm"
+    },
+    {
+        "univ_name": "安庆师范学院",
+        "univ_url": "http://baike.baidu.com/view/26115.htm"
+    },
+    {
+        "univ_name": "巢湖学院",
+        "univ_url": "http://baike.baidu.com/view/61573.htm"
+    },
+    {
+        "univ_name": "池州学院",
+        "univ_url": "http://baike.baidu.com/view/23611.htm"
+    },
+    {
+        "univ_name": "阜阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/61599.htm"
+    },
+    {
+        "univ_name": "黄山学院",
+        "univ_url": "http://baike.baidu.com/view/61614.htm"
+    },
+    {
+        "univ_name": "皖西学院",
+        "univ_url": "http://baike.baidu.com/view/61627.htm"
+    },
+    {
+        "univ_name": "安徽工业大学",
+        "univ_url": "http://baike.baidu.com/view/42505.htm"
+    },
+    {
+        "univ_name": "铜陵学院",
+        "univ_url": "http://baike.baidu.com/view/26166.htm"
+    },
+    {
+        "univ_name": "宿州学院",
+        "univ_url": "http://baike.baidu.com/view/61541.htm"
+    },
+    {
+        "univ_name": "淮北师范大学",
+        "univ_url": "http://baike.baidu.com/view/1631246.htm"
+    },
+    {
+        "univ_name": "南京大学",
+        "univ_url": "http://baike.baidu.com/view/3143.htm"
+    },
+    {
+        "univ_name": "南京邮电大学",
+        "univ_url": "http://baike.baidu.com/view/55318.htm"
+    },
+    {
+        "univ_name": "南京工业大学",
+        "univ_url": "http://baike.baidu.com/view/4301.htm"
+    },
+    {
+        "univ_name": "南京林业大学",
+        "univ_url": "http://baike.baidu.com/view/31263.htm"
+    },
+    {
+        "univ_name": "南京医科大学",
+        "univ_url": "http://baike.baidu.com/view/41896.htm"
+    },
+    {
+        "univ_name": "南京中医药大学",
+        "univ_url": "http://baike.baidu.com/view/53647.htm"
+    },
+    {
+        "univ_name": "南京师范大学",
+        "univ_url": "http://baike.baidu.com/view/5192.htm"
+    },
+    {
+        "univ_name": "南京财经大学",
+        "univ_url": "http://baike.baidu.com/view/17015.htm"
+    },
+    {
+        "univ_name": "南京工程学院",
+        "univ_url": "http://baike.baidu.com/view/21609.htm"
+    },
+    {
+        "univ_name": "南京信息工程大学",
+        "univ_url": "http://baike.baidu.com/view/19722.htm"
+    },
+    {
+        "univ_name": "金陵科技学院",
+        "univ_url": "http://baike.baidu.com/view/109306.htm"
+    },
+    {
+        "univ_name": "南京晓庄学院",
+        "univ_url": "http://baike.baidu.com/view/27984.htm"
+    },
+    {
+        "univ_name": "南京审计学院",
+        "univ_url": "http://baike.baidu.com/view/90709.htm"
+    },
+    {
+        "univ_name": "江苏警官学院",
+        "univ_url": "http://baike.baidu.com/view/90764.htm"
+    },
+    {
+        "univ_name": "南京体育学院",
+        "univ_url": "http://baike.baidu.com/view/968189.htm"
+    },
+    {
+        "univ_name": "南京艺术学院",
+        "univ_url": "http://baike.baidu.com/view/90740.htm"
+    },
+    {
+        "univ_name": "三江学院",
+        "univ_url": "http://baike.baidu.com/view/90767.htm"
+    },
+    {
+        "univ_name": "南京理工大学",
+        "univ_url": "http://baike.baidu.com/view/2683.htm"
+    },
+    {
+        "univ_name": "南京航空航天大学",
+        "univ_url": "http://baike.baidu.com/view/5146.htm"
+    },
+    {
+        "univ_name": "南京森林警察学院",
+        "univ_url": "http://baike.baidu.com/view/3235400.htm"
+    },
+    {
+        "univ_name": "东南大学",
+        "univ_url": "http://baike.baidu.com/view/3154.htm"
+    },
+    {
+        "univ_name": "河海大学",
+        "univ_url": "http://baike.baidu.com/view/13748.htm"
+    },
+    {
+        "univ_name": "南京农业大学",
+        "univ_url": "http://baike.baidu.com/view/5954.htm"
+    },
+    {
+        "univ_name": "中国药科大学",
+        "univ_url": "http://baike.baidu.com/view/9831.htm"
+    },
+    {
+        "univ_name": "江苏第二师范学院",
+        "univ_url": "http://baike.baidu.com/view/10327387.htm"
+    },
+    {
+        "univ_name": "中国传媒大学南广学院",
+        "univ_url": "http://baike.baidu.com/view/3813.htm"
+    },
+    {
+        "univ_name": "南京师范大学中北学院",
+        "univ_url": "http://baike.baidu.com/view/200450.htm"
+    },
+    {
+        "univ_name": "南京大学金陵学院",
+        "univ_url": "http://baike.baidu.com/view/247658.htm"
+    },
+    {
+        "univ_name": "东南大学成贤学院",
+        "univ_url": "http://baike.baidu.com/view/247656.htm"
+    },
+    {
+        "univ_name": "南京航空航天大学金城学院",
+        "univ_url": "http://baike.baidu.com/view/247662.htm"
+    },
+    {
+        "univ_name": "南京理工大学紫金学院",
+        "univ_url": "http://baike.baidu.com/view/247661.htm"
+    },
+    {
+        "univ_name": "南京信息工程大学滨江学院",
+        "univ_url": "http://baike.baidu.com/view/247671.htm"
+    },
+    {
+        "univ_name": "南京审计学院金审学院",
+        "univ_url": "http://baike.baidu.com/view/247682.htm"
+    },
+    {
+        "univ_name": "南京工业大学浦江学院",
+        "univ_url": "http://baike.baidu.com/view/247668.htm"
+    },
+    {
+        "univ_name": "南京医科大学康达学院",
+        "univ_url": "http://baike.baidu.com/view/247669.htm"
+    },
+    {
+        "univ_name": "南京邮电大学通达学院",
+        "univ_url": "http://baike.baidu.com/view/247677.htm"
+    },
+    {
+        "univ_name": "南京中医药大学翰林学院",
+        "univ_url": "http://baike.baidu.com/view/247670.htm"
+    },
+    {
+        "univ_name": "南京工程学院康尼学院",
+        "univ_url": "http://baike.baidu.com/view/1795967.htm"
+    },
+    {
+        "univ_name": "南京林业大学南方学院",
+        "univ_url": "http://baike.baidu.com/view/1223422.htm"
+    },
+    {
+        "univ_name": "南京财经大学红山学院",
+        "univ_url": "http://baike.baidu.com/view/247678.htm"
+    },
+    {
+        "univ_name": "南京晓庄学院行知学院",
+        "univ_url": "http://baike.baidu.com/view/852768.htm"
+    },
+    {
+        "univ_name": "中国矿业大学",
+        "univ_url": "http://baike.baidu.com/view/4120.htm"
+    },
+    {
+        "univ_name": "徐州医学院",
+        "univ_url": "http://baike.baidu.com/view/90771.htm"
+    },
+    {
+        "univ_name": "徐州工程学院",
+        "univ_url": "http://baike.baidu.com/view/27576.htm"
+    },
+    {
+        "univ_name": "江苏师范大学",
+        "univ_url": "http://baike.baidu.com/view/667607.htm"
+    },
+    {
+        "univ_name": "中国矿业大学徐海学院",
+        "univ_url": "http://baike.baidu.com/view/247657.htm"
+    },
+    {
+        "univ_name": "江苏师范大学科文学院",
+        "univ_url": "http://baike.baidu.com/view/8206911.htm"
+    },
+    {
+        "univ_name": "徐州医学院华方学院",
+        "univ_url": "http://baike.baidu.com/view/4214052.htm"
+    },
+    {
+        "univ_name": "西交利物浦大学",
+        "univ_url": "http://baike.baidu.com/view/892706.htm"
+    },
+    {
+        "univ_name": "常熟理工学院",
+        "univ_url": "http://baike.baidu.com/view/44458.htm"
+    },
+    {
+        "univ_name": "苏州大学",
+        "univ_url": "http://baike.baidu.com/view/22059.htm"
+    },
+    {
+        "univ_name": "苏州科技学院",
+        "univ_url": "http://baike.baidu.com/view/27967.htm"
+    },
+    {
+        "univ_name": "常熟理工学院虞山学院",
+        "univ_url": "http://baike.baidu.com/view/6968995.htm"
+    },
+    {
+        "univ_name": "苏州大学文正学院",
+        "univ_url": "http://baike.baidu.com/view/247672.htm"
+    },
+    {
+        "univ_name": "苏州科技学院天平学院",
+        "univ_url": "http://baike.baidu.com/view/247674.htm"
+    },
+    {
+        "univ_name": "苏州大学应用技术学院",
+        "univ_url": "http://baike.baidu.com/view/247673.htm"
+    },
+    {
+        "univ_name": "江苏科技大学南徐学院",
+        "univ_url": "http://baike.baidu.com/view/247679.htm"
+    },
+    {
+        "univ_name": "江苏大学",
+        "univ_url": "http://baike.baidu.com/view/45372.htm"
+    },
+    {
+        "univ_name": "江苏科技大学",
+        "univ_url": "http://baike.baidu.com/view/52645.htm"
+    },
+    {
+        "univ_name": "江苏大学京江学院",
+        "univ_url": "http://baike.baidu.com/view/56397.htm"
+    },
+    {
+        "univ_name": "常州大学",
+        "univ_url": "http://baike.baidu.com/view/25069.htm"
+    },
+    {
+        "univ_name": "常州工学院",
+        "univ_url": "http://baike.baidu.com/view/90755.htm"
+    },
+    {
+        "univ_name": "江苏理工学院",
+        "univ_url": "http://baike.baidu.com/view/5287376.htm"
+    },
+    {
+        "univ_name": "常州大学怀德学院",
+        "univ_url": "http://baike.baidu.com/view/3515668.htm"
+    },
+    {
+        "univ_name": "常州工学院延陵学院",
+        "univ_url": "http://baike.baidu.com/view/5345812.htm"
+    },
+    {
+        "univ_name": "江苏理工学院东方学院",
+        "univ_url": "http://baike.baidu.com/view/9846613.htm"
+    },
+    {
+        "univ_name": "盐城工学院",
+        "univ_url": "http://baike.baidu.com/view/90735.htm"
+    },
+    {
+        "univ_name": "盐城师范学院",
+        "univ_url": "http://baike.baidu.com/view/90760.htm"
+    },
+    {
+        "univ_name": "盐城师范学院黄海学院",
+        "univ_url": "http://baike.baidu.com/view/1786460.htm"
+    },
+    {
+        "univ_name": "无锡太湖学院",
+        "univ_url": "http://baike.baidu.com/view/5265413.htm"
+    },
+    {
+        "univ_name": "江南大学",
+        "univ_url": "http://baike.baidu.com/view/9359.htm"
+    },
+    {
+        "univ_name": "淮阴工学院",
+        "univ_url": "http://baike.baidu.com/view/90768.htm"
+    },
+    {
+        "univ_name": "淮阴师范学院",
+        "univ_url": "http://baike.baidu.com/view/90730.htm"
+    },
+    {
+        "univ_name": "淮阴工学院江淮学院",
+        "univ_url": "http://baike.baidu.com/view/9441043.htm"
+    },
+    {
+        "univ_name": "淮阴师范学院文通学院",
+        "univ_url": "http://baike.baidu.com/view/3859729.htm"
+    },
+    {
+        "univ_name": "南通大学",
+        "univ_url": "http://baike.baidu.com/view/17160.htm"
+    },
+    {
+        "univ_name": "南通大学杏林学院",
+        "univ_url": "http://baike.baidu.com/view/247681.htm"
+    },
+    {
+        "univ_name": "淮海工学院",
+        "univ_url": "http://baike.baidu.com/view/27941.htm"
+    },
+    {
+        "univ_name": "淮海工学院东港学院",
+        "univ_url": "http://baike.baidu.com/view/1356005.htm"
+    },
+    {
+        "univ_name": "扬州大学",
+        "univ_url": "http://baike.baidu.com/view/13631.htm"
+    },
+    {
+        "univ_name": "扬州大学广陵学院",
+        "univ_url": "http://baike.baidu.com/view/247675.htm"
+    },
+    {
+        "univ_name": "泰州学院",
+        "univ_url": "http://baike.baidu.com/view/601169.htm"
+    },
+    {
+        "univ_name": "南京理工大学泰州科技学院",
+        "univ_url": "http://baike.baidu.com/view/247665.htm"
+    },
+    {
+        "univ_name": "南京师范大学泰州学院",
+        "univ_url": "http://baike.baidu.com/view/247667.htm"
+    },
+    {
+        "univ_name": "浙江大学",
+        "univ_url": "http://baike.baidu.com/view/2548.htm"
+    },
+    {
+        "univ_name": "浙江工业大学",
+        "univ_url": "http://baike.baidu.com/view/17859.htm"
+    },
+    {
+        "univ_name": "杭州电子科技大学",
+        "univ_url": "http://baike.baidu.com/view/14956.htm"
+    },
+    {
+        "univ_name": "浙江理工大学",
+        "univ_url": "http://baike.baidu.com/view/16589.htm"
+    },
+    {
+        "univ_name": "浙江农林大学",
+        "univ_url": "http://baike.baidu.com/view/2166928.htm"
+    },
+    {
+        "univ_name": "浙江中医药大学",
+        "univ_url": "http://baike.baidu.com/view/251340.htm"
+    },
+    {
+        "univ_name": "杭州师范大学",
+        "univ_url": "http://baike.baidu.com/view/885627.htm"
+    },
+    {
+        "univ_name": "浙江工商大学",
+        "univ_url": "http://baike.baidu.com/view/5210.htm"
+    },
+    {
+        "univ_name": "浙江科技学院",
+        "univ_url": "http://baike.baidu.com/view/16848.htm"
+    },
+    {
+        "univ_name": "中国计量学院",
+        "univ_url": "http://baike.baidu.com/view/16709.htm"
+    },
+    {
+        "univ_name": "浙江传媒学院",
+        "univ_url": "http://baike.baidu.com/view/5860.htm"
+    },
+    {
+        "univ_name": "浙江外国语学院",
+        "univ_url": "http://baike.baidu.com/view/3495879.htm"
+    },
+    {
+        "univ_name": "浙江财经大学",
+        "univ_url": "http://baike.baidu.com/view/2099567.htm"
+    },
+    {
+        "univ_name": "浙江警察学院",
+        "univ_url": "http://baike.baidu.com/view/973285.htm"
+    },
+    {
+        "univ_name": "中国美术学院",
+        "univ_url": "http://baike.baidu.com/view/10839.htm"
+    },
+    {
+        "univ_name": "浙江树人大学",
+        "univ_url": "http://baike.baidu.com/view/14341.htm"
+    },
+    {
+        "univ_name": "浙江水利水电学院",
+        "univ_url": "http://baike.baidu.com/view/681379.htm"
+    },
+    {
+        "univ_name": "浙江农林大学天目学院",
+        "univ_url": "http://baike.baidu.com/view/3544164.htm"
+    },
+    {
+        "univ_name": "中国计量学院现代科技学院",
+        "univ_url": "http://baike.baidu.com/view/247699.htm"
+    },
+    {
+        "univ_name": "浙江工商大学杭州商学院",
+        "univ_url": "http://baike.baidu.com/view/247698.htm"
+    },
+    {
+        "univ_name": "浙江大学城市学院",
+        "univ_url": "http://baike.baidu.com/view/7146.htm"
+    },
+    {
+        "univ_name": "浙江财经大学东方学院",
+        "univ_url": "http://baike.baidu.com/view/10673422.htm"
+    },
+    {
+        "univ_name": "杭州师范大学钱江学院",
+        "univ_url": "http://baike.baidu.com/view/1202219.htm"
+    },
+    {
+        "univ_name": "杭州电子科技大学信息工程学院",
+        "univ_url": "http://baike.baidu.com/view/247685.htm"
+    },
+    {
+        "univ_name": "浙江工业大学之江学院",
+        "univ_url": "http://baike.baidu.com/view/247683.htm"
+    },
+    {
+        "univ_name": "浙江理工大学科技与艺术学院",
+        "univ_url": "http://baike.baidu.com/view/247686.htm"
+    },
+    {
+        "univ_name": "浙江中医药大学滨江学院",
+        "univ_url": "http://baike.baidu.com/view/247693.htm"
+    },
+    {
+        "univ_name": "公安海警学院",
+        "univ_url": "http://baike.baidu.com/view/753056.htm"
+    },
+    {
+        "univ_name": "宁波大学",
+        "univ_url": "http://baike.baidu.com/view/16692.htm"
+    },
+    {
+        "univ_name": "宁波工程学院",
+        "univ_url": "http://baike.baidu.com/view/178280.htm"
+    },
+    {
+        "univ_name": "浙江万里学院",
+        "univ_url": "http://baike.baidu.com/view/178278.htm"
+    },
+    {
+        "univ_name": "宁波诺丁汉大学",
+        "univ_url": "http://baike.baidu.com/view/112331.htm"
+    },
+    {
+        "univ_name": "宁波大红鹰学院",
+        "univ_url": "http://baike.baidu.com/view/1621373.htm"
+    },
+    {
+        "univ_name": "宁波大学科学技术学院",
+        "univ_url": "http://baike.baidu.com/view/103661.htm"
+    },
+    {
+        "univ_name": "浙江大学宁波理工学院",
+        "univ_url": "http://baike.baidu.com/view/64030.htm"
+    },
+    {
+        "univ_name": "温州医科大学",
+        "univ_url": "http://baike.baidu.com/view/9792151.htm"
+    },
+    {
+        "univ_name": "温州大学",
+        "univ_url": "http://baike.baidu.com/view/54133.htm"
+    },
+    {
+        "univ_name": "温州大学瓯江学院",
+        "univ_url": "http://baike.baidu.com/view/247697.htm"
+    },
+    {
+        "univ_name": "温州大学城市学院",
+        "univ_url": "http://baike.baidu.com/view/247704.htm"
+    },
+    {
+        "univ_name": "湖州师范学院",
+        "univ_url": "http://baike.baidu.com/view/200280.htm"
+    },
+    {
+        "univ_name": "湖州师范学院求真学院",
+        "univ_url": "http://baike.baidu.com/view/247695.htm"
+    },
+    {
+        "univ_name": "丽水学院",
+        "univ_url": "http://baike.baidu.com/view/73697.htm"
+    },
+    {
+        "univ_name": "嘉兴学院",
+        "univ_url": "http://baike.baidu.com/view/16842.htm"
+    },
+    {
+        "univ_name": "嘉兴学院南湖学院",
+        "univ_url": "http://baike.baidu.com/view/247702.htm"
+    },
+    {
+        "univ_name": "同济大学浙江学院",
+        "univ_url": "http://baike.baidu.com/view/388814.htm"
+    },
+    {
+        "univ_name": "浙江师范大学",
+        "univ_url": "http://baike.baidu.com/view/16724.htm"
+    },
+    {
+        "univ_name": "浙江师范大学行知学院",
+        "univ_url": "http://baike.baidu.com/view/247684.htm"
+    },
+    {
+        "univ_name": "上海财经大学浙江学院",
+        "univ_url": "http://baike.baidu.com/view/1937150.htm"
+    },
+    {
+        "univ_name": "浙江越秀外国语学院",
+        "univ_url": "http://baike.baidu.com/view/1458963.htm"
+    },
+    {
+        "univ_name": "绍兴文理学院",
+        "univ_url": "http://baike.baidu.com/view/16806.htm"
+    },
+    {
+        "univ_name": "绍兴文理学院元培学院",
+        "univ_url": "http://baike.baidu.com/view/247696.htm"
+    },
+    {
+        "univ_name": "衢州学院",
+        "univ_url": "http://baike.baidu.com/view/2603646.htm"
+    },
+    {
+        "univ_name": "浙江海洋学院",
+        "univ_url": "http://baike.baidu.com/view/16853.htm"
+    },
+    {
+        "univ_name": "浙江海洋学院东海科学技术学院",
+        "univ_url": "http://baike.baidu.com/view/247687.htm"
+    },
+    {
+        "univ_name": "台州学院",
+        "univ_url": "http://baike.baidu.com/view/32881.htm"
+    },
+    {
+        "univ_name": "西安交大",
+        "univ_url": "http://baike.baidu.com/view/6510.htm"
+    },
+    {
+        "univ_name": "武汉大学",
+        "univ_url": "http://baike.baidu.com/view/1264.htm"
+    },
+    {
+        "univ_name": "湖北大学",
+        "univ_url": "http://baike.baidu.com/view/2604.htm"
+    },
+    {
+        "univ_name": "武汉科技大学",
+        "univ_url": "http://baike.baidu.com/view/4582.htm"
+    },
+    {
+        "univ_name": "湖北工业大学",
+        "univ_url": "http://baike.baidu.com/view/8963.htm"
+    },
+    {
+        "univ_name": "武汉工程大学",
+        "univ_url": "http://baike.baidu.com/view/24358.htm"
+    },
+    {
+        "univ_name": "武汉纺织大学",
+        "univ_url": "http://baike.baidu.com/view/2299714.htm"
+    },
+    {
+        "univ_name": "湖北中医药大学",
+        "univ_url": "http://baike.baidu.com/view/538549.htm"
+    },
+    {
+        "univ_name": "武汉轻工大学",
+        "univ_url": "http://baike.baidu.com/view/9685161.htm"
+    },
+    {
+        "univ_name": "湖北第二师范学院",
+        "univ_url": "http://baike.baidu.com/view/799622.htm"
+    },
+    {
+        "univ_name": "湖北经济学院",
+        "univ_url": "http://baike.baidu.com/view/27211.htm"
+    },
+    {
+        "univ_name": "湖北警官学院",
+        "univ_url": "http://baike.baidu.com/view/32400.htm"
+    },
+    {
+        "univ_name": "武汉体育学院",
+        "univ_url": "http://baike.baidu.com/view/591406.htm"
+    },
+    {
+        "univ_name": "湖北美术学院",
+        "univ_url": "http://baike.baidu.com/view/10555.htm"
+    },
+    {
+        "univ_name": "武汉音乐学院",
+        "univ_url": "http://baike.baidu.com/view/47180.htm"
+    },
+    {
+        "univ_name": "武昌理工学院",
+        "univ_url": "http://baike.baidu.com/view/5731319.htm"
+    },
+    {
+        "univ_name": "武汉长江工商学院",
+        "univ_url": "http://baike.baidu.com/view/5356517.htm"
+    },
+    {
+        "univ_name": "武汉生物工程学院",
+        "univ_url": "http://baike.baidu.com/view/164428.htm"
+    },
+    {
+        "univ_name": "武汉东湖学院",
+        "univ_url": "http://baike.baidu.com/view/5265450.htm"
+    },
+    {
+        "univ_name": "汉口学院",
+        "univ_url": "http://baike.baidu.com/view/5265494.htm"
+    },
+    {
+        "univ_name": "中南民族大学",
+        "univ_url": "http://baike.baidu.com/view/29167.htm"
+    },
+    {
+        "univ_name": "中南财经政法大学",
+        "univ_url": "http://baike.baidu.com/view/16375.htm"
+    },
+    {
+        "univ_name": "华中科技大学",
+        "univ_url": "http://baike.baidu.com/view/4497.htm"
+    },
+    {
+        "univ_name": "武汉理工大学",
+        "univ_url": "http://baike.baidu.com/view/4540.htm"
+    },
+    {
+        "univ_name": "中国地质大学",
+        "univ_url": "http://baike.baidu.com/view/9848.htm"
+    },
+    {
+        "univ_name": "华中农业大学",
+        "univ_url": "http://baike.baidu.com/view/7507.htm"
+    },
+    {
+        "univ_name": "华中师范大学",
+        "univ_url": "http://baike.baidu.com/view/4516.htm"
+    },
+    {
+        "univ_name": "武昌工学院",
+        "univ_url": "http://baike.baidu.com/view/8045779.htm"
+    },
+    {
+        "univ_name": "武汉商学院",
+        "univ_url": "http://baike.baidu.com/view/5333492.htm"
+    },
+    {
+        "univ_name": "江汉大学",
+        "univ_url": "http://baike.baidu.com/view/17504.htm"
+    },
+    {
+        "univ_name": "湖北师范学院",
+        "univ_url": "http://baike.baidu.com/view/52948.htm"
+    },
+    {
+        "univ_name": "湖北理工学院",
+        "univ_url": "http://baike.baidu.com/view/2496013.htm"
+    },
+    {
+        "univ_name": "湖北汽车工业学院",
+        "univ_url": "http://baike.baidu.com/view/89585.htm"
+    },
+    {
+        "univ_name": "湖北医药学院",
+        "univ_url": "http://baike.baidu.com/view/3449860.htm"
+    },
+    {
+        "univ_name": "湖北民族学院",
+        "univ_url": "http://baike.baidu.com/view/53104.htm"
+    },
+    {
+        "univ_name": "黄冈师范学院",
+        "univ_url": "http://baike.baidu.com/view/143764.htm"
+    },
+    {
+        "univ_name": "荆楚理工学院",
+        "univ_url": "http://baike.baidu.com/view/825138.htm"
+    },
+    {
+        "univ_name": "长江大学",
+        "univ_url": "http://baike.baidu.com/view/22075.htm"
+    },
+    {
+        "univ_name": "三峡大学",
+        "univ_url": "http://baike.baidu.com/view/5016.htm"
+    },
+    {
+        "univ_name": "湖北工程学院",
+        "univ_url": "http://baike.baidu.com/view/8324005.htm"
+    },
+    {
+        "univ_name": "湖北文理学院",
+        "univ_url": "http://baike.baidu.com/view/7446450.htm"
+    },
+    {
+        "univ_name": "湖北科技学院",
+        "univ_url": "http://baike.baidu.com/view/4375482.htm"
+    },
+    {
+        "univ_name": "华南理工大学",
+        "univ_url": "http://baike.baidu.com/view/2971.htm"
+    },
+    {
+        "univ_name": "广东工业大学",
+        "univ_url": "http://baike.baidu.com/view/17383.htm"
+    },
+    {
+        "univ_name": "华南农业大学",
+        "univ_url": "http://baike.baidu.com/view/21205.htm"
+    },
+    {
+        "univ_name": "广州中医药大学",
+        "univ_url": "http://baike.baidu.com/view/109159.htm"
+    },
+    {
+        "univ_name": "南方医科大学",
+        "univ_url": "http://baike.baidu.com/view/9274.htm"
+    },
+    {
+        "univ_name": "华南师范大学",
+        "univ_url": "http://baike.baidu.com/view/17544.htm"
+    },
+    {
+        "univ_name": "广东外语外贸大学",
+        "univ_url": "http://baike.baidu.com/view/21224.htm"
+    },
+    {
+        "univ_name": "广州大学",
+        "univ_url": "http://baike.baidu.com/view/21247.htm"
+    },
+    {
+        "univ_name": "仲恺农业工程学院",
+        "univ_url": "http://baike.baidu.com/view/1531218.htm"
+    },
+    {
+        "univ_name": "广东药学院",
+        "univ_url": "http://baike.baidu.com/view/209760.htm"
+    },
+    {
+        "univ_name": "广东第二师范学院",
+        "univ_url": "http://baike.baidu.com/view/3234848.htm"
+    },
+    {
+        "univ_name": "广东金融学院",
+        "univ_url": "http://baike.baidu.com/view/117864.htm"
+    },
+    {
+        "univ_name": "广东商学院",
+        "univ_url": "http://baike.baidu.com/view/106616.htm"
+    },
+    {
+        "univ_name": "广东警官学院",
+        "univ_url": "http://baike.baidu.com/view/206506.htm"
+    },
+    {
+        "univ_name": "广州体育学院",
+        "univ_url": "http://baike.baidu.com/view/109183.htm"
+    },
+    {
+        "univ_name": "广州美术学院",
+        "univ_url": "http://baike.baidu.com/view/10974.htm"
+    },
+    {
+        "univ_name": "星海音乐学院",
+        "univ_url": "http://baike.baidu.com/view/47211.htm"
+    },
+    {
+        "univ_name": "广东技术师范学院",
+        "univ_url": "http://baike.baidu.com/view/209741.htm"
+    },
+    {
+        "univ_name": "广东培正学院",
+        "univ_url": "http://baike.baidu.com/view/164529.htm"
+    },
+    {
+        "univ_name": "广东白云学院",
+        "univ_url": "http://baike.baidu.com/view/164534.htm"
+    },
+    {
+        "univ_name": "暨南大学",
+        "univ_url": "http://baike.baidu.com/view/4140.htm"
+    },
+    {
+        "univ_name": "中山大学",
+        "univ_url": "http://baike.baidu.com/view/4809.htm"
+    },
+    {
+        "univ_name": "广州航海学院",
+        "univ_url": "http://baike.baidu.com/view/10314555.htm"
+    },
+    {
+        "univ_name": "广州医科大学",
+        "univ_url": "http://baike.baidu.com/view/9993216.htm"
+    },
+    {
+        "univ_name": "北京师范大学-香港浸会大学联合国际学院",
+        "univ_url": "http://baike.baidu.com/view/9458269.htm"
+    },
+    {
+        "univ_name": "深圳大学",
+        "univ_url": "http://baike.baidu.com/view/22064.htm"
+    },
+    {
+        "univ_name": "南方科技大学",
+        "univ_url": "http://baike.baidu.com/view/1215910.htm"
+    },
+    {
+        "univ_name": "东莞理工学院",
+        "univ_url": "http://baike.baidu.com/view/124113.htm"
+    },
+    {
+        "univ_name": "广东科技学院",
+        "univ_url": "http://baike.baidu.com/view/5195027.htm"
+    },
+    {
+        "univ_name": "广东海洋大学",
+        "univ_url": "http://baike.baidu.com/view/24319.htm"
+    },
+    {
+        "univ_name": "广东医学院",
+        "univ_url": "http://baike.baidu.com/view/58237.htm"
+    },
+    {
+        "univ_name": "湛江师范学院",
+        "univ_url": "http://baike.baidu.com/view/117817.htm"
+    },
+    {
+        "univ_name": "韩山师范学院",
+        "univ_url": "http://baike.baidu.com/view/109128.htm"
+    },
+    {
+        "univ_name": "佛山科学技术学院",
+        "univ_url": "http://baike.baidu.com/view/41447.htm"
+    },
+    {
+        "univ_name": "五邑大学",
+        "univ_url": "http://baike.baidu.com/view/15306.htm"
+    },
+    {
+        "univ_name": "广东石油化工学院",
+        "univ_url": "http://baike.baidu.com/view/3648982.htm"
+    },
+    {
+        "univ_name": "嘉应学院",
+        "univ_url": "http://baike.baidu.com/view/40207.htm"
+    },
+    {
+        "univ_name": "汕头大学",
+        "univ_url": "http://baike.baidu.com/view/3426.htm"
+    },
+    {
+        "univ_name": "韶关学院",
+        "univ_url": "http://baike.baidu.com/view/117911.htm"
+    },
+    {
+        "univ_name": "肇庆学院",
+        "univ_url": "http://baike.baidu.com/view/117906.htm"
+    },
+    {
+        "univ_name": "惠州学院",
+        "univ_url": "http://baike.baidu.com/view/130293.htm"
+    },
+    {
+        "univ_name": "中南大学",
+        "univ_url": "http://baike.baidu.com/view/3522.htm"
+    },
+    {
+        "univ_name": "长沙理工大学",
+        "univ_url": "http://baike.baidu.com/view/39665.htm"
+    },
+    {
+        "univ_name": "湖南农业大学",
+        "univ_url": "http://baike.baidu.com/view/45239.htm"
+    },
+    {
+        "univ_name": "湖南中医药大学",
+        "univ_url": "http://baike.baidu.com/view/390987.htm"
+    },
+    {
+        "univ_name": "湖南师范大学",
+        "univ_url": "http://baike.baidu.com/view/4355.htm"
+    },
+    {
+        "univ_name": "长沙学院",
+        "univ_url": "http://baike.baidu.com/view/420327.htm"
+    },
+    {
+        "univ_name": "湖南第一师范学院",
+        "univ_url": "http://baike.baidu.com/view/1646195.htm"
+    },
+    {
+        "univ_name": "湖南财政经济学院",
+        "univ_url": "http://baike.baidu.com/view/3189343.htm"
+    },
+    {
+        "univ_name": "湖南商学院",
+        "univ_url": "http://baike.baidu.com/view/23543.htm"
+    },
+    {
+        "univ_name": "湖南警察学院",
+        "univ_url": "http://baike.baidu.com/view/3233578.htm"
+    },
+    {
+        "univ_name": "湖南女子学院",
+        "univ_url": "http://baike.baidu.com/view/3233573.htm"
+    },
+    {
+        "univ_name": "湖南涉外经济学院",
+        "univ_url": "http://baike.baidu.com/view/198987.htm"
+    },
+    {
+        "univ_name": "湖南大学",
+        "univ_url": "http://baike.baidu.com/view/5646.htm"
+    },
+    {
+        "univ_name": "中南林业科技大学",
+        "univ_url": "http://baike.baidu.com/view/4681.htm"
+    },
+    {
+        "univ_name": "长沙师范学院",
+        "univ_url": "http://baike.baidu.com/view/10314631.htm"
+    },
+    {
+        "univ_name": "南华大学",
+        "univ_url": "http://baike.baidu.com/view/21560.htm"
+    },
+    {
+        "univ_name": "湖南工学院",
+        "univ_url": "http://baike.baidu.com/view/200410.htm"
+    },
+    {
+        "univ_name": "衡阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/8993.htm"
+    },
+    {
+        "univ_name": "长沙医学院",
+        "univ_url": "http://baike.baidu.com/view/255140.htm"
+    },
+    {
+        "univ_name": "湘潭大学",
+        "univ_url": "http://baike.baidu.com/view/9633.htm"
+    },
+    {
+        "univ_name": "湖南科技大学",
+        "univ_url": "http://baike.baidu.com/view/7802.htm"
+    },
+    {
+        "univ_name": "湖南工程学院",
+        "univ_url": "http://baike.baidu.com/view/235365.htm"
+    },
+    {
+        "univ_name": "湖南文理学院",
+        "univ_url": "http://baike.baidu.com/view/14130.htm"
+    },
+    {
+        "univ_name": "湘南学院",
+        "univ_url": "http://baike.baidu.com/view/165050.htm"
+    },
+    {
+        "univ_name": "怀化学院",
+        "univ_url": "http://baike.baidu.com/view/515790.htm"
+    },
+    {
+        "univ_name": "吉首大学",
+        "univ_url": "http://baike.baidu.com/view/45231.htm"
+    },
+    {
+        "univ_name": "湖南人文科技学院",
+        "univ_url": "http://baike.baidu.com/view/21675.htm"
+    },
+    {
+        "univ_name": "邵阳学院",
+        "univ_url": "http://baike.baidu.com/view/20602.htm"
+    },
+    {
+        "univ_name": "湖南城市学院",
+        "univ_url": "http://baike.baidu.com/view/287749.htm"
+    },
+    {
+        "univ_name": "湖南科技学院",
+        "univ_url": "http://baike.baidu.com/view/16997.htm"
+    },
+    {
+        "univ_name": "湖南理工学院",
+        "univ_url": "http://baike.baidu.com/view/38868.htm"
+    },
+    {
+        "univ_name": "湖南工业大学",
+        "univ_url": "http://baike.baidu.com/view/48062.htm"
+    },
+    {
+        "univ_name": "兰州大学",
+        "univ_url": "http://baike.baidu.com/view/4626.htm"
+    },
+    {
+        "univ_name": "兰州理工大学",
+        "univ_url": "http://baike.baidu.com/view/19712.htm"
+    },
+    {
+        "univ_name": "兰州交通大学",
+        "univ_url": "http://baike.baidu.com/view/15879.htm"
+    },
+    {
+        "univ_name": "甘肃农业大学",
+        "univ_url": "http://baike.baidu.com/view/16987.htm"
+    },
+    {
+        "univ_name": "西北师范大学",
+        "univ_url": "http://baike.baidu.com/view/20833.htm"
+    },
+    {
+        "univ_name": "甘肃中医学院",
+        "univ_url": "http://baike.baidu.com/view/44594.htm"
+    },
+    {
+        "univ_name": "兰州商学院",
+        "univ_url": "http://baike.baidu.com/view/29061.htm"
+    },
+    {
+        "univ_name": "甘肃政法学院",
+        "univ_url": "http://baike.baidu.com/view/15786.htm"
+    },
+    {
+        "univ_name": "兰州城市学院",
+        "univ_url": "http://baike.baidu.com/view/113455.htm"
+    },
+    {
+        "univ_name": "西北民族大学",
+        "univ_url": "http://baike.baidu.com/view/96379.htm"
+    },
+    {
+        "univ_name": "兰州理工大学技术工程学院",
+        "univ_url": "http://baike.baidu.com/view/218904.htm"
+    },
+    {
+        "univ_name": "西北师范大学知行学院",
+        "univ_url": "http://baike.baidu.com/view/218908.htm"
+    },
+    {
+        "univ_name": "兰州商学院长青学院",
+        "univ_url": "http://baike.baidu.com/view/124128.htm"
+    },
+    {
+        "univ_name": "兰州交通大学博文学院",
+        "univ_url": "http://baike.baidu.com/view/218905.htm"
+    },
+    {
+        "univ_name": "兰州工业学院",
+        "univ_url": "http://baike.baidu.com/view/8128037.htm"
+    },
+    {
+        "univ_name": "兰州文理学院",
+        "univ_url": "http://baike.baidu.com/view/5044575.htm"
+    },
+    {
+        "univ_name": "甘肃民族师范学院",
+        "univ_url": "http://baike.baidu.com/view/2191670.htm"
+    },
+    {
+        "univ_name": "天水师范学院",
+        "univ_url": "http://baike.baidu.com/view/44653.htm"
+    },
+    {
+        "univ_name": "陇东学院",
+        "univ_url": "http://baike.baidu.com/view/42461.htm"
+    },
+    {
+        "univ_name": "河西学院",
+        "univ_url": "http://baike.baidu.com/view/44666.htm"
+    },
+    {
+        "univ_name": "四川大学",
+        "univ_url": "http://baike.baidu.com/view/4517.htm"
+    },
+    {
+        "univ_name": "成都理工大学",
+        "univ_url": "http://baike.baidu.com/view/5156.htm"
+    },
+    {
+        "univ_name": "西华大学",
+        "univ_url": "http://baike.baidu.com/view/4661.htm"
+    },
+    {
+        "univ_name": "成都中医药大学",
+        "univ_url": "http://baike.baidu.com/view/4590.htm"
+    },
+    {
+        "univ_name": "四川师范大学",
+        "univ_url": "http://baike.baidu.com/view/5284.htm"
+    },
+    {
+        "univ_name": "成都信息工程学院",
+        "univ_url": "http://baike.baidu.com/view/4372.htm"
+    },
+    {
+        "univ_name": "成都医学院",
+        "univ_url": "http://baike.baidu.com/view/7267.htm"
+    },
+    {
+        "univ_name": "成都体育学院",
+        "univ_url": "http://baike.baidu.com/view/5581.htm"
+    },
+    {
+        "univ_name": "四川音乐学院",
+        "univ_url": "http://baike.baidu.com/view/5791.htm"
+    },
+    {
+        "univ_name": "成都学院",
+        "univ_url": "http://baike.baidu.com/view/4778.htm"
+    },
+    {
+        "univ_name": "成都东软学院",
+        "univ_url": "http://baike.baidu.com/view/5356533.htm"
+    },
+    {
+        "univ_name": "西南民族大学",
+        "univ_url": "http://baike.baidu.com/view/5236.htm"
+    },
+    {
+        "univ_name": "西南交通大学",
+        "univ_url": "http://baike.baidu.com/view/4877.htm"
+    },
+    {
+        "univ_name": "电子科技大学",
+        "univ_url": "http://baike.baidu.com/view/4733.htm"
+    },
+    {
+        "univ_name": "西南财经大学",
+        "univ_url": "http://baike.baidu.com/view/4906.htm"
+    },
+    {
+        "univ_name": "成都师范学院",
+        "univ_url": "http://baike.baidu.com/view/1968962.htm"
+    },
+    {
+        "univ_name": "成都工业学院",
+        "univ_url": "http://baike.baidu.com/view/6315501.htm"
+    },
+    {
+        "univ_name": "四川传媒学院",
+        "univ_url": "http://baike.baidu.com/view/4624704.htm"
+    },
+    {
+        "univ_name": "四川旅游学院",
+        "univ_url": "http://baike.baidu.com/view/691220.htm"
+    },
+    {
+        "univ_name": "西华师范大学",
+        "univ_url": "http://baike.baidu.com/view/5493.htm"
+    },
+    {
+        "univ_name": "西南石油大学",
+        "univ_url": "http://baike.baidu.com/view/5888.htm"
+    },
+    {
+        "univ_name": "川北医学院",
+        "univ_url": "http://baike.baidu.com/view/5746.htm"
+    },
+    {
+        "univ_name": "西南科技大学",
+        "univ_url": "http://baike.baidu.com/view/4354.htm"
+    },
+    {
+        "univ_name": "绵阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/32488.htm"
+    },
+    {
+        "univ_name": "四川文理学院",
+        "univ_url": "http://baike.baidu.com/view/883470.htm"
+    },
+    {
+        "univ_name": "四川民族学院",
+        "univ_url": "http://baike.baidu.com/view/2189049.htm"
+    },
+    {
+        "univ_name": "中国民用航空飞行学院",
+        "univ_url": "http://baike.baidu.com/view/1053067.htm"
+    },
+    {
+        "univ_name": "乐山师范学院",
+        "univ_url": "http://baike.baidu.com/view/45309.htm"
+    },
+    {
+        "univ_name": "泸州医学院",
+        "univ_url": "http://baike.baidu.com/view/5682.htm"
+    },
+    {
+        "univ_name": "四川警察学院",
+        "univ_url": "http://baike.baidu.com/view/317691.htm"
+    },
+    {
+        "univ_name": "内江师范学院",
+        "univ_url": "http://baike.baidu.com/view/66314.htm"
+    },
+    {
+        "univ_name": "攀枝花学院",
+        "univ_url": "http://baike.baidu.com/view/377454.htm"
+    },
+    {
+        "univ_name": "西昌学院",
+        "univ_url": "http://baike.baidu.com/view/439899.htm"
+    },
+    {
+        "univ_name": "四川农业大学",
+        "univ_url": "http://baike.baidu.com/view/4895.htm"
+    },
+    {
+        "univ_name": "宜宾学院",
+        "univ_url": "http://baike.baidu.com/view/4832.htm"
+    },
+    {
+        "univ_name": "四川理工学院",
+        "univ_url": "http://baike.baidu.com/view/5321.htm"
+    },
+    {
+        "univ_name": "山东大学",
+        "univ_url": "http://baike.baidu.com/view/2227.htm"
+    },
+    {
+        "univ_name": "济南大学",
+        "univ_url": "http://baike.baidu.com/view/10503.htm"
+    },
+    {
+        "univ_name": "山东建筑大学",
+        "univ_url": "http://baike.baidu.com/view/7162.htm"
+    },
+    {
+        "univ_name": "山东中医药大学",
+        "univ_url": "http://baike.baidu.com/view/47971.htm"
+    },
+    {
+        "univ_name": "山东师范大学",
+        "univ_url": "http://baike.baidu.com/view/19100.htm"
+    },
+    {
+        "univ_name": "山东交通学院",
+        "univ_url": "http://baike.baidu.com/view/68595.htm"
+    },
+    {
+        "univ_name": "齐鲁师范学院",
+        "univ_url": "http://baike.baidu.com/view/3189182.htm"
+    },
+    {
+        "univ_name": "山东财经大学",
+        "univ_url": "http://baike.baidu.com/view/459999.htm"
+    },
+    {
+        "univ_name": "山东警察学院",
+        "univ_url": "http://baike.baidu.com/view/23503.htm"
+    },
+    {
+        "univ_name": "山东青年政治学院",
+        "univ_url": "http://baike.baidu.com/view/3231036.htm"
+    },
+    {
+        "univ_name": "山东政法学院",
+        "univ_url": "http://baike.baidu.com/view/105703.htm"
+    },
+    {
+        "univ_name": "山东体育学院",
+        "univ_url": "http://baike.baidu.com/view/155921.htm"
+    },
+    {
+        "univ_name": "山东艺术学院",
+        "univ_url": "http://baike.baidu.com/view/68606.htm"
+    },
+    {
+        "univ_name": "山东工艺美术学院",
+        "univ_url": "http://baike.baidu.com/view/29114.htm"
+    },
+    {
+        "univ_name": "山东女子学院",
+        "univ_url": "http://baike.baidu.com/view/3207404.htm"
+    },
+    {
+        "univ_name": "山东英才学院",
+        "univ_url": "http://baike.baidu.com/view/1572167.htm"
+    },
+    {
+        "univ_name": "山东协和学院",
+        "univ_url": "http://baike.baidu.com/view/449246.htm"
+    },
+    {
+        "univ_name": "山东管理学院",
+        "univ_url": "http://baike.baidu.com/view/10048391.htm"
+    },
+    {
+        "univ_name": "山东农业工程学院",
+        "univ_url": "http://baike.baidu.com/view/9986819.htm"
+    },
+    {
+        "univ_name": "齐鲁工业大学",
+        "univ_url": "http://baike.baidu.com/view/6915400.htm"
+    },
+    {
+        "univ_name": "青岛大学",
+        "univ_url": "http://baike.baidu.com/view/8823.htm"
+    },
+    {
+        "univ_name": "山东科技大学",
+        "univ_url": "http://baike.baidu.com/view/4415.htm"
+    },
+    {
+        "univ_name": "青岛科技大学",
+        "univ_url": "http://baike.baidu.com/view/18706.htm"
+    },
+    {
+        "univ_name": "青岛理工大学",
+        "univ_url": "http://baike.baidu.com/view/23692.htm"
+    },
+    {
+        "univ_name": "青岛农业大学",
+        "univ_url": "http://baike.baidu.com/view/766785.htm"
+    },
+    {
+        "univ_name": "青岛工学院",
+        "univ_url": "http://baike.baidu.com/view/5177337.htm"
+    },
+    {
+        "univ_name": "青岛滨海学院",
+        "univ_url": "http://baike.baidu.com/view/162008.htm"
+    },
+    {
+        "univ_name": "青岛黄海学院",
+        "univ_url": "http://baike.baidu.com/view/722887.htm"
+    },
+    {
+        "univ_name": "中国海洋大学",
+        "univ_url": "http://baike.baidu.com/view/10014.htm"
+    },
+    {
+        "univ_name": "中国石油大学(华东)",
+        "univ_url": "http://baike.baidu.com/view/239232.htm"
+    },
+    {
+        "univ_name": "潍坊学院",
+        "univ_url": "http://baike.baidu.com/view/23433.htm"
+    },
+    {
+        "univ_name": "潍坊医学院",
+        "univ_url": "http://baike.baidu.com/view/55011.htm"
+    },
+    {
+        "univ_name": "潍坊科技学院",
+        "univ_url": "http://baike.baidu.com/view/1643727.htm"
+    },
+    {
+        "univ_name": "曲阜师范大学",
+        "univ_url": "http://baike.baidu.com/view/37581.htm"
+    },
+    {
+        "univ_name": "济宁医学院",
+        "univ_url": "http://baike.baidu.com/view/13666.htm"
+    },
+    {
+        "univ_name": "济宁学院",
+        "univ_url": "http://baike.baidu.com/view/1019100.htm"
+    },
+    {
+        "univ_name": "烟台大学",
+        "univ_url": "http://baike.baidu.com/view/19041.htm"
+    },
+    {
+        "univ_name": "鲁东大学",
+        "univ_url": "http://baike.baidu.com/view/28736.htm"
+    },
+    {
+        "univ_name": "山东工商学院",
+        "univ_url": "http://baike.baidu.com/view/13700.htm"
+    },
+    {
+        "univ_name": "烟台南山学院",
+        "univ_url": "http://baike.baidu.com/view/9253.htm"
+    },
+    {
+        "univ_name": "滨州医学院",
+        "univ_url": "http://baike.baidu.com/view/19564.htm"
+    },
+    {
+        "univ_name": "滨州学院",
+        "univ_url": "http://baike.baidu.com/view/127127.htm"
+    },
+    {
+        "univ_name": "山东农业大学",
+        "univ_url": "http://baike.baidu.com/view/4401.htm"
+    },
+    {
+        "univ_name": "泰山医学院",
+        "univ_url": "http://baike.baidu.com/view/18891.htm"
+    },
+    {
+        "univ_name": "泰山学院",
+        "univ_url": "http://baike.baidu.com/view/18860.htm"
+    },
+    {
+        "univ_name": "山东理工大学",
+        "univ_url": "http://baike.baidu.com/view/4237.htm"
+    },
+    {
+        "univ_name": "山东万杰医学院",
+        "univ_url": "http://baike.baidu.com/view/1185317.htm"
+    },
+    {
+        "univ_name": "德州学院",
+        "univ_url": "http://baike.baidu.com/view/15232.htm"
+    },
+    {
+        "univ_name": "菏泽学院",
+        "univ_url": "http://baike.baidu.com/view/4807.htm"
+    },
+    {
+        "univ_name": "聊城大学",
+        "univ_url": "http://baike.baidu.com/view/4347.htm"
+    },
+    {
+        "univ_name": "临沂大学",
+        "univ_url": "http://baike.baidu.com/view/14832.htm"
+    },
+    {
+        "univ_name": "枣庄学院",
+        "univ_url": "http://baike.baidu.com/view/116191.htm"
+    },
+    {
+        "univ_name": "厦门大学",
+        "univ_url": "http://baike.baidu.com/view/6408.htm"
+    },
+    {
+        "univ_name": "福建农林大学",
+        "univ_url": "http://baike.baidu.com/view/2209.htm"
+    },
+    {
+        "univ_name": "福州大学",
+        "univ_url": "http://baike.baidu.com/view/8205.htm"
+    },
+    {
+        "univ_name": "福建医科大学",
+        "univ_url": "http://baike.baidu.com/view/23842.htm"
+    },
+    {
+        "univ_name": "福建中医药大学",
+        "univ_url": "http://baike.baidu.com/view/3109060.htm"
+    },
+    {
+        "univ_name": "福建师范大学",
+        "univ_url": "http://baike.baidu.com/view/35746.htm"
+    },
+    {
+        "univ_name": "福建工程学院",
+        "univ_url": "http://baike.baidu.com/view/17871.htm"
+    },
+    {
+        "univ_name": "福建警察学院",
+        "univ_url": "http://baike.baidu.com/view/1232459.htm"
+    },
+    {
+        "univ_name": "闽江学院",
+        "univ_url": "http://baike.baidu.com/view/6149.htm"
+    },
+    {
+        "univ_name": "福建江夏学院",
+        "univ_url": "http://baike.baidu.com/view/1362231.htm"
+    },
+    {
+        "univ_name": "福州外语外贸学院",
+        "univ_url": "http://baike.baidu.com/view/4441646.htm"
+    },
+    {
+        "univ_name": "泉州师范学院",
+        "univ_url": "http://baike.baidu.com/view/8175.htm"
+    },
+    {
+        "univ_name": "仰恩大学",
+        "univ_url": "http://baike.baidu.com/view/86215.htm"
+    },
+    {
+        "univ_name": "闽南理工学院",
+        "univ_url": "http://baike.baidu.com/view/1570612.htm"
+    },
+    {
+        "univ_name": "华侨大学",
+        "univ_url": "http://baike.baidu.com/view/8184.htm"
+    },
+    {
+        "univ_name": "集美大学",
+        "univ_url": "http://baike.baidu.com/view/8213.htm"
+    },
+    {
+        "univ_name": "厦门理工学院",
+        "univ_url": "http://baike.baidu.com/view/27865.htm"
+    },
+    {
+        "univ_name": "龙岩学院",
+        "univ_url": "http://baike.baidu.com/view/101560.htm"
+    },
+    {
+        "univ_name": "武夷学院",
+        "univ_url": "http://baike.baidu.com/view/697050.htm"
+    },
+    {
+        "univ_name": "宁德师范学院",
+        "univ_url": "http://baike.baidu.com/view/3234598.htm"
+    },
+    {
+        "univ_name": "莆田学院",
+        "univ_url": "http://baike.baidu.com/view/606717.htm"
+    },
+    {
+        "univ_name": "三明学院",
+        "univ_url": "http://baike.baidu.com/view/101582.htm"
+    },
+    {
+        "univ_name": "闽南师范大学",
+        "univ_url": "http://baike.baidu.com/view/2440504.htm"
+    },
+    {
+        "univ_name": "郑州大学",
+        "univ_url": "http://baike.baidu.com/view/8791.htm"
+    },
+    {
+        "univ_name": "河南工业大学",
+        "univ_url": "http://baike.baidu.com/view/6690.htm"
+    },
+    {
+        "univ_name": "河南农业大学",
+        "univ_url": "http://baike.baidu.com/view/10252.htm"
+    },
+    {
+        "univ_name": "河南财经政法大学",
+        "univ_url": "http://baike.baidu.com/view/391793.htm"
+    },
+    {
+        "univ_name": "郑州轻工业学院",
+        "univ_url": "http://baike.baidu.com/view/9156.htm"
+    },
+    {
+        "univ_name": "河南工程学院",
+        "univ_url": "http://baike.baidu.com/view/776852.htm"
+    },
+    {
+        "univ_name": "中原工学院",
+        "univ_url": "http://baike.baidu.com/view/3782.htm"
+    },
+    {
+        "univ_name": "郑州航空工业管理学院",
+        "univ_url": "http://baike.baidu.com/view/10223.htm"
+    },
+    {
+        "univ_name": "河南中医学院",
+        "univ_url": "http://baike.baidu.com/view/28767.htm"
+    },
+    {
+        "univ_name": "郑州师范学院",
+        "univ_url": "http://baike.baidu.com/view/3233914.htm"
+    },
+    {
+        "univ_name": "河南警察学院",
+        "univ_url": "http://baike.baidu.com/view/3110095.htm"
+    },
+    {
+        "univ_name": "郑州华信学院",
+        "univ_url": "http://baike.baidu.com/view/485483.htm"
+    },
+    {
+        "univ_name": "郑州科技学院",
+        "univ_url": "http://baike.baidu.com/view/1651777.htm"
+    },
+    {
+        "univ_name": "黄河科技学院",
+        "univ_url": "http://baike.baidu.com/view/20870.htm"
+    },
+    {
+        "univ_name": "郑州升达经贸管理学院",
+        "univ_url": "http://baike.baidu.com/view/5269248.htm"
+    },
+    {
+        "univ_name": "郑州成功财经学院",
+        "univ_url": "http://baike.baidu.com/view/7854205.htm"
+    },
+    {
+        "univ_name": "铁道警察学院",
+        "univ_url": "http://baike.baidu.com/view/10314127.htm"
+    },
+    {
+        "univ_name": "华北水利水电大学",
+        "univ_url": "http://baike.baidu.com/view/2632719.htm"
+    },
+    {
+        "univ_name": "河南牧业经济学院",
+        "univ_url": "http://baike.baidu.com/view/10096110.htm"
+    },
+    {
+        "univ_name": "河南科技大学",
+        "univ_url": "http://baike.baidu.com/view/4612.htm"
+    },
+    {
+        "univ_name": "洛阳理工学院",
+        "univ_url": "http://baike.baidu.com/view/830736.htm"
+    },
+    {
+        "univ_name": "洛阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/14628.htm"
+    },
+    {
+        "univ_name": "安阳工学院",
+        "univ_url": "http://baike.baidu.com/view/128077.htm"
+    },
+    {
+        "univ_name": "安阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/15027.htm"
+    },
+    {
+        "univ_name": "南阳理工学院",
+        "univ_url": "http://baike.baidu.com/view/9875.htm"
+    },
+    {
+        "univ_name": "南阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/35550.htm"
+    },
+    {
+        "univ_name": "河南城建学院",
+        "univ_url": "http://baike.baidu.com/view/1215174.htm"
+    },
+    {
+        "univ_name": "平顶山学院",
+        "univ_url": "http://baike.baidu.com/view/5129.htm"
+    },
+    {
+        "univ_name": "商丘师范学院",
+        "univ_url": "http://baike.baidu.com/view/14737.htm"
+    },
+    {
+        "univ_name": "商丘工学院",
+        "univ_url": "http://baike.baidu.com/view/4985759.htm"
+    },
+    {
+        "univ_name": "商丘学院",
+        "univ_url": "http://baike.baidu.com/view/4720558.htm"
+    },
+    {
+        "univ_name": "河南师范大学",
+        "univ_url": "http://baike.baidu.com/view/8349.htm"
+    },
+    {
+        "univ_name": "新乡医学院",
+        "univ_url": "http://baike.baidu.com/view/14974.htm"
+    },
+    {
+        "univ_name": "新乡学院",
+        "univ_url": "http://baike.baidu.com/view/1013634.htm"
+    },
+    {
+        "univ_name": "河南科技学院",
+        "univ_url": "http://baike.baidu.com/view/14438.htm"
+    },
+    {
+        "univ_name": "信阳师范学院",
+        "univ_url": "http://baike.baidu.com/view/7252.htm"
+    },
+    {
+        "univ_name": "信阳农林学院",
+        "univ_url": "http://baike.baidu.com/view/2508886.htm"
+    },
+    {
+        "univ_name": "河南理工大学",
+        "univ_url": "http://baike.baidu.com/view/8860.htm"
+    },
+    {
+        "univ_name": "河南大学",
+        "univ_url": "http://baike.baidu.com/view/2708.htm"
+    },
+    {
+        "univ_name": "许昌学院",
+        "univ_url": "http://baike.baidu.com/view/26674.htm"
+    },
+    {
+        "univ_name": "黄淮学院",
+        "univ_url": "http://baike.baidu.com/view/28805.htm"
+    },
+    {
+        "univ_name": "周口师范学院",
+        "univ_url": "http://baike.baidu.com/view/7120.htm"
+    },
+    {
+        "univ_name": "重庆大学",
+        "univ_url": "http://baike.baidu.com/view/6269.htm"
+    },
+    {
+        "univ_name": "西南大学",
+        "univ_url": "http://baike.baidu.com/view/3726.htm"
+    },
+    {
+        "univ_name": "重庆交通大学",
+        "univ_url": "http://baike.baidu.com/view/8927.htm"
+    },
+    {
+        "univ_name": "重庆邮电大学",
+        "univ_url": "http://baike.baidu.com/view/8804.htm"
+    },
+    {
+        "univ_name": "重庆理工大学",
+        "univ_url": "http://baike.baidu.com/view/1496672.htm"
+    },
+    {
+        "univ_name": "重庆医科大学",
+        "univ_url": "http://baike.baidu.com/view/41930.htm"
+    },
+    {
+        "univ_name": "重庆师范大学",
+        "univ_url": "http://baike.baidu.com/view/32133.htm"
+    },
+    {
+        "univ_name": "重庆工商大学",
+        "univ_url": "http://baike.baidu.com/view/22860.htm"
+    },
+    {
+        "univ_name": "西南政法大学",
+        "univ_url": "http://baike.baidu.com/view/9556.htm"
+    },
+    {
+        "univ_name": "重庆科技学院",
+        "univ_url": "http://baike.baidu.com/view/20661.htm"
+    },
+    {
+        "univ_name": "长江师范学院",
+        "univ_url": "http://baike.baidu.com/view/596718.htm"
+    },
+    {
+        "univ_name": "四川外语学院",
+        "univ_url": "http://baike.baidu.com/view/4978.htm"
+    },
+    {
+        "univ_name": "四川美术学院",
+        "univ_url": "http://baike.baidu.com/view/5107.htm"
+    },
+    {
+        "univ_name": "重庆文理学院",
+        "univ_url": "http://baike.baidu.com/view/8922.htm"
+    },
+    {
+        "univ_name": "重庆三峡学院",
+        "univ_url": "http://baike.baidu.com/view/9557.htm"
+    },
+    {
+        "univ_name": "重庆电力高等专科学校",
+        "univ_url": "http://baike.baidu.com/view/45796.htm"
+    },
+    {
+        "univ_name": "重庆三峡医药高等专科学校",
+        "univ_url": "http://baike.baidu.com/view/598265.htm"
+    },
+    {
+        "univ_name": "重庆医药高等专科学校",
+        "univ_url": "http://baike.baidu.com/view/598258.htm"
+    },
+    {
+        "univ_name": "重庆化工职业学院",
+        "univ_url": "http://baike.baidu.com/view/3658716.htm"
+    },
+    {
+        "univ_name": "重庆工业职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/161925.htm"
+    },
+    {
+        "univ_name": "重庆财经职业学院",
+        "univ_url": "http://baike.baidu.com/view/1146498.htm"
+    },
+    {
+        "univ_name": "重庆水利电力职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/161999.htm"
+    },
+    {
+        "univ_name": "重庆三峡职业学院",
+        "univ_url": "http://baike.baidu.com/view/162006.htm"
+    },
+    {
+        "univ_name": "重庆航天职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/1549173.htm"
+    },
+    {
+        "univ_name": "重庆工贸职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/635182.htm"
+    },
+    {
+        "univ_name": "重庆城市职业学院",
+        "univ_url": "http://baike.baidu.com/view/161991.htm"
+    },
+    {
+        "univ_name": "重庆传媒职业学院",
+        "univ_url": "http://baike.baidu.com/view/1985517.htm"
+    },
+    {
+        "univ_name": "重庆电子工程职业学院",
+        "univ_url": "http://baike.baidu.com/view/960567.htm"
+    },
+    {
+        "univ_name": "重庆商务职业学院",
+        "univ_url": "http://baike.baidu.com/view/2163137.htm"
+    },
+    {
+        "univ_name": "重庆正大软件职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/5946.htm"
+    },
+    {
+        "univ_name": "重庆科创职业学院",
+        "univ_url": "http://baike.baidu.com/view/1631220.htm"
+    },
+    {
+        "univ_name": "重庆工程职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/161943.htm"
+    },
+    {
+        "univ_name": "重庆民生职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/635265.htm"
+    },
+    {
+        "univ_name": "重庆建筑工程职业学院",
+        "univ_url": "http://baike.baidu.com/view/1560016.htm"
+    },
+    {
+        "univ_name": "重庆信息技术职业学院",
+        "univ_url": "http://baike.baidu.com/view/161910.htm"
+    },
+    {
+        "univ_name": "重庆海联职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/161930.htm"
+    },
+    {
+        "univ_name": "重庆能源职业学院",
+        "univ_url": "http://baike.baidu.com/view/2705595.htm"
+    },
+    {
+        "univ_name": "重庆电讯职业学院",
+        "univ_url": "http://baike.baidu.com/view/3658714.htm"
+    },
+    {
+        "univ_name": "重庆机电职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/161986.htm"
+    },
+    {
+        "univ_name": "重庆房地产职业学院",
+        "univ_url": "http://baike.baidu.com/view/2055221.htm"
+    },
+    {
+        "univ_name": "重庆城市管理职业学院",
+        "univ_url": "http://baike.baidu.com/view/635201.htm"
+    },
+    {
+        "univ_name": "重庆青年职业技术学院",
+        "univ_url": "http://baike.baidu.com/view/991887.htm"
+    },
+    {
+        "univ_name": "重庆工商职业学院",
+        "univ_url": "http://baike.baidu.com/view/1023824.htm"
+    },
+    {
+        "univ_name": "重庆警官职业学院",
+        "univ_url": "http://baike.baidu.com/view/29691.htm"
+    },
+    {
+        "univ_name": "重庆交通职业学院",
+        "univ_url": "http://baike.baidu.com/view/2742223.htm"
+    },
+    {
+        "univ_name": "重庆旅游职业学院",
+        "univ_url": "http://baike.baidu.com/view/3356735.htm"
+    },
+    {
+        "univ_name": "重庆安全技术职业学院",
+        "univ_url": "http://baike.baidu.com/view/5424251.htm"
+    },
+    {
+        "univ_name": "重庆公共运输职业学院",
+        "univ_url": "http://baike.baidu.com/view/6170653.htm"
+    },
+    {
+        "univ_name": "重庆艺术工程职业学院",
+        "univ_url": "http://baike.baidu.com/view/4664804.htm"
+    },
+    {
+        "univ_name": "重庆轻工职业学院",
+        "univ_url": "http://baike.baidu.com/view/6170639.htm"
+    },
+    {
+        "univ_name": "重庆电信职业学院",
+        "univ_url": "http://baike.baidu.com/view/6081635.htm"
+    },
+    {
+        "univ_name": "重庆经贸职业学院",
+        "univ_url": "http://baike.baidu.com/view/4978844.htm"
+    },
+    {
+        "univ_name": "西南大学育才学院",
+        "univ_url": "http://baike.baidu.com/view/643370.htm"
+    },
+    {
+        "univ_name": "四川外语学院重庆南方翻译学院",
+        "univ_url": "http://baike.baidu.com/view/295236.htm"
+    },
+    {
+        "univ_name": "重庆师范大学涉外商贸学院",
+        "univ_url": "http://baike.baidu.com/view/112752.htm"
+    },
+    {
+        "univ_name": "重庆工商大学融智学院",
+        "univ_url": "http://baike.baidu.com/view/295234.htm"
+    },
+    {
+        "univ_name": "重庆工商大学派斯学院",
+        "univ_url": "http://baike.baidu.com/view/295230.htm"
+    },
+    {
+        "univ_name": "重庆邮电大学移通学院",
+        "univ_url": "http://baike.baidu.com/view/295228.htm"
+    },
+    {
+        "univ_name": "重庆大学城市科技学院",
+        "univ_url": "http://baike.baidu.com/view/950108.htm"
+    },
+    {
+        "univ_name": "重庆教育学院",
+        "univ_url": "http://baike.baidu.com/view/356155.htm"
+    },
+    {
+        "univ_name": "重庆电力职工大学",
+        "univ_url": "http://baike.baidu.com/view/4432872.htm"
+    },
+    {
+        "univ_name": "重庆职工会计专科学校",
+        "univ_url": "http://baike.baidu.com/view/4415550.htm"
+    },
+    {
+        "univ_name": "云南大学",
+        "univ_url": "http://baike.baidu.com/view/4613.htm"
+    },
+    {
+        "univ_name": "昆明理工大学",
+        "univ_url": "http://baike.baidu.com/view/4641.htm"
+    },
+    {
+        "univ_name": "云南农业大学",
+        "univ_url": "http://baike.baidu.com/view/4585.htm"
+    },
+    {
+        "univ_name": "西南林业大学",
+        "univ_url": "http://baike.baidu.com/view/2189102.htm"
+    },
+    {
+        "univ_name": "云南师范大学",
+        "univ_url": "http://baike.baidu.com/view/4670.htm"
+    },
+    {
+        "univ_name": "云南财经大学",
+        "univ_url": "http://baike.baidu.com/view/4826.htm"
+    },
+    {
+        "univ_name": "云南民族大学",
+        "univ_url": "http://baike.baidu.com/view/4850.htm"
+    },
+    {
+        "univ_name": "昆明医科大学",
+        "univ_url": "http://baike.baidu.com/view/8064122.htm"
+    },
+    {
+        "univ_name": "云南中医学院",
+        "univ_url": "http://baike.baidu.com/view/4743.htm"
+    },
+    {
+        "univ_name": "云南警官学院",
+        "univ_url": "http://baike.baidu.com/view/7498.htm"
+    },
+    {
+        "univ_name": "云南艺术学院",
+        "univ_url": "http://baike.baidu.com/view/7563.htm"
+    },
+    {
+        "univ_name": "昆明学院",
+        "univ_url": "http://baike.baidu.com/view/937361.htm"
+    },
+    {
+        "univ_name": "云南工商学院",
+        "univ_url": "http://baike.baidu.com/view/5356520.htm"
+    },
+    {
+        "univ_name": "保山学院",
+        "univ_url": "http://baike.baidu.com/view/2191662.htm"
+    },
+    {
+        "univ_name": "楚雄师范学院",
+        "univ_url": "http://baike.baidu.com/view/266812.htm"
+    },
+    {
+        "univ_name": "大理学院",
+        "univ_url": "http://baike.baidu.com/view/4781.htm"
+    },
+    {
+        "univ_name": "红河学院",
+        "univ_url": "http://baike.baidu.com/view/4884.htm"
+    },
+    {
+        "univ_name": "文山学院",
+        "univ_url": "http://baike.baidu.com/view/2189077.htm"
+    },
+    {
+        "univ_name": "玉溪师范学院",
+        "univ_url": "http://baike.baidu.com/view/3790.htm"
+    },
+    {
+        "univ_name": "昭通学院",
+        "univ_url": "http://baike.baidu.com/view/1906216.htm"
+    },
+    {
+        "univ_name": "普洱学院",
+        "univ_url": "http://baike.baidu.com/view/8381943.htm"
+    },
+    {
+        "univ_name": "曲靖师范学院",
+        "univ_url": "http://baike.baidu.com/view/90669.htm"
+    },
+    {
+        "univ_name": "河北大学",
+        "univ_url": "http://baike.baidu.com/view/6021.htm"
+    },
+    {
+        "univ_name": "河北科技大学",
+        "univ_url": "http://baike.baidu.com/view/14014.htm"
+    },
+    {
+        "univ_name": "石家庄铁道大学",
+        "univ_url": "http://baike.baidu.com/view/3105597.htm"
+    },
+    {
+        "univ_name": "河北医科大学",
+        "univ_url": "http://baike.baidu.com/view/16117.htm"
+    },
+    {
+        "univ_name": "河北师范大学",
+        "univ_url": "http://baike.baidu.com/view/8859.htm"
+    },
+    {
+        "univ_name": "河北经贸大学",
+        "univ_url": "http://baike.baidu.com/view/23873.htm"
+    },
+    {
+        "univ_name": "石家庄经济学院",
+        "univ_url": "http://baike.baidu.com/view/24261.htm"
+    },
+    {
+        "univ_name": "河北体育学院",
+        "univ_url": "http://baike.baidu.com/view/24185.htm"
+    },
+    {
+        "univ_name": "石家庄学院",
+        "univ_url": "http://baike.baidu.com/view/3315.htm"
+    },
+    {
+        "univ_name": "河北传媒学院",
+        "univ_url": "http://baike.baidu.com/view/1245341.htm"
+    },
+    {
+        "univ_name": "河北美术学院",
+        "univ_url": "http://baike.baidu.com/view/5284314.htm"
+    },
+    {
+        "univ_name": "河北外国语学院",
+        "univ_url": "http://baike.baidu.com/view/3343988.htm"
+    },
+    {
+        "univ_name": "河北中医学院",
+        "univ_url": "http://baike.baidu.com/view/10327470.htm"
+    },
+    {
+        "univ_name": "河北农业大学",
+        "univ_url": "http://baike.baidu.com/view/8821.htm"
+    },
+    {
+        "univ_name": "河北金融学院",
+        "univ_url": "http://baike.baidu.com/view/845006.htm"
+    },
+    {
+        "univ_name": "保定学院",
+        "univ_url": "http://baike.baidu.com/view/952286.htm"
+    },
+    {
+        "univ_name": "河北科技学院",
+        "univ_url": "http://baike.baidu.com/view/5233524.htm"
+    },
+    {
+        "univ_name": "中央司法警官学院",
+        "univ_url": "http://baike.baidu.com/view/6593.htm"
+    },
+    {
+        "univ_name": "承德医学院",
+        "univ_url": "http://baike.baidu.com/view/59977.htm"
+    },
+    {
+        "univ_name": "河北民族师范学院",
+        "univ_url": "http://baike.baidu.com/view/3109029.htm"
+    },
+    {
+        "univ_name": "河北工程大学",
+        "univ_url": "http://baike.baidu.com/view/18770.htm"
+    },
+    {
+        "univ_name": "邯郸学院",
+        "univ_url": "http://baike.baidu.com/view/15551.htm"
+    },
+    {
+        "univ_name": "北华航天工业学院",
+        "univ_url": "http://baike.baidu.com/view/348267.htm"
+    },
+    {
+        "univ_name": "廊坊师范学院",
+        "univ_url": "http://baike.baidu.com/view/423535.htm"
+    },
+    {
+        "univ_name": "中国人民武装警察部队学院",
+        "univ_url": "http://baike.baidu.com/view/317780.htm"
+    },
+    {
+        "univ_name": "防灾科技学院",
+        "univ_url": "http://baike.baidu.com/view/41024.htm"
+    },
+    {
+        "univ_name": "华北科技学院",
+        "univ_url": "http://baike.baidu.com/view/29454.htm"
+    },
+    {
+        "univ_name": "燕京理工学院",
+        "univ_url": "http://baike.baidu.com/view/10305446.htm"
+    },
+    {
+        "univ_name": "河北联合大学",
+        "univ_url": "http://baike.baidu.com/view/3354280.htm"
+    },
+    {
+        "univ_name": "唐山师范学院",
+        "univ_url": "http://baike.baidu.com/view/29389.htm"
+    },
+    {
+        "univ_name": "唐山学院",
+        "univ_url": "http://baike.baidu.com/view/22985.htm"
+    },
+    {
+        "univ_name": "河北建筑工程学院",
+        "univ_url": "http://baike.baidu.com/view/24150.htm"
+    },
+    {
+        "univ_name": "河北北方学院",
+        "univ_url": "http://baike.baidu.com/view/290286.htm"
+    },
+    {
+        "univ_name": "张家口学院",
+        "univ_url": "http://baike.baidu.com/view/10327457.htm"
+    },
+    {
+        "univ_name": "河北科技师范学院",
+        "univ_url": "http://baike.baidu.com/view/9368.htm"
+    },
+    {
+        "univ_name": "燕山大学",
+        "univ_url": "http://baike.baidu.com/view/5887.htm"
+    },
+    {
+        "univ_name": "沧州师范学院",
+        "univ_url": "http://baike.baidu.com/view/3234717.htm"
+    },
+    {
+        "univ_name": "河北工业大学",
+        "univ_url": "http://baike.baidu.com/view/10517.htm"
+    },
+    {
+        "univ_name": "邢台学院",
+        "univ_url": "http://baike.baidu.com/view/19622.htm"
+    },
+    {
+        "univ_name": "衡水学院",
+        "univ_url": "http://baike.baidu.com/view/60032.htm"
+    },
+    {
+        "univ_name": "南昌大学",
+        "univ_url": "http://baike.baidu.com/view/4763.htm"
+    },
+    {
+        "univ_name": "华东交通大学",
+        "univ_url": "http://baike.baidu.com/view/29242.htm"
+    },
+    {
+        "univ_name": "南昌航空大学",
+        "univ_url": "http://baike.baidu.com/view/881135.htm"
+    },
+    {
+        "univ_name": "江西农业大学",
+        "univ_url": "http://baike.baidu.com/view/183339.htm"
+    },
+    {
+        "univ_name": "江西师范大学",
+        "univ_url": "http://baike.baidu.com/view/14316.htm"
+    },
+    {
+        "univ_name": "江西财经大学",
+        "univ_url": "http://baike.baidu.com/view/6629.htm"
+    },
+    {
+        "univ_name": "南昌工程学院",
+        "univ_url": "http://baike.baidu.com/view/359186.htm"
+    },
+    {
+        "univ_name": "江西中医药大学",
+        "univ_url": "http://baike.baidu.com/view/2484232.htm"
+    },
+    {
+        "univ_name": "江西科技师范大学",
+        "univ_url": "http://baike.baidu.com/view/6286349.htm"
+    },
+    {
+        "univ_name": "江西警察学院",
+        "univ_url": "http://baike.baidu.com/view/3234561.htm"
+    },
+    {
+        "univ_name": "南昌工学院",
+        "univ_url": "http://baike.baidu.com/view/5119036.htm"
+    },
+    {
+        "univ_name": "南昌理工学院",
+        "univ_url": "http://baike.baidu.com/view/42320.htm"
+    },
+    {
+        "univ_name": "江西服装学院",
+        "univ_url": "http://baike.baidu.com/view/161697.htm"
+    },
+    {
+        "univ_name": "江西科技学院",
+        "univ_url": "http://baike.baidu.com/view/356050.htm"
+    },
+    {
+        "univ_name": "南昌师范学院",
+        "univ_url": "http://baike.baidu.com/view/10327334.htm"
+    },
+    {
+        "univ_name": "江西理工大学",
+        "univ_url": "http://baike.baidu.com/view/34671.htm"
+    },
+    {
+        "univ_name": "赣南医学院",
+        "univ_url": "http://baike.baidu.com/view/250107.htm"
+    },
+    {
+        "univ_name": "赣南师范学院",
+        "univ_url": "http://baike.baidu.com/view/29274.htm"
+    },
+    {
+        "univ_name": "景德镇学院",
+        "univ_url": "http://baike.baidu.com/view/2884230.htm"
+    },
+    {
+        "univ_name": "景德镇陶瓷学院",
+        "univ_url": "http://baike.baidu.com/view/17880.htm"
+    },
+    {
+        "univ_name": "东华理工大学",
+        "univ_url": "http://baike.baidu.com/view/28254.htm"
+    },
+    {
+        "univ_name": "萍乡学院",
+        "univ_url": "http://baike.baidu.com/view/6743434.htm"
+    },
+    {
+        "univ_name": "井冈山大学",
+        "univ_url": "http://baike.baidu.com/view/167219.htm"
+    },
+    {
+        "univ_name": "九江学院",
+        "univ_url": "http://baike.baidu.com/view/315618.htm"
+    },
+    {
+        "univ_name": "上饶师范学院",
+        "univ_url": "http://baike.baidu.com/view/29185.htm"
+    },
+    {
+        "univ_name": "新余学院",
+        "univ_url": "http://baike.baidu.com/view/3192736.htm"
+    },
+    {
+        "univ_name": "宜春学院",
+        "univ_url": "http://baike.baidu.com/view/148363.htm"
+    },
+    {
+        "univ_name": "太原理工",
+        "univ_url": "http://baike.baidu.com/view/20904.htm"
+    },
+    {
+        "univ_name": "山西大学",
+        "univ_url": "http://baike.baidu.com/view/4495.htm"
+    },
+    {
+        "univ_name": "中北大学",
+        "univ_url": "http://baike.baidu.com/view/3220.htm"
+    },
+    {
+        "univ_name": "太原科技大学",
+        "univ_url": "http://baike.baidu.com/view/4461.htm"
+    },
+    {
+        "univ_name": "山西医科大学",
+        "univ_url": "http://baike.baidu.com/view/20937.htm"
+    },
+    {
+        "univ_name": "山西财经大学",
+        "univ_url": "http://baike.baidu.com/view/18528.htm"
+    },
+    {
+        "univ_name": "太原工业学院",
+        "univ_url": "http://baike.baidu.com/view/853149.htm"
+    },
+    {
+        "univ_name": "山西中医学院",
+        "univ_url": "http://baike.baidu.com/view/20963.htm"
+    },
+    {
+        "univ_name": "太原师范学院",
+        "univ_url": "http://baike.baidu.com/view/20913.htm"
+    },
+    {
+        "univ_name": "山西工商学院",
+        "univ_url": "http://baike.baidu.com/view/166372.htm"
+    },
+    {
+        "univ_name": "太原学院",
+        "univ_url": "http://baike.baidu.com/view/9747115.htm"
+    },
+    {
+        "univ_name": "山西传媒学院",
+        "univ_url": "http://baike.baidu.com/view/3178400.htm"
+    },
+    {
+        "univ_name": "长治医学院",
+        "univ_url": "http://baike.baidu.com/view/20920.htm"
+    },
+    {
+        "univ_name": "长治学院",
+        "univ_url": "http://baike.baidu.com/view/30350.htm"
+    },
+    {
+        "univ_name": "山西大同大学",
+        "univ_url": "http://baike.baidu.com/view/27702.htm"
+    },
+    {
+        "univ_name": "山西师范大学",
+        "univ_url": "http://baike.baidu.com/view/19504.htm"
+    },
+    {
+        "univ_name": "吕梁学院",
+        "univ_url": "http://baike.baidu.com/view/3109036.htm"
+    },
+    {
+        "univ_name": "山西农业大学",
+        "univ_url": "http://baike.baidu.com/view/14902.htm"
+    },
+    {
+        "univ_name": "忻州师范学院",
+        "univ_url": "http://baike.baidu.com/view/34712.htm"
+    },
+    {
+        "univ_name": "晋中学院",
+        "univ_url": "http://baike.baidu.com/view/20926.htm"
+    },
+    {
+        "univ_name": "运城学院",
+        "univ_url": "http://baike.baidu.com/view/25089.htm"
+    },
+    {
+        "univ_name": "贵州大学",
+        "univ_url": "http://baike.baidu.com/view/9337.htm"
+    },
+    {
+        "univ_name": "贵州师范大学",
+        "univ_url": "http://baike.baidu.com/view/103386.htm"
+    },
+    {
+        "univ_name": "贵阳医学院",
+        "univ_url": "http://baike.baidu.com/view/103344.htm"
+    },
+    {
+        "univ_name": "贵阳中医学院",
+        "univ_url": "http://baike.baidu.com/view/103293.htm"
+    },
+    {
+        "univ_name": "贵州师范学院",
+        "univ_url": "http://baike.baidu.com/view/2189053.htm"
+    },
+    {
+        "univ_name": "贵州财经大学",
+        "univ_url": "http://baike.baidu.com/view/1986146.htm"
+    },
+    {
+        "univ_name": "贵州民族大学",
+        "univ_url": "http://baike.baidu.com/view/8058239.htm"
+    },
+    {
+        "univ_name": "贵阳学院",
+        "univ_url": "http://baike.baidu.com/view/68977.htm"
+    },
+    {
+        "univ_name": "贵州理工学院",
+        "univ_url": "http://baike.baidu.com/view/6857421.htm"
+    },
+    {
+        "univ_name": "遵义医学院",
+        "univ_url": "http://baike.baidu.com/view/103315.htm"
+    },
+    {
+        "univ_name": "遵义师范学院",
+        "univ_url": "http://baike.baidu.com/view/268278.htm"
+    },
+    {
+        "univ_name": "安顺学院",
+        "univ_url": "http://baike.baidu.com/view/1064692.htm"
+    },
+    {
+        "univ_name": "毕节学院",
+        "univ_url": "http://baike.baidu.com/view/160780.htm"
+    },
+    {
+        "univ_name": "黔南民族师范学院",
+        "univ_url": "http://baike.baidu.com/view/103361.htm"
+    },
+    {
+        "univ_name": "凯里学院",
+        "univ_url": "http://baike.baidu.com/view/939124.htm"
+    },
+    {
+        "univ_name": "六盘水师范学院",
+        "univ_url": "http://baike.baidu.com/view/2189065.htm"
+    },
+    {
+        "univ_name": "铜仁学院",
+        "univ_url": "http://baike.baidu.com/view/1068669.htm"
+    },
+    {
+        "univ_name": "兴义民族师范学院",
+        "univ_url": "http://baike.baidu.com/view/2189055.htm"
+    },
+    {
+        "univ_name": "广西大学",
+        "univ_url": "http://baike.baidu.com/view/7857.htm"
+    },
+    {
+        "univ_name": "广西医科大学",
+        "univ_url": "http://baike.baidu.com/view/9549.htm"
+    },
+    {
+        "univ_name": "广西中医药大学",
+        "univ_url": "http://baike.baidu.com/view/7994675.htm"
+    },
+    {
+        "univ_name": "广西师范学院",
+        "univ_url": "http://baike.baidu.com/view/17132.htm"
+    },
+    {
+        "univ_name": "广西财经学院",
+        "univ_url": "http://baike.baidu.com/view/8020.htm"
+    },
+    {
+        "univ_name": "广西艺术学院",
+        "univ_url": "http://baike.baidu.com/view/86279.htm"
+    },
+    {
+        "univ_name": "广西民族大学",
+        "univ_url": "http://baike.baidu.com/view/17221.htm"
+    },
+    {
+        "univ_name": "南宁学院",
+        "univ_url": "http://baike.baidu.com/view/5316117.htm"
+    },
+    {
+        "univ_name": "广西外国语学院",
+        "univ_url": "http://baike.baidu.com/view/5356542.htm"
+    },
+    {
+        "univ_name": "右江民族医学院",
+        "univ_url": "http://baike.baidu.com/view/86337.htm"
+    },
+    {
+        "univ_name": "百色学院",
+        "univ_url": "http://baike.baidu.com/view/597327.htm"
+    },
+    {
+        "univ_name": "桂林电子科技大学",
+        "univ_url": "http://baike.baidu.com/view/40784.htm"
+    },
+    {
+        "univ_name": "桂林理工大学",
+        "univ_url": "http://baike.baidu.com/view/1245302.htm"
+    },
+    {
+        "univ_name": "广西师范大学",
+        "univ_url": "http://baike.baidu.com/view/17112.htm"
+    },
+    {
+        "univ_name": "桂林医学院",
+        "univ_url": "http://baike.baidu.com/view/32667.htm"
+    },
+    {
+        "univ_name": "桂林航天工业学院",
+        "univ_url": "http://baike.baidu.com/view/7146628.htm"
+    },
+    {
+        "univ_name": "贺州学院",
+        "univ_url": "http://baike.baidu.com/view/374224.htm"
+    },
+    {
+        "univ_name": "广西民族师范学院",
+        "univ_url": "http://baike.baidu.com/view/2189045.htm"
+    },
+    {
+        "univ_name": "钦州学院",
+        "univ_url": "http://baike.baidu.com/view/701459.htm"
+    },
+    {
+        "univ_name": "梧州学院",
+        "univ_url": "http://baike.baidu.com/view/160009.htm"
+    },
+    {
+        "univ_name": "河池学院",
+        "univ_url": "http://baike.baidu.com/view/86287.htm"
+    },
+    {
+        "univ_name": "玉林师范学院",
+        "univ_url": "http://baike.baidu.com/view/86259.htm"
+    },
+    {
+        "univ_name": "广西科技大学",
+        "univ_url": "http://baike.baidu.com/view/5262776.htm"
+    },
+    {
+        "univ_name": "内蒙古大学",
+        "univ_url": "http://baike.baidu.com/view/25317.htm"
+    },
+    {
+        "univ_name": "内蒙古工业大学",
+        "univ_url": "http://baike.baidu.com/view/35280.htm"
+    },
+    {
+        "univ_name": "内蒙古农业大学",
+        "univ_url": "http://baike.baidu.com/view/20002.htm"
+    },
+    {
+        "univ_name": "内蒙古师范大学",
+        "univ_url": "http://baike.baidu.com/view/25424.htm"
+    },
+    {
+        "univ_name": "内蒙古医科大学",
+        "univ_url": "http://baike.baidu.com/view/7893569.htm"
+    },
+    {
+        "univ_name": "呼和浩特民族学院",
+        "univ_url": "http://baike.baidu.com/view/2189038.htm"
+    },
+    {
+        "univ_name": "内蒙古财经学院",
+        "univ_url": "http://baike.baidu.com/view/4427347.htm"
+    },
+    {
+        "univ_name": "内蒙古科技大学",
+        "univ_url": "http://baike.baidu.com/view/68099.htm"
+    },
+    {
+        "univ_name": "赤峰学院",
+        "univ_url": "http://baike.baidu.com/view/36567.htm"
+    },
+    {
+        "univ_name": "呼伦贝尔学院",
+        "univ_url": "http://baike.baidu.com/view/36477.htm"
+    },
+    {
+        "univ_name": "集宁师范学院",
+        "univ_url": "http://baike.baidu.com/view/2191655.htm"
+    },
+    {
+        "univ_name": "内蒙古民族大学",
+        "univ_url": "http://baike.baidu.com/view/36550.htm"
+    },
+    {
+        "univ_name": "河套学院",
+        "univ_url": "http://baike.baidu.com/view/8349558.htm"
+    },
+    {
+        "univ_name": "宁夏大学",
+        "univ_url": "http://baike.baidu.com/view/2678.htm"
+    },
+    {
+        "univ_name": "宁夏医科大学",
+        "univ_url": "http://baike.baidu.com/view/1893805.htm"
+    },
+    {
+        "univ_name": "北方民族大学",
+        "univ_url": "http://baike.baidu.com/view/61482.htm"
+    },
+    {
+        "univ_name": "银川能源学院",
+        "univ_url": "http://baike.baidu.com/view/5262349.htm"
+    },
+    {
+        "univ_name": "宁夏师范学院",
+        "univ_url": "http://baike.baidu.com/view/189216.htm"
+    },
+    {
+        "univ_name": "宁夏理工学院",
+        "univ_url": "http://baike.baidu.com/view/164374.htm"
+    },
+    {
+        "univ_name": "青海大学",
+        "univ_url": "http://baike.baidu.com/view/148366.htm"
+    },
+    {
+        "univ_name": "青海师范大学",
+        "univ_url": "http://baike.baidu.com/view/68456.htm"
+    },
+    {
+        "univ_name": "青海民族大学",
+        "univ_url": "http://baike.baidu.com/view/2113296.htm"
+    },
+    {
+        "univ_name": "石河子大学",
+        "univ_url": "http://baike.baidu.com/view/21117.htm"
+    },
+    {
+        "univ_name": "新疆大学",
+        "univ_url": "http://baike.baidu.com/view/21118.htm"
+    },
+    {
+        "univ_name": "新疆农业大学",
+        "univ_url": "http://baike.baidu.com/view/43339.htm"
+    },
+    {
+        "univ_name": "新疆医科大学",
+        "univ_url": "http://baike.baidu.com/view/44785.htm"
+    },
+    {
+        "univ_name": "新疆师范大学",
+        "univ_url": "http://baike.baidu.com/view/7280.htm"
+    },
+    {
+        "univ_name": "新疆财经大学",
+        "univ_url": "http://baike.baidu.com/view/462110.htm"
+    },
+    {
+        "univ_name": "新疆艺术学院",
+        "univ_url": "http://baike.baidu.com/view/44750.htm"
+    },
+    {
+        "univ_name": "新疆工程学院",
+        "univ_url": "http://baike.baidu.com/view/6434249.htm"
+    },
+    {
+        "univ_name": "新疆警察学院",
+        "univ_url": "http://baike.baidu.com/view/8128181.htm"
+    },
+    {
+        "univ_name": "塔里木大学",
+        "univ_url": "http://baike.baidu.com/view/44809.htm"
+    },
+    {
+        "univ_name": "昌吉学院",
+        "univ_url": "http://baike.baidu.com/view/44789.htm"
+    },
+    {
+        "univ_name": "喀什师范学院",
+        "univ_url": "http://baike.baidu.com/view/44719.htm"
+    },
+    {
+        "univ_name": "伊犁师范学院",
+        "univ_url": "http://baike.baidu.com/view/44817.htm"
+    },
+    {
+        "univ_name": "海南大学",
+        "univ_url": "http://baike.baidu.com/view/39457.htm"
+    },
+    {
+        "univ_name": "海南师范大学",
+        "univ_url": "http://baike.baidu.com/view/28262.htm"
+    },
+    {
+        "univ_name": "海南医学院",
+        "univ_url": "http://baike.baidu.com/view/68507.htm"
+    },
+    {
+        "univ_name": "海口经济学院",
+        "univ_url": "http://baike.baidu.com/view/1415714.htm"
+    },
+    {
+        "univ_name": "琼州学院",
+        "univ_url": "http://baike.baidu.com/view/463586.htm"
+    },
+    {
+        "univ_name": "三亚学院",
+        "univ_url": "http://baike.baidu.com/view/193442.htm"
+    },
+    {
+        "univ_name": "西藏大学",
+        "univ_url": "http://baike.baidu.com/view/44534.htm"
+    },
+    {
+        "univ_name": "西藏藏医学院",
+        "univ_url": "http://baike.baidu.com/view/469165.htm"
+    },
+    {
+        "univ_name": "西藏民族学院",
+        "univ_url": "http://baike.baidu.com/view/44585.htm"
+    },
+    {
+        "univ_name": "香港大学",
+        "univ_url": "http://baike.baidu.com/view/8891.htm"
+    },
+    {
+        "univ_name": "香港中文大学",
+        "univ_url": "http://baike.baidu.com/view/8908.htm"
+    },
+    {
+        "univ_name": "香港科技大学",
+        "univ_url": "http://baike.baidu.com/view/92574.htm"
+    },
+    {
+        "univ_name": "香港城市大学",
+        "univ_url": "http://baike.baidu.com/view/255258.htm"
+    },
+    {
+        "univ_name": "香港理工大学",
+        "univ_url": "http://baike.baidu.com/view/74066.htm"
+    },
+    {
+        "univ_name": "香港浸会大学",
+        "univ_url": "http://baike.baidu.com/view/132324.htm"
+    },
+    {
+        "univ_name": "岭南大学",
+        "univ_url": "http://baike.baidu.com/view/290640.htm"
+    },
+    {
+        "univ_name": "澳门大学",
+        "univ_url": "http://baike.baidu.com/view/32756.htm"
+    },
+    {
+        "univ_name": "圣若瑟大学",
+        "univ_url": "http://baike.baidu.com/view/7995184.htm"
+    },
+    {
+        "univ_name": "澳门理工学院",
+        "univ_url": "http://baike.baidu.com/view/32766.htm"
+    },
+    {
+        "univ_name": "澳门镜湖护理学院",
+        "univ_url": "http://baike.baidu.com/view/413530.htm"
+    },
+    {
+        "univ_name": "澳门管理学院",
+        "univ_url": "http://baike.baidu.com/view/474138.htm"
+    },
+    {
+        "univ_name": "澳门城市大学",
+        "univ_url": "http://baike.baidu.com/view/5201750.htm"
+    },
+    {
+        "univ_name": "中西创新学院",
+        "univ_url": "http://baike.baidu.com/view/413561.htm"
+    },
+    {
+        "univ_name": "澳门科技大学",
+        "univ_url": "http://baike.baidu.com/view/16294.htm"
+    },
+    {
+        "univ_name": "澳门保安部队高等学校",
+        "univ_url": "http://baike.baidu.com/view/413528.htm"
+    },
+    {
+        "univ_name": "国立台湾大学",
+        "univ_url": "http://baike.baidu.com/view/6663.htm"
+    },
+    {
+        "univ_name": "台湾清华大学",
+        "univ_url": "http://baike.baidu.com/view/170221.htm"
+    },
+    {
+        "univ_name": "台湾交通大学",
+        "univ_url": "http://baike.baidu.com/view/337529.htm"
+    },
+    {
+        "univ_name": "台湾阳明大学",
+        "univ_url": "http://baike.baidu.com/view/465156.htm"
+    },
+    {
+        "univ_name": "台北大学",
+        "univ_url": "http://baike.baidu.com/view/576019.htm"
+    },
+    {
+        "univ_name": "台北市立教育大学",
+        "univ_url": "http://baike.baidu.com/view/562581.htm"
+    },
+    {
+        "univ_name": "台北市立体育学院",
+        "univ_url": "http://baike.baidu.com/view/1794260.htm"
+    },
+    {
+        "univ_name": "台北教育大学",
+        "univ_url": "http://baike.baidu.com/view/978059.htm"
+    },
+    {
+        "univ_name": "台湾师范大学",
+        "univ_url": "http://baike.baidu.com/view/1542334.htm"
+    },
+    {
+        "univ_name": "台湾中山大学",
+        "univ_url": "http://baike.baidu.com/view/1064457.htm"
+    },
+    {
+        "univ_name": "高雄大学",
+        "univ_url": "http://baike.baidu.com/view/465261.htm"
+    },
+    {
+        "univ_name": "高雄师范大学",
+        "univ_url": "http://baike.baidu.com/view/978042.htm"
+    },
+    {
+        "univ_name": "成功大学",
+        "univ_url": "http://baike.baidu.com/view/365885.htm"
+    },
+    {
+        "univ_name": "台南大学",
+        "univ_url": "http://baike.baidu.com/view/465158.htm"
+    },
+    {
+        "univ_name": "台湾中兴大学",
+        "univ_url": "http://baike.baidu.com/view/358175.htm"
+    },
+    {
+        "univ_name": "台湾政治大学",
+        "univ_url": "http://baike.baidu.com/view/292512.htm"
+    },
+    {
+        "univ_name": "新竹教育大学",
+        "univ_url": "http://baike.baidu.com/view/562542.htm"
+    },
+    {
+        "univ_name": "台湾中正大学",
+        "univ_url": "http://baike.baidu.com/view/539902.htm"
+    },
+    {
+        "univ_name": "台湾嘉义大学",
+        "univ_url": "http://baike.baidu.com/view/465183.htm"
+    },
+    {
+        "univ_name": "东华大学",
+        "univ_url": "http://baike.baidu.com/view/465257.htm"
+    },
+    {
+        "univ_name": "台东大学",
+        "univ_url": "http://baike.baidu.com/view/465150.htm"
+    },
+    {
+        "univ_name": "彰化师范大学",
+        "univ_url": "http://baike.baidu.com/view/978051.htm"
+    },
+    {
+        "univ_name": "屏东教育大学",
+        "univ_url": "http://baike.baidu.com/view/978066.htm"
+    },
+    {
+        "univ_name": "台南艺术大学",
+        "univ_url": "http://baike.baidu.com/view/465177.htm"
+    },
+    {
+        "univ_name": "台湾暨南国际大学",
+        "univ_url": "http://baike.baidu.com/view/606965.htm"
+    },
+    {
+        "univ_name": "台湾海洋大学",
+        "univ_url": "http://baike.baidu.com/view/465259.htm"
+    },
+    {
+        "univ_name": "台湾中央大学",
+        "univ_url": "http://baike.baidu.com/view/292516.htm"
+    }
+]

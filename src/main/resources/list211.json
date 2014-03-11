@@ -1,0 +1,240 @@
+[
+	{
+		"p_name": "北京",
+		"sc_id": "1002",
+		"sc_name": "北京大学",
+		"url": "/view/1471.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "上海",
+		"sc_id": "2001",
+		"sc_name": "复旦大学",
+		"url": "/view/1565.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "黑龙江",
+		"sc_id": "3001",
+		"sc_name": "哈尔滨工业大学",
+		"url": "/view/13897.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "吉林",
+		"sc_id": "4001",
+		"sc_name": "吉林大学",
+		"url": "/view/4124.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "辽宁",
+		"sc_id": "5001",
+		"sc_name": "大连理工",
+		"url": "/view/3035.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "天津",
+		"sc_id": "6001",
+		"sc_name": "南开大学",
+		"url": "/view/2967.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "安徽",
+		"sc_id": "7001",
+		"sc_name": "中国科大",
+		"url": "/view/4522.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "江苏",
+		"sc_id": "8001",
+		"sc_name": "南京大学",
+		"url": "/view/3143.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "浙江",
+		"sc_id": "9001",
+		"sc_name": "浙江大学",
+		"url": "/view/2548.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "陕西",
+		"sc_id": "10001",
+		"sc_name": "西安交大",
+		"url": "/view/6510.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "湖北",
+		"sc_id": "11001",
+		"sc_name": "武汉大学",
+		"url": "/view/1264.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "广东",
+		"sc_id": "12001",
+		"sc_name": "华南理工大学",
+		"url": "/view/2971.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "湖南",
+		"sc_id": "13002",
+		"sc_name": "中南大学",
+		"url": "/view/3522.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "甘肃",
+		"sc_id": "14001",
+		"sc_name": "兰州大学",
+		"url": "/view/4626.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "四川",
+		"sc_id": "15001",
+		"sc_name": "四川大学",
+		"url": "/view/4517.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "山东",
+		"sc_id": "16001",
+		"sc_name": "山东大学",
+		"url": "/view/2227.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "福建",
+		"sc_id": "17001",
+		"sc_name": "厦门大学",
+		"url": "/view/6408.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "河南",
+		"sc_id": "18001",
+		"sc_name": "郑州大学",
+		"url": "/view/8791.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "重庆",
+		"sc_id": "19001",
+		"sc_name": "重庆大学",
+		"url": "/view/6269.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "云南",
+		"sc_id": "20012",
+		"sc_name": "云南大学",
+		"url": "/view/4613.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "河北",
+		"sc_id": "21001",
+		"sc_name": "河北大学",
+		"url": "/view/6021.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "江西",
+		"sc_id": "22002",
+		"sc_name": "南昌大学",
+		"url": "/view/4763.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "山西",
+		"sc_id": "23002",
+		"sc_name": "太原理工",
+		"url": "/view/20904.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "贵州",
+		"sc_id": "24001",
+		"sc_name": "贵州大学",
+		"url": "/view/9337.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "广西",
+		"sc_id": "25001",
+		"sc_name": "广西大学",
+		"url": "/view/7857.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "内蒙古",
+		"sc_id": "26001",
+		"sc_name": "内蒙古大学",
+		"url": "/view/25317.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "宁夏",
+		"sc_id": "27001",
+		"sc_name": "宁夏大学",
+		"url": "/view/2678.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "青海",
+		"sc_id": "28001",
+		"sc_name": "青海大学",
+		"url": "/view/148366.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "新疆",
+		"sc_id": "29051",
+		"sc_name": "石河子大学",
+		"url": "/view/21117.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "海南",
+		"sc_id": "30001",
+		"sc_name": "海南大学",
+		"url": "/view/39457.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "西藏",
+		"sc_id": "31001",
+		"sc_name": "西藏大学",
+		"url": "/view/44534.htm",
+		"key_word":""
+	},
+	{
+		"p_name": "香港",
+		"sc_id": "32001",
+		"sc_name": "香港大学",
+		"url": "/view/8891.htm",
+		"key_word":"香港AACSB认证大学"
+	},
+	{
+		"p_name": "澳门",
+		"sc_id": "33001",
+		"sc_name": "澳门大学",
+		"url": "/view/32756.htm",
+		"key_word":"澳门特别行政区高校"
+	},
+	{
+		"p_name": "台湾",
+		"sc_id": "34001",
+		"sc_name": "国立台湾大学",
+		"url": "/view/6663.htm",
+		"key_word":"台湾高校名单"
+	}
+]

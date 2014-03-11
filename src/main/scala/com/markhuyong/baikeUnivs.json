@@ -1,0 +1,5624 @@
+[
+    {
+        "中文名": "北京大学",
+        "外文名": "Peking University",
+        "简称": "北大（PKU）",
+        "学校属性": "211工程， 985工程，C9联盟"
+    },
+    {
+        "中文名": "北京信息科技大学",
+        "外文名": "Beijing Information Science and Technology University",
+        "简称": "信息科大、北信科大（BISTU）",
+        "学校属性": "北京市重点建设高校"
+    },
+    {
+        "中文名": "北京工商大学",
+        "外文名": "Beijing Technology and Business University",
+        "简称": "北工商 btbu",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京联合大学",
+        "外文名": "Beijing Union University",
+        "简称": "北京联大",
+        "学校属性": "北京市属"
+    },
+    {
+        "中文名": "北京工业大学",
+        "外文名": "Beijing University of Technology",
+        "简称": "北工大（BJUT）",
+        "学校属性": "211工程、卓越计划、111计划"
+    },
+    {
+        "中文名": "北方工业大学",
+        "外文名": "North China University of Technology",
+        "简称": "北方工大",
+        "学校属性": "北京市市属本科院校"
+    },
+    {
+        "中文名": "首都医科大学",
+        "外文名": "Capital Medical University",
+        "简称": "",
+        "学校属性": "市属重点大学"
+    },
+    {
+        "中文名": "首都师范大学",
+        "外文名": "Capital Normal University (CNU)",
+        "简称": "首师大，CNU",
+        "学校属性": "北京市属重点大学"
+    },
+    {
+        "中文名": "首都经济贸易大学",
+        "外文名": "Capital University of Economics and Business",
+        "简称": "CUEB 首经贸",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京建筑大学",
+        "外文名": "Beijing University of Civil Engineering and Architecture",
+        "简称": "北建大",
+        "学校属性": "卓越工程师教育培养计划实施高校"
+    },
+    {
+        "中文名": "北京服装学院",
+        "外文名": "Beijing Institute Of Fashion Technology",
+        "简称": "北服",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京印刷学院",
+        "外文名": "Beijing Institute Of Graphic Comminication",
+        "简称": "北印",
+        "学校属性": "北京市市属本科院校"
+    },
+    {
+        "中文名": "北京石油化工学院",
+        "外文名": "Beijing Institute of Petrochemical Technology",
+        "简称": "北石化",
+        "学校属性": ""
+    },
+    {
+        "中文名": "首钢工学院",
+        "外文名": "Shougang Institute of Technology",
+        "简称": "SGIT",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京农学院",
+        "外文名": "Beijing University Of Agriculture",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "首都体育学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京第二外国语学院",
+        "外文名": "Beijing International Studies University",
+        "简称": "BISU 北二外",
+        "学校属性": "全国重点院校"
+    },
+    {
+        "中文名": "北京物资学院",
+        "外文名": "Beijing Wuzi University",
+        "简称": "北物",
+        "学校属性": "普通高等学校"
+    },
+    {
+        "中文名": "北京警察学院",
+        "外文名": "Beijing Police College",
+        "简称": "北京警院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国音乐学院",
+        "外文名": "China Conservatory of Music",
+        "简称": "国音",
+        "学校属性": "北京市属高等院校"
+    },
+    {
+        "中文名": "北京舞蹈学院",
+        "外文名": "Beijing Dancing Academy",
+        "简称": "北舞（BDA）",
+        "学校属性": "北京市属高等院校"
+    },
+    {
+        "中文名": "北京电影学院",
+        "外文名": "Beijing Film Academy",
+        "简称": "北电",
+        "学校属性": "北京市属高等院校"
+    },
+    {
+        "中文名": "中国戏曲学院",
+        "外文名": "The National Academy of Chinese Theatre Arts",
+        "简称": "国戏（NACTA）",
+        "学校属性": "北京市属高等院校"
+    },
+    {
+        "中文名": "北京城市学院",
+        "外文名": "Beijing City University",
+        "简称": "北城",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "中国青年政治学院",
+        "外文名": "China Youth University For Political Sciences",
+        "简称": "中青政、中青院、CYU",
+        "学校属性": "团部共建、卓越法律人才计划"
+    },
+    {
+        "中文名": "北京电子科技学院",
+        "外文名": "Beijing Electronics Science&amp;Technology Institute",
+        "简称": "英文缩写BESTI",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中华女子学院",
+        "外文名": "CHINA WOMEN’S UNIVERSITY",
+        "简称": "女院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国劳动关系学院",
+        "外文名": "China Institute of Industrial Relations",
+        "简称": "",
+        "学校属性": "中央部属高校"
+    },
+    {
+        "中文名": "北京理工大学",
+        "外文名": "Beijing Institute of Technology",
+        "简称": "北理工 BIT",
+        "学校属性": "211工程，985工程，111计划"
+    },
+    {
+        "中文名": "北京航空航天大学",
+        "外文名": "Beihang University",
+        "简称": "北航（BUAA）",
+        "学校属性": "211工程,985工程,2011计划"
+    },
+    {
+        "中文名": "中国人民公安大学",
+        "外文名": "Peoples Public Security University of China",
+        "简称": "公大（PPSUC）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中央民族大学",
+        "外文名": "Minzu University of China",
+        "简称": "MUC，民大",
+        "学校属性": "211工程,985工程"
+    },
+    {
+        "中文名": "北京体育大学",
+        "外文名": "Beijing Sport University",
+        "简称": "北体，体大，北体大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "中国人民大学",
+        "外文名": "Renmin University of China",
+        "简称": "人大（RUC）",
+        "学校属性": "985工程、211工程、111计划"
+    },
+    {
+        "中文名": "清华大学",
+        "外文名": "Tsinghua University",
+        "简称": "清华(THU或Tsinghua)",
+        "学校属性": "985工程、211工程、C9联盟"
+    },
+    {
+        "中文名": "北京交通大学",
+        "外文名": "Beijing Jiaotong University",
+        "简称": "北京交大，BJTU",
+        "学校属性": "211工程，985工程平台，2011计划"
+    },
+    {
+        "中文名": "北京科技大学",
+        "外文名": "University of Science & Technology Beijing",
+        "简称": "北科大",
+        "学校属性": "卓越计划，985平台，211工程"
+    },
+    {
+        "中文名": "中国石油大学",
+        "外文名": "China University of Petroleum",
+        "简称": "石大",
+        "学校属性": "211工程、985平台、卓越计划"
+    },
+    {
+        "中文名": "北京邮电大学",
+        "外文名": "Beijing University of Posts and Telecommunications",
+        "简称": "北邮 (BUPT)",
+        "学校属性": "211工程、985平台、111计划"
+    },
+    {
+        "中文名": "华北电力大学",
+        "外文名": "North China Electric Power University",
+        "简称": "华电（NCEPU）华北电大",
+        "学校属性": "卓越计划，211工程，特色985工程"
+    },
+    {
+        "中文名": "北京化工大学",
+        "外文名": "Beijing University of Chemical Technology",
+        "简称": "北化、化大、北化大",
+        "学校属性": "211工程、985平台、研究生院"
+    },
+    {
+        "中文名": "中国农业大学",
+        "外文名": "China Agricultural University",
+        "简称": "中国农大 CAU",
+        "学校属性": "211工程,985工程"
+    },
+    {
+        "中文名": "北京林业大学",
+        "外文名": "Beijing Forestry University",
+        "简称": "北林，林大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "北京中医药大学",
+        "外文名": "Beijing University of Chinese Medicine",
+        "简称": "中医药大学、北中医",
+        "学校属性": "211工程、985平台、111计划"
+    },
+    {
+        "中文名": "北京师范大学",
+        "外文名": "Beijing Normal University",
+        "简称": "北师大(BNU)",
+        "学校属性": "211工程，985工程，研究生院"
+    },
+    {
+        "中文名": "北京外国语大学",
+        "外文名": "Beijing Foreign Studies University",
+        "简称": "北外、BFSU、Bei Wai",
+        "学校属性": "985优势学科创新平台、211工程"
+    },
+    {
+        "中文名": "北京语言大学",
+        "外文名": "Beijing Language and Culture University",
+        "简称": "北语（BLCU）",
+        "学校属性": "教育部直属的全国重点大学"
+    },
+    {
+        "中文名": "中国·对外经济贸易大学",
+        "外文名": "University of International Business and Economics",
+        "简称": "UIBE、贸大、外经贸，猫大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "中央财经大学",
+        "外文名": "Central University of Finance and Economics",
+        "简称": "中财、中财大、中央财大、CUFE",
+        "学校属性": "211工程、985平台"
+    },
+    {
+        "中文名": "中国政法大学",
+        "外文名": "China University of Political Science and Law",
+        "简称": "法大（CUPL）",
+        "学校属性": "211工程、985平台、2011计划"
+    },
+    {
+        "中文名": "中国传媒大学",
+        "外文名": "Communication University of China",
+        "简称": "北广、中传、广院",
+        "学校属性": "211工程、985优势平台、111计划"
+    },
+    {
+        "中文名": "国际关系学院",
+        "外文名": "University of International Relations",
+        "简称": "国关",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中央美术学院",
+        "外文名": "Central Academy of Fine Art（缩写CAFA）",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中央戏剧学院",
+        "外文名": "The Central Academy Of Drama",
+        "简称": "中戏",
+        "学校属性": "教育部直属高等院校"
+    },
+    {
+        "中文名": "中央音乐学院",
+        "外文名": "Central Conservatory of Music",
+        "简称": "中音",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "外交学院",
+        "外文名": "China foreign affairs university",
+        "简称": "外交院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "北京协和医学院",
+        "外文名": "Peking Union Medical College",
+        "简称": "协和",
+        "学校属性": "211工程、985工程"
+    },
+    {
+        "中文名": "中国地质大学（北京）",
+        "外文名": "China University of Geosciences, Beijing",
+        "简称": "地大（CUG）",
+        "学校属性": "研究型大学"
+    },
+    {
+        "中文名": "中国矿业大学（北京）【邓小平题写】",
+        "外文名": "China University Of Mining And Technology,Beijing（CUMTB）",
+        "简称": "中国矿大、矿大、矿大北京",
+        "学校属性": "211工程 985平台高校 研究生院"
+    },
+    {
+        "中文名": "复旦大学",
+        "外文名": "Fudan University",
+        "简称": "复旦(Fudan或FDU)",
+        "学校属性": "211工程，985工程，C9联盟"
+    },
+    {
+        "中文名": "上海大学",
+        "外文名": "Shanghai University",
+        "简称": "上大（SHU）",
+        "学校属性": "省部共建，卓越计划，211工程"
+    },
+    {
+        "中文名": "上海理工大学",
+        "外文名": "University of Shanghai for Science and Technology",
+        "简称": "上理、上理工(USST)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海海事大学",
+        "外文名": "Shanghai Maritime University",
+        "简称": "海大、上海海大、SMU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海工程技术大学",
+        "外文名": "",
+        "简称": "工程大（SUES）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海海洋大学",
+        "外文名": "Shanghai Ocean University",
+        "简称": "上海海大",
+        "学校属性": "省部共建大学"
+    },
+    {
+        "中文名": "上海中医药大学",
+        "外文名": "Shanghai University of Traditional Chinese Medicine",
+        "简称": "上中医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海师范大学",
+        "外文名": "Shanghai Normal University",
+        "简称": "上海师大(SHNU)，上师大",
+        "学校属性": "上海市属重点大学"
+    },
+    {
+        "中文名": "华东政法大学",
+        "外文名": "East China University of Political Science and Law",
+        "简称": "华政，华东政法，ECUPL",
+        "学校属性": "国立重点高等政法大学"
+    },
+    {
+        "中文名": "上海政法学院",
+        "外文名": "Shanghai University of Political Science and Law",
+        "简称": "上政（SHUPL）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海应用技术学院",
+        "外文名": "Shanghai Institute of Technology",
+        "简称": "应用技术学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海电力学院",
+        "外文名": "Shanghai University of Electric Power",
+        "简称": "上海电院，SUEP，上电",
+        "学校属性": "卓越工程师计划"
+    },
+    {
+        "中文名": "上海第二工业大学",
+        "外文名": "Shanghai Second Polytechnic University",
+        "简称": "二工大，SSPU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海电机学院",
+        "外文名": "Shanghai DianJi University",
+        "简称": "电机学院",
+        "学校属性": "卓越工程师计划高校"
+    },
+    {
+        "中文名": "上海对外经贸大学",
+        "外文名": "",
+        "简称": "上外贸，沪经贸大，Suibe",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海金融学院",
+        "外文名": "Shanghai Finance University",
+        "简称": "上海金融",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海商学院",
+        "外文名": "Shanghai Business School",
+        "简称": "上商，SBS",
+        "学校属性": "普通本科高校"
+    },
+    {
+        "中文名": "上海立信会计学院",
+        "外文名": "Shanghai Lixin University of Commerce",
+        "简称": "立信(SLUC)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海体育学院",
+        "外文名": "Shanghai University of Sport",
+        "简称": "上体、上海体院",
+        "学校属性": "上海市属高等院校"
+    },
+    {
+        "中文名": "上海音乐学院",
+        "外文名": "Shanghai Conservatory of Music",
+        "简称": "上音",
+        "学校属性": "上海市属高等院校"
+    },
+    {
+        "中文名": "上海戏剧学院",
+        "外文名": "Shanghai Theatre Academy",
+        "简称": "上戏 / STA",
+        "学校属性": "上海市属高等院校"
+    },
+    {
+        "中文名": "上海建桥学院",
+        "外文名": "SHANGHAI JIANQIAO UNIVERSITY",
+        "简称": "建桥、SJU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海杉达学院",
+        "外文名": "Shanghai Sanda University",
+        "简称": "杉达、杉大、SDU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海海关学院",
+        "外文名": "Shanghai Customs College",
+        "简称": "海关学院，SCC",
+        "学校属性": ""
+    },
+    {
+        "中文名": "同济大学",
+        "外文名": "Tongji University",
+        "简称": "同济（TJU）",
+        "学校属性": "211工程和985工程"
+    },
+    {
+        "中文名": "上海交通大学",
+        "外文名": "Shanghai Jiao Tong University（简称SJTU）",
+        "简称": "交通大学、交大、上海交大",
+        "学校属性": "211工程、985工程、C9联盟"
+    },
+    {
+        "中文名": "华东理工大学",
+        "外文名": "East China University of Science and Technology",
+        "简称": "华东理工、华理、ECUST",
+        "学校属性": "211工程985工程优势学科创新平台"
+    },
+    {
+        "中文名": "东华大学",
+        "外文名": "Donghua University",
+        "简称": "DHU",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "华东师范大学",
+        "外文名": "East China Normal University",
+        "简称": "华东师大、华师大（ECNU）",
+        "学校属性": "211工程,985工程,2011计划"
+    },
+    {
+        "中文名": "上海外国语大学",
+        "外文名": "【EN】Shanghai International Studies University【RU】Шанхайский Университет Иностранных Языков",
+        "简称": "上外、SISU、ShàngWài、西索",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "上海财经大学",
+        "外文名": "Shanghai University of Finance and Economics",
+        "简称": "上财",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "上海视觉艺术学院",
+        "外文名": "Shanghai Institute of Visual Art",
+        "简称": "上视、上海视觉（siva）",
+        "学校属性": "上海市属高等院校"
+    },
+    {
+        "中文名": "上海纽约大学",
+        "外文名": "NYU Shanghai",
+        "简称": "",
+        "学校属性": "首所中美合办大学"
+    },
+    {
+        "中文名": "哈尔滨工业大学",
+        "外文名": "Harbin Institute of Technology",
+        "简称": "哈工大（HIT）",
+        "学校属性": "211工程、985工程、C9联盟"
+    },
+    {
+        "中文名": "黑龙江大学",
+        "外文名": "Heilongjiang University",
+        "简称": "黑大（HLJU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "哈尔滨理工大学",
+        "外文名": "Harbin University of Science and Technology",
+        "简称": "哈理工，HUST",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "东北农业大学",
+        "外文名": "Northeast Agricultural University",
+        "简称": "东农",
+        "学校属性": "211工程、中西部100所"
+    },
+    {
+        "中文名": "哈尔滨医科大学",
+        "外文名": "Harbin Medical University",
+        "简称": "哈医大（HMU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "黑龙江中医药大学",
+        "外文名": "Heilongjiang University Of Chinese Medicine",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨师范大学",
+        "外文名": "Harbin Normal University",
+        "简称": "哈师大",
+        "学校属性": "黑龙江省重点建设高校"
+    },
+    {
+        "中文名": "哈尔滨商业大学",
+        "外文名": "Harbin University of Commerce",
+        "简称": "哈商大、商大",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "黑龙江科技大学",
+        "外文名": "Heilongjiang University of Science and Technology",
+        "简称": "黑科大，黑科技(USTH)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "黑龙江工程学院",
+        "外文名": "Heilongjiang Institute of Technology",
+        "简称": "黑工程",
+        "学校属性": "卓越计划"
+    },
+    {
+        "中文名": "哈尔滨学院",
+        "外文名": "Harbin University",
+        "简称": "哈学院",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "哈尔滨金融学院",
+        "外文名": "Harbin Finance University",
+        "简称": "哈金院 （HFU） 金院",
+        "学校属性": "本科"
+    },
+    {
+        "中文名": "哈尔滨体育学院",
+        "外文名": "",
+        "简称": "哈体院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "黑龙江外国语学院",
+        "外文名": "Heilongjiang International University",
+        "简称": "龙外",
+        "学校属性": ""
+    },
+    {
+        "中文名": "黑龙江东方学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨剑桥学院",
+        "外文名": "Harbin Cambridge University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "华德学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨工程大学",
+        "外文名": "Harbin Engineering University",
+        "简称": "哈工程（HEU）",
+        "学校属性": "首批27所211、985平台、研究生院"
+    },
+    {
+        "中文名": "黑龙江财经学院",
+        "外文名": "Heilongjiang University of Finance and Economic",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨石油学院",
+        "外文名": "Harbin Institute of Petroleum",
+        "简称": "哈石油",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨广厦学院",
+        "外文名": "",
+        "简称": "广厦",
+        "学校属性": ""
+    },
+    {
+        "中文名": "哈尔滨远东理工学院",
+        "外文名": "Harbin Far East Institute of Technology（HFEIT)",
+        "简称": "远东学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "齐齐哈尔大学",
+        "外文名": "Qiqihar University",
+        "简称": "齐大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "齐齐哈尔医学院",
+        "外文名": "Qiqihar Medical University",
+        "简称": "齐医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "齐齐哈尔工程学院",
+        "外文名": "Qiqihaer Institute of Engineering",
+        "简称": "齐工程",
+        "学校属性": "市属本科院校"
+    },
+    {
+        "中文名": "牡丹江医学院",
+        "外文名": "Mudanjiang Medical University",
+        "简称": "牡医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "牡丹江师范学院",
+        "外文名": "Mudanjiang normal university",
+        "简称": "牡师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "东北石油大学",
+        "外文名": "Northeast Petroleum University",
+        "简称": "东油（NEPU）",
+        "学校属性": "全国重点大学"
+    },
+    {
+        "中文名": "黑龙江八一农垦大学",
+        "外文名": "Heilongjiang Bayi Agricultural University（HLAU）",
+        "简称": "八一农大(垦区黄埔)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "大庆师范学院",
+        "外文名": "Daqing Normal University",
+        "简称": "大庆师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "东北林业大学",
+        "外文名": "Northeast Forestry University",
+        "简称": "东林、东北林大、林大、林业大学",
+        "学校属性": "211工程、特色985工程、研究生院"
+    },
+    {
+        "中文名": "黑河学院",
+        "外文名": "Heihe University",
+        "简称": "",
+        "学校属性": "普通高等本科院校"
+    },
+    {
+        "中文名": "佳木斯大学",
+        "外文名": "Jiamusi University",
+        "简称": "佳大，JMSU",
+        "学校属性": "省重点大学，黑龙江“1115工程”"
+    },
+    {
+        "中文名": "绥化学院",
+        "外文名": "Suihua University",
+        "简称": "绥大SU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "黑龙江工业学院",
+        "外文名": "HeiLongJiang Institute of Technology",
+        "简称": "",
+        "学校属性": "省属"
+    },
+    {
+        "中文名": "吉林大学",
+        "外文名": "Jilin University",
+        "简称": "吉大",
+        "学校属性": "211工程，985工程，珠峰计划"
+    },
+    {
+        "中文名": "长春大学",
+        "外文名": "Changchun University",
+        "简称": "长大（CCU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "长春理工大学",
+        "外文名": "Changchun University of Science and Technology",
+        "简称": "长理（CUST）",
+        "学校属性": "省部共建、中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "长春工业大学",
+        "外文名": "Changchun University of Technology",
+        "简称": "长春工大（CCUT）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林农业大学",
+        "外文名": "Jilin Agricultural University",
+        "简称": "吉林农大",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "长春中医药大学",
+        "外文名": "Changchun University of Chinese Medicine",
+        "简称": "",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "吉林财经大学",
+        "外文名": "Jilin University of Finance and Economics",
+        "简称": "吉林财大,JLUFE",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "长春工程学院",
+        "外文名": "Changchun Institute Of Technology",
+        "简称": "长春工程",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林建筑大学",
+        "外文名": "Jilin Jianzhu University",
+        "简称": "吉建大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林工程技术师范学院",
+        "外文名": "Jilin Teachers Institute of Engineering and Technology",
+        "简称": "吉林工师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "长春师范大学",
+        "外文名": "Changchun Normal University",
+        "简称": "长春师大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林工商学院",
+        "外文名": "Jilin Business and Technology College",
+        "简称": "吉林工商",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林警察学院",
+        "外文名": "Jilin Police College",
+        "简称": "吉林警院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林体育学院",
+        "外文名": "Jilin Institute Of Physical Education",
+        "简称": "吉林体院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林艺术学院",
+        "外文名": "JILIN COLLEGE OF THE ARTS",
+        "简称": "吉艺",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "长春建筑学院",
+        "外文名": "Changchun School of Architecture",
+        "简称": "长建",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林华桥外国语学院",
+        "外文名": "Jilin Huaqiao University Of Foreign Languages",
+        "简称": "HQUFL、Huawai、华桥外院、华外",
+        "学校属性": ""
+    },
+    {
+        "中文名": "吉林动画学院",
+        "外文名": "Jilin Animation Institute",
+        "简称": "吉动（JAI）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "东北师范大学",
+        "外文名": "Northeast Normal University",
+        "简称": "汉：东北师大 英：NENU",
+        "学校属性": "211工程，985平台，研究生院"
+    },
+    {
+        "中文名": "长春科技学院",
+        "外文名": "Changchun University of science and technology",
+        "简称": "长科",
+        "学校属性": "吉林省省属高校"
+    },
+    {
+        "中文名": "长春光华学院",
+        "外文名": "Changchun Guanghua University",
+        "简称": "光华学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "北华大学",
+        "外文名": "Beihua University",
+        "简称": "北华（BHU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "东北电力大学",
+        "外文名": "Northeast Dianli University",
+        "简称": "东电（NEDU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "吉林化工学院",
+        "外文名": "Jilin Institute of Chemical Technology",
+        "简称": "吉林化工",
+        "学校属性": "省属高等院校、卓越计划"
+    },
+    {
+        "中文名": "吉林农业科技学院",
+        "外文名": "JILin Agriculture Science And Technology College",
+        "简称": "农校",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林医药学院",
+        "外文名": "Jinlin Medical college",
+        "简称": "吉林医药",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "白城师范学院",
+        "外文名": "BaiCheng Normal University",
+        "简称": "白城师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "吉林师范大学",
+        "外文名": "Jilin Normal University",
+        "简称": "吉林师大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "通化师范学院",
+        "外文名": "Tonghua Normal University",
+        "简称": "通师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "延边大学",
+        "外文名": "Yanbian University，연변대학",
+        "简称": "延大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "大连理工大学",
+        "外文名": "Dalian University of Technology",
+        "简称": "大工，DUT",
+        "学校属性": "211工程,985工程，111计划"
+    },
+    {
+        "中文名": "南开大学",
+        "外文名": "Nankai University",
+        "简称": "南开，NKU",
+        "学校属性": "211工程，985工程"
+    },
+    {
+        "中文名": "天津工业大学",
+        "外文名": "Tianjin Polytechnic University",
+        "简称": "天工大，TJPU",
+        "学校属性": "卓越工程师培养计划高校"
+    },
+    {
+        "中文名": "天津科技大学",
+        "外文名": "Tianjin University of Science&Technology",
+        "简称": "天科大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津理工大学",
+        "外文名": "Tianjin University of Technology",
+        "简称": "天理工、天理",
+        "学校属性": "卓越计划"
+    },
+    {
+        "中文名": "天津医科大学",
+        "外文名": "Tianjin Medical University",
+        "简称": "天津医大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "天津中医药大学",
+        "外文名": "Tianjin University of Traditional Chinese Medicine",
+        "简称": "天津中医大（TUTCM）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津师范大学",
+        "外文名": "Tianjin Normal University",
+        "简称": "天师大，天师",
+        "学校属性": "天津市属重点院校"
+    },
+    {
+        "中文名": "天津职业技术师范大学",
+        "外文名": "Tianjin University of Technology and Education",
+        "简称": "天职师大、工程师院",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "天津外国语大学",
+        "外文名": "Tianjin Foreign Studies University",
+        "简称": "天外（TFSU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津财经大学",
+        "外文名": "Tianjin University of Finance and Economics",
+        "简称": "天财",
+        "学校属性": "天津市属重点大学"
+    },
+    {
+        "中文名": "天津商业大学",
+        "外文名": "Tianjin university of commerce",
+        "简称": "天商、TUC",
+        "学校属性": "市属重点大学"
+    },
+    {
+        "中文名": "天津城建大学",
+        "外文名": "Tianjin Chengjian University",
+        "简称": "城建大学",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津农学院",
+        "外文名": "Tianjin Agricultural University",
+        "简称": "天农",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津体育学院",
+        "外文名": "Tianjin University of Sport",
+        "简称": "天体",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津美术学院",
+        "外文名": "Tianjin Academy of Fine Arts",
+        "简称": "天美",
+        "学校属性": "天津市属高等院校"
+    },
+    {
+        "中文名": "天津音乐学院",
+        "外文名": "Tianjin Conservatory Of Music",
+        "简称": "天音",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天津天狮学院",
+        "外文名": "Tianshi College",
+        "简称": "天狮学院",
+        "学校属性": "私立本科"
+    },
+    {
+        "中文名": "中国民航大学",
+        "外文名": "Civil Aviation University of China",
+        "简称": "CAUC",
+        "学校属性": "理工类"
+    },
+    {
+        "中文名": "天津大学",
+        "外文名": "TIANJIN UNIVERSITY",
+        "简称": "天大（英：TU）",
+        "学校属性": "211工程，985工程，卓越大学联盟"
+    },
+    {
+        "中文名": "中国科学技术大学",
+        "外文名": "University of Science and Technology of China",
+        "简称": "中国科大",
+        "学校属性": "211工程、985工程"
+    },
+    {
+        "中文名": "安徽大学",
+        "外文名": "Anhui University",
+        "简称": "安大、 AHU",
+        "学校属性": "211工程、省部共建高校"
+    },
+    {
+        "中文名": "安徽农业大学",
+        "外文名": "Anhui Agricultural University",
+        "简称": "安农大、农大、安农",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "安徽医科大学",
+        "外文名": "Anhui Medical University",
+        "简称": "安徽医大（AHMU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "安徽建筑大学",
+        "外文名": "ANHUI JIANZHU UNIVERSITY",
+        "简称": "安建大（AHJZU）",
+        "学校属性": "卓越工程师计划"
+    },
+    {
+        "中文名": "安徽中医药大学",
+        "外文名": "Anhui University of Chinese Medicine",
+        "简称": "安中大、安中医、 AHUCM",
+        "学校属性": "省属重点建设大学"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "合肥学院",
+        "外文名": "Hefei University",
+        "简称": "“合院”、“合联大”、HFUU",
+        "学校属性": "卓越计划"
+    },
+    {
+        "中文名": "安徽文达信息工程学院",
+        "外文名": "Anhui Wonder University Of Information Engineering",
+        "简称": "安信工（AUIE）、文达学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安徽外国语学院",
+        "外文名": "Anhui foreign language university",
+        "简称": "安徽外院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安徽新华学院",
+        "外文名": "Anhui Xinhua University",
+        "简称": "新华学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "合肥工业大学",
+        "外文名": "Hefei University of Technology",
+        "简称": "合工大、合肥工大、HFUT",
+        "学校属性": "211工程、985创新平台、111计划"
+    },
+    {
+        "中文名": "安徽三联学院",
+        "外文名": "Anhui Sanlian University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安徽财经大学",
+        "外文名": "Anhui University Of Finance",
+        "简称": "安财（AUFE）",
+        "学校属性": "中西部部高校基础能力建设工程"
+    },
+    {
+        "中文名": "蚌埠医学院",
+        "外文名": "Bengbu Medical College",
+        "简称": "蚌医（BMC)",
+        "学校属性": "国家卓越医生计划"
+    },
+    {
+        "中文名": "蚌埠学院",
+        "外文名": "Bengbu university",
+        "简称": "蚌院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安徽理工大学",
+        "外文名": "Anhui University Of Science & Technology",
+        "简称": "安理工（AUST）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "淮南师范学院",
+        "外文名": "Huainan Normal University",
+        "简称": "",
+        "学校属性": "省属全日制普通师范类本科高校"
+    },
+    {
+        "中文名": "安徽工程大学",
+        "外文名": "Anhui Polytechnic University",
+        "简称": "安工程（AHPU）",
+        "学校属性": "安徽省重点建设大学"
+    },
+    {
+        "中文名": "安徽师范大学",
+        "外文名": "Anhui Normal University",
+        "简称": "安师大(AHNU)",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "皖南医学院",
+        "外文名": "WANNAN MEDICAL COLLEGE",
+        "简称": "皖医",
+        "学校属性": "省属普通高校"
+    },
+    {
+        "中文名": "安徽科技学院",
+        "外文名": "Anhui Science and Technology University",
+        "简称": "安科（ASTU)",
+        "学校属性": "教育部卓越计划"
+    },
+    {
+        "中文名": "滁州学院",
+        "外文名": "Chuzhou University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安庆师范学院",
+        "外文名": "AnQing Teachers College",
+        "简称": "安师院",
+        "学校属性": "公办普通本科院校"
+    },
+    {
+        "中文名": "巢湖学院",
+        "外文名": "Chaohu University",
+        "简称": "巢院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "池州学院",
+        "外文名": "Chizhou University",
+        "简称": "池院",
+        "学校属性": "普通二本"
+    },
+    {
+        "中文名": "阜阳师范学院",
+        "外文名": "Fuyang Teachers College",
+        "简称": "阜师院",
+        "学校属性": "省属本科"
+    },
+    {
+        "中文名": "黄山学院",
+        "外文名": "Huangshan University",
+        "简称": "HSU",
+        "学校属性": "综合性省属本科应用型建设高校"
+    },
+    {
+        "中文名": "皖西学院",
+        "外文名": "West Anhui University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安徽工业大学",
+        "外文名": "Anhui University of Technology",
+        "简称": "安工大(AHUT)",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "铜陵学院",
+        "外文名": "Tongling University",
+        "简称": "铜大",
+        "学校属性": "安徽重点建设示范应用型本科高校"
+    },
+    {
+        "中文名": "宿州学院",
+        "外文名": "Suzhou University",
+        "简称": "",
+        "学校属性": "本科"
+    },
+    {
+        "中文名": "淮北师范大学",
+        "外文名": "Huaibei Normal University",
+        "简称": "淮师、淮师大",
+        "学校属性": "安徽省属重点"
+    },
+    {
+        "中文名": "南京大学",
+        "外文名": "Nanjing University",
+        "简称": "南大(NJU)",
+        "学校属性": "211工程，985工程，C9联盟"
+    },
+    {
+        "中文名": "南京邮电大学",
+        "外文名": "Nanjing University of Posts and Telecommunications",
+        "简称": "南邮（NUPT）",
+        "学校属性": "省部共建、首批2011计划"
+    },
+    {
+        "中文名": "南京工业大学",
+        "外文名": "Nanjing Tech University",
+        "简称": "南工（大）NanjingTech",
+        "学校属性": "首批2011计划高校、省部共建高校"
+    },
+    {
+        "中文名": "南京林业大学",
+        "外文名": "Nanjing Forestry University",
+        "简称": "南林、南林大",
+        "学校属性": "省部共建重点大学、研究生院"
+    },
+    {
+        "中文名": "南京医科大学",
+        "外文名": "Nanjing Medical University",
+        "简称": "南医大",
+        "学校属性": "江苏省属重点高校"
+    },
+    {
+        "中文名": "南京中医药大学",
+        "外文名": "Nanjing University Of Chinese Medicine",
+        "简称": "南中医",
+        "学校属性": "江苏省与国家中医药管理局共建"
+    },
+    {
+        "中文名": "南京师范大学",
+        "外文名": "Nanjing Normal University",
+        "简称": "南师大(NNU)",
+        "学校属性": "211工程，研究生院"
+    },
+    {
+        "中文名": "南京财经大学",
+        "外文名": "Nanjing University Of Finance & Economics",
+        "简称": "南财",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京工程学院",
+        "外文名": "Nanjing Institute of Technology",
+        "简称": "南工程（NJIT）",
+        "学校属性": "“卓越计划”“CDIO”"
+    },
+    {
+        "中文名": "南京信息工程大学",
+        "外文名": "Nanjing University of Information Science& Technology",
+        "简称": "南信大，NUIST",
+        "学校属性": "全国重点大学，三方共建高校"
+    },
+    {
+        "中文名": "金陵科技学院",
+        "外文名": "",
+        "简称": "金科院",
+        "学校属性": "\"卓越计划\"\"CDIO\""
+    },
+    {
+        "中文名": "南京晓庄学院",
+        "外文名": "NANJING XIAOZHUANG UNIVERSITY",
+        "简称": "晓庄师范",
+        "学校属性": "普通高等学校"
+    },
+    {
+        "中文名": "南京审计学院",
+        "外文名": "Nanjing Audit University",
+        "简称": "南审",
+        "学校属性": ""
+    },
+    {
+        "中文名": "江苏警官学院",
+        "外文名": "Jiangsu Police Institute",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京体育学院",
+        "外文名": "Nanjing Sport Institute",
+        "简称": "南体",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京艺术学院",
+        "外文名": "Nanjing Arts University",
+        "简称": "南艺",
+        "学校属性": "高等艺术院校"
+    },
+    {
+        "中文名": "三江学院",
+        "外文名": "Sanjiang University",
+        "简称": "三江（SJU）",
+        "学校属性": "省属普通本科高校"
+    },
+    {
+        "中文名": "南京理工大学",
+        "外文名": "Nanjing University of Science and Technology",
+        "简称": "南理工（NUST）、南炮工",
+        "学校属性": "211工程，985平台"
+    },
+    {
+        "中文名": "南京航空航天大学",
+        "外文名": "Nanjing University of Aeronautics and Astronautics",
+        "简称": "南航（NUAA）",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "南京森林警察学院",
+        "外文名": "Nanjing Forestpolice College",
+        "简称": "森林公安",
+        "学校属性": "部属重点"
+    },
+    {
+        "中文名": "东南大学",
+        "外文名": "Southeast University",
+        "简称": "东大（SEU）",
+        "学校属性": "211工程、985工程"
+    },
+    {
+        "中文名": "河海大学",
+        "外文名": "Hohai University",
+        "简称": "河海（HHU）",
+        "学校属性": "211工程，985平台，111计划"
+    },
+    {
+        "中文名": "南京农业大学",
+        "外文名": "Nanjing Agricultural University",
+        "简称": "南农，南农大",
+        "学校属性": "211工程 985优势学科创新平台"
+    },
+    {
+        "中文名": "中国药科大学",
+        "外文名": "China Pharmaceutical University",
+        "简称": "CPU、药大",
+        "学校属性": "211工程 985平台"
+    },
+    {
+        "中文名": "江苏第二师范学院",
+        "外文名": "Jiangsu Second Normal University",
+        "简称": "江苏师院",
+        "学校属性": "211（与南师大联合培养）"
+    },
+    {
+        "中文名": "中国传媒大学南广学院",
+        "外文名": "Communication University of China,Nanjing",
+        "简称": "CUCN（中传南广）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "南师中北",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京大学金陵学院",
+        "外文名": "Nanjing University Jinling College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "东南大学成贤学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": "江苏普通第二第三批"
+    },
+    {
+        "中文名": "南京航空航天大学金城学院",
+        "外文名": "Nanhang Jincheng College",
+        "简称": "金城学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京理工大学紫金学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京信息工程大学滨江学院",
+        "外文名": "",
+        "简称": "滨江学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京审计学院金审学院",
+        "外文名": "",
+        "简称": "南审",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京工业大学浦江学院",
+        "外文名": "",
+        "简称": "浦江学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京医科大学康达学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京邮电大学通达学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京中医药大学翰林学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京工程学院康尼学院",
+        "外文名": "Nanjing Kangni College",
+        "简称": "康尼学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京财经大学红山学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京晓庄学院行知学院",
+        "外文名": "NANJING XIAOZHUANG UNIVERSITY XINGZHI COLLEGE",
+        "简称": "晓庄行知",
+        "学校属性": "独立学院"
+    },
+    {
+        "中文名": "中国矿业大学",
+        "外文名": "China University of Mining and Technology",
+        "简称": "矿大（CUMT）",
+        "学校属性": "211工程、985平台、卓越计划"
+    },
+    {
+        "中文名": "徐州医学院",
+        "外文名": "xuzhou medical college",
+        "简称": "徐医",
+        "学校属性": "卓越医生教育培养计划"
+    },
+    {
+        "中文名": "徐州工程学院",
+        "外文名": "Xuzhou Institute of Technology",
+        "简称": "徐州工院",
+        "学校属性": "省市共建、卓越计划"
+    },
+    {
+        "中文名": "江苏师范大学",
+        "外文名": "Jiangsu Normal University",
+        "简称": "江苏师大",
+        "学校属性": "国培计划、省重点大学"
+    },
+    {
+        "中文名": "中国矿业大学徐海学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西交利物浦大学",
+        "外文名": "Xi’an Jiaotong-Liverpool University",
+        "简称": "XJTLU，西浦",
+        "学校属性": "非营利中外合作办学大学"
+    },
+    {
+        "中文名": "常熟理工学院",
+        "外文名": "CHANGSHU INSTITUTE OF TECHNOLOGY",
+        "简称": "常熟理工、虞理工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "苏州大学",
+        "外文名": "Soochow University",
+        "简称": "苏大",
+        "学校属性": "211工程，2011计划"
+    },
+    {
+        "中文名": "苏州科技学院",
+        "外文名": "SuZhou University of Sience and Technology",
+        "简称": "苏科、苏科大",
+        "学校属性": "省部共建"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "苏州大学文正学院",
+        "外文名": "WENZHENG COLLEGE OF SOOCHOW UNIVERSITY",
+        "简称": "文正",
+        "学校属性": "独立学院"
+    },
+    {
+        "中文名": "苏州科技学院天平学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "苏州大学应用技术学院",
+        "外文名": "Applied Technical School of Soochow University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "江苏科技大学南徐学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "江苏科技大学",
+        "外文名": "Jiangsu University of Science And Technology",
+        "简称": "江科大、江苏科大",
+        "学校属性": "省部共建、江苏重点建设大学"
+    },
+    {
+        "中文名": "江苏大学京江学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "常大（CZU）",
+        "学校属性": "省属大学"
+    },
+    {
+        "中文名": "常州工学院",
+        "外文名": "Changzhou Institute of Technology",
+        "简称": "常工院(CIT)",
+        "学校属性": "省属高校"
+    },
+    {
+        "中文名": "江苏理工学院",
+        "外文名": "Jiangsu University of Technology",
+        "简称": "江理工",
+        "学校属性": "省属大学"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "盐工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "盐城师范学院",
+        "外文名": "yancheng teachers university",
+        "简称": "盐师",
+        "学校属性": "省属高等师范本科院校"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "无锡太湖学院",
+        "外文名": "Taihu University of Wuxi",
+        "简称": "太湖学院",
+        "学校属性": "普通本科高校"
+    },
+    {
+        "中文名": "江南大学",
+        "外文名": "Jiangnan University（JNU）",
+        "简称": "江大",
+        "学校属性": "211工程、111计划、985平台高校"
+    },
+    {
+        "中文名": "淮阴工学院",
+        "外文名": "Huaiyin Institute of Technology",
+        "简称": "淮工",
+        "学校属性": "“卓越计划”"
+    },
+    {
+        "中文名": "淮阴师范学院",
+        "外文名": "Huaiyin Normal University",
+        "简称": "淮师/淮阴师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南通大学",
+        "外文名": "Nantong University",
+        "简称": "通大",
+        "学校属性": "省属重点建设高校"
+    },
+    {
+        "中文名": "南通大学杏林学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "淮海工学院",
+        "外文名": "HuaiHai Institute of Technology",
+        "简称": "淮工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "淮海工学院东港学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "扬州大学",
+        "外文名": "Yangzhou University",
+        "简称": "扬大",
+        "学校属性": "省属重点大学 、研究生院"
+    },
+    {
+        "中文名": "扬州大学广陵学院",
+        "外文名": "",
+        "简称": "广陵学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "泰州学院",
+        "外文名": "Taizhou University",
+        "简称": "泰院",
+        "学校属性": "公立大学"
+    },
+    {
+        "中文名": "南京理工大学泰州科技学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京师范大学泰州学院",
+        "外文名": "NANJING NORMAL UNIVERSITY TAIZHOU COLLEGE",
+        "简称": "南师泰院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江大学",
+        "外文名": "Zhejiang University (ZJU)",
+        "简称": "浙大",
+        "学校属性": "985工程，211工程，C9联盟"
+    },
+    {
+        "中文名": "浙江工业大学",
+        "外文名": "Zhejiang University of Technology",
+        "简称": "浙工大",
+        "学校属性": "2011计划、省部共建大学"
+    },
+    {
+        "中文名": "杭州电子科技大学",
+        "外文名": "Hangzhou Dianzi University",
+        "简称": "杭电",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "浙江理工大学",
+        "外文名": "",
+        "简称": "浙理工 ZSU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江农林大学",
+        "外文名": "Zhejiang A & F University",
+        "简称": "浙江农林大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江中医药大学",
+        "外文名": "Zhejiang Chinese Medical University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "杭州师范大学",
+        "外文名": "Hangzhou Normal University",
+        "简称": "杭师大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "浙江工商大学",
+        "外文名": "Zhejiang Gongshang University",
+        "简称": "浙商大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "浙江科技学院",
+        "外文名": "Zhejiang University of Science and Technology",
+        "简称": "浙科院，浙科，ZUST，科院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国计量学院",
+        "外文名": "China Jiliang University",
+        "简称": "量院（CJLU）",
+        "学校属性": "理工科"
+    },
+    {
+        "中文名": "浙江传媒学院",
+        "外文名": "Zhejiang University Of Media and Communications",
+        "简称": "浙传、浙广",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江外国语学院",
+        "外文名": "Zhejiang International Studies University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江财经大学",
+        "外文名": "Zhejiang University of Finance & Economics",
+        "简称": "浙财大，ZUFE",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "浙江警察学院",
+        "外文名": "Zhejiang Police College",
+        "简称": "浙江警院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国美术学院",
+        "外文名": "China Academy Of Art",
+        "简称": "国美",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江树人大学",
+        "外文名": "Zhejiang Shuren University",
+        "简称": "ZJSRU、树人",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江水利水电学院",
+        "外文名": "Zhejiang University of Water Resources and Electric Power",
+        "简称": "浙水院（ZJWEU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江农林大学天目学院",
+        "外文名": "Tianmu Collage of Zhejiang A&F University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国计量学院现代科技学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江工商大学杭州商学院",
+        "外文名": "",
+        "简称": "杭州商学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江大学城市学院",
+        "外文名": "Zhejiang University City College",
+        "简称": "浙大城院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "杭州师范大学钱江学院",
+        "外文名": "",
+        "简称": "杭师大钱江学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "杭州电子科技大学信息工程学院",
+        "外文名": "",
+        "简称": "杭电信工学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江工业大学之江学院",
+        "外文名": "Zhijiang college of zhejiang university of technology",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江理工大学科技与艺术学院",
+        "外文名": "",
+        "简称": "浙理工科艺学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江中医药大学滨江学院",
+        "外文名": "",
+        "简称": "浙中医大滨江学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "公安海警学院",
+        "外文名": "China Maritime Police Academy",
+        "简称": "海警学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "宁波大学",
+        "外文名": "Ningbo University",
+        "简称": "宁大",
+        "学校属性": "省部共建大学 省属重点大学"
+    },
+    {
+        "中文名": "宁波工程学院",
+        "外文名": "NingBo University of Technology",
+        "简称": "宁工院/宁工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江万里学院",
+        "外文名": "Zhejiang Wanli University",
+        "简称": "ZWU/浙万院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "宁波诺丁汉大学、诺丁汉大学中国校区",
+        "外文名": "The University of Nottingham Ningbo China",
+        "简称": "UNNC",
+        "学校属性": "海外大学中国校区"
+    },
+    {
+        "中文名": "宁波大红鹰学院",
+        "外文名": "Ningbo Dahongying University (NDU)",
+        "简称": "大红鹰学院",
+        "学校属性": "私立本科"
+    },
+    {
+        "中文名": "宁波大学科学技术学院",
+        "外文名": "",
+        "简称": "宁大科院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江大学宁波理工学院",
+        "外文名": "",
+        "简称": "宁波理工",
+        "学校属性": "浙江普通第一第二批"
+    },
+    {
+        "中文名": "温州医科大学",
+        "外文名": "Wenzhou Medical University",
+        "简称": "温医大",
+        "学校属性": "浙江省重点建设大学"
+    },
+    {
+        "中文名": "温州大学",
+        "外文名": "WENZHOU UNIVERSITY",
+        "简称": "温大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "温州大学瓯江学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "温州大学城市学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖州师范学院",
+        "外文名": "HUZHOU TEACHERS COLLEGE",
+        "简称": "湖州师范",
+        "学校属性": "全日制普通本科高等学校"
+    },
+    {
+        "中文名": "湖州师范学院求真学院",
+        "外文名": "",
+        "简称": "湖师求真学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "丽水学院",
+        "外文名": "Lishui University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "嘉兴学院",
+        "外文名": "Jiaxing University",
+        "简称": "嘉院",
+        "学校属性": "省属高校"
+    },
+    {
+        "中文名": "嘉兴学院南湖学院",
+        "外文名": "",
+        "简称": "嘉兴南湖学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "同济大学浙江学院",
+        "外文名": "",
+        "简称": "同济浙院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江师范大学",
+        "外文名": "Zhejiang Normal University",
+        "简称": "浙师大",
+        "学校属性": "多科性省属重点大学"
+    },
+    {
+        "中文名": "浙江师范大学行知学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "上海财经大学浙江学院",
+        "外文名": "",
+        "简称": "上财浙江学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江越秀外国语学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "绍兴文理学院",
+        "外文名": "Shaoxing University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "绍兴文理学院元培学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "衢州学院",
+        "外文名": "Quzhou University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江海洋学院",
+        "外文名": "Zhejiang Ocean University",
+        "简称": "浙海院,zou",
+        "学校属性": ""
+    },
+    {
+        "中文名": "浙江海洋学院东海科学技术学院",
+        "外文名": "",
+        "简称": "东海科技学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台州学院",
+        "外文名": "Taizhou University",
+        "简称": "台院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "武汉大学",
+        "外文名": "Wuhan University(WHU)",
+        "简称": "武大",
+        "学校属性": "985工程、211工程、七校联合办学"
+    },
+    {
+        "中文名": "湖北大学",
+        "外文名": "Hubei University",
+        "简称": "湖大（HUBU）",
+        "学校属性": "省部共建、小211工程"
+    },
+    {
+        "中文名": "武汉科技大学",
+        "外文名": "Wuhan University of Science and Technology",
+        "简称": "武科大 武汉科大 WUST",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "湖北工业大学",
+        "外文名": "Hubei University of Technology",
+        "简称": "湖工大（HBUT）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "武汉工程大学",
+        "外文名": "Wuhan Institute of Technology",
+        "简称": "武工大（WIT）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "武汉纺织大学",
+        "外文名": "Wuhan Textile University",
+        "简称": "纺大（WTU）",
+        "学校属性": "省属高校、卓越计划、小211工程"
+    },
+    {
+        "中文名": "湖北中医药大学",
+        "外文名": "Hubei University of Chinese Medicine",
+        "简称": "湖中医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "武汉轻工大学",
+        "外文名": "Wuhan Polytechnic University",
+        "简称": "武汉轻工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北第二师范学院",
+        "外文名": "Hubei University Of Education",
+        "简称": "湖北二师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北经济学院",
+        "外文名": "Hubei University of Economics",
+        "简称": "经院，湖经，HBUE",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北警官学院",
+        "外文名": "Hubei University of Police",
+        "简称": "湖警",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "武汉体育学院",
+        "外文名": "Wuhan Institute of Physical Education",
+        "简称": "武汉体院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北美术学院",
+        "外文名": "Hubei Institute of Fine Arts (HIFA)",
+        "简称": "湖美",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "武汉音乐学院",
+        "外文名": "Wuhan conservatory of Music",
+        "简称": "武音",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "武昌理工学院",
+        "外文名": "Wuchang University of Technology",
+        "简称": "武昌理工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "武汉长江工商学院",
+        "外文名": "Wuhan Yangtze Business University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "武汉生物工程学院",
+        "外文名": "Wuhan Bioengineering Institute",
+        "简称": "武生院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "武汉东湖学院",
+        "外文名": "Wuhan Donghu University",
+        "简称": "东湖学院 武东院 WDU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "汉口学院",
+        "外文名": "Hankou University",
+        "简称": "汉院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中南民族大学",
+        "外文名": "South-Central University For Nationalities",
+        "简称": "中南民大 民大",
+        "学校属性": "部属高等院校"
+    },
+    {
+        "中文名": "中南财经政法大学",
+        "外文名": "Zhongnan University of Economics and Law",
+        "简称": "ZUEL、中南财大、中南大",
+        "学校属性": "211工程 985平台 部部省共建"
+    },
+    {
+        "中文名": "华中科技大学",
+        "外文名": "Huazhong University of Science and Technology",
+        "简称": "华中大、HUST",
+        "学校属性": "211工程、985工程等"
+    },
+    {
+        "中文名": "武汉理工大学",
+        "外文名": "Wuhan University of Technology",
+        "简称": "武理工、武汉理工(WHUT)",
+        "学校属性": "211工程、985平台、七校联合办学"
+    },
+    {
+        "中文名": "中国地质大学",
+        "外文名": "China University of Geosciences",
+        "简称": "地大（CUG）",
+        "学校属性": "211工程、985平台、111计划"
+    },
+    {
+        "中文名": "华中农业大学",
+        "外文名": "Huazhong Agricultural University 或 Central China Agricultural University",
+        "简称": "华中农大、华农、HZAU",
+        "学校属性": "211工程、985平台、七校联合办学"
+    },
+    {
+        "中文名": "华中师范大学",
+        "外文名": "Huazhong Normal University或者Central China Normal University",
+        "简称": "华中师大（CCNU）",
+        "学校属性": "211工程、985平台、研究生院"
+    },
+    {
+        "中文名": "武昌工学院",
+        "外文名": "Wuchang Institute of Technology",
+        "简称": "武昌工学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "武汉商学院",
+        "外文名": "Wuhan Business University",
+        "简称": "武商院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "江汉大学",
+        "外文名": "Jianghan University",
+        "简称": "江大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖北师范学院",
+        "外文名": "Hubei Normal University",
+        "简称": "湖师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北理工学院",
+        "外文名": "Hubei Polytechnic Universtiy",
+        "简称": "湖北理工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北汽车工业学院",
+        "外文名": "Hubei University of Automotive Technology",
+        "简称": "汽车学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北医药学院",
+        "外文名": "Hubei University of Medicine",
+        "简称": "湖北医药",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北民族学院",
+        "外文名": "Hubei Minzu University",
+        "简称": "湖北民院",
+        "学校属性": "省部共建"
+    },
+    {
+        "中文名": "黄冈师范学院",
+        "外文名": "Huanggang Normal College",
+        "简称": "黄冈师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "荆楚理工学院",
+        "外文名": "Jingchu University of Technology",
+        "简称": "荆楚理工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "长江大学",
+        "外文名": "Yangtze University",
+        "简称": "长大",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "三峡大学",
+        "外文名": "China Three Gorges University",
+        "简称": "三大（CTGU）",
+        "学校属性": "卓越计划、省属重点大学"
+    },
+    {
+        "中文名": "湖北工程学院",
+        "外文名": "Hubei Engineering University",
+        "简称": "湖工院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北文理学院",
+        "外文名": "Hubei University of Arts and Science",
+        "简称": "文理学院、襄樊学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖北科技学院",
+        "外文名": "Hubei University of Science and Technology",
+        "简称": "湖科院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "华南理工大学",
+        "外文名": "South China University of Technology",
+        "简称": "华工、SCUT",
+        "学校属性": "211工程、985工程、卓越联盟"
+    },
+    {
+        "中文名": "广东工业大学",
+        "外文名": "Guangdong University of Technology",
+        "简称": "广东工大、GDUT",
+        "学校属性": "省属重点大学.广东省“211工程”"
+    },
+    {
+        "中文名": "华南农业大学",
+        "外文名": "South China Agricultural University",
+        "简称": "华农(SCAU)，华农大",
+        "学校属性": "全国重点大学，省部共建211工程"
+    },
+    {
+        "中文名": "广州中医药大学",
+        "外文名": "Guangzhou University of Chinese Medicine",
+        "简称": "广中医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "南方医科大学",
+        "外文名": "Southern Medical University",
+        "简称": "南医大",
+        "学校属性": "省属高等院校.广东省“211工程”"
+    },
+    {
+        "中文名": "华南师范大学",
+        "外文名": "South China Normal University",
+        "简称": "华南师大、SCNU、华师",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "广东外语外贸大学",
+        "外文名": "Guangdong University of Foreign Studies",
+        "简称": "广外（GDUFS）",
+        "学校属性": "广东省“211工程”.重点大学"
+    },
+    {
+        "中文名": "广州大学",
+        "外文名": "Guangzhou University",
+        "简称": "广大（GZU）",
+        "学校属性": "国培计划、卓越计划、千人计划"
+    },
+    {
+        "中文名": "仲恺农业工程学院",
+        "外文名": "Zhongkai University of Agriculture and Engineering",
+        "简称": "仲恺、仲园",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东药学院",
+        "外文名": "Guangdong Pharmaceutical University",
+        "简称": "广药",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东第二师范学院",
+        "外文名": "Guangdong University of Education",
+        "简称": "广东二师、广二师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东金融学院",
+        "外文名": "Guangdong University of Finance",
+        "简称": "广金（GDUF）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "广东警官学院",
+        "外文名": "Guangdong Police College",
+        "简称": "广警院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广州体育学院",
+        "外文名": "Guangzhou Sport University",
+        "简称": "广体",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广州美术学院",
+        "外文名": "Guangzhou Academy of Fine Arts",
+        "简称": "广美",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "星海音乐学院",
+        "外文名": "Xinghai conservatory of music",
+        "简称": "星海",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东技术师范学院",
+        "外文名": "Guangdong Polytechnic Normal University",
+        "简称": "广技师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东培正学院",
+        "外文名": "Guang Dong Peizheng College",
+        "简称": "培正",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东白云学院",
+        "外文名": "Guangdong Baiyun University",
+        "简称": "白云学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "暨南大学",
+        "外文名": "Jinan University",
+        "简称": "暨大，国立暨南",
+        "学校属性": "211工程、985平台"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "广州航海学院",
+        "外文名": "Guangzhou Maritime Institute",
+        "简称": "广航（GMI）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广州医科大学",
+        "外文名": "Guangzhou Medical University",
+        "简称": "广医",
+        "学校属性": "市属高等院校"
+    },
+    {
+        "中文名": "北京师范大学-香港浸会大学联合国际学院",
+        "外文名": "Beijing Normal University - Hong Kong Baptist University United International College",
+        "简称": "UIC",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "深圳大学",
+        "外文名": "Shenzhen University",
+        "简称": "深大、SZU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南方科技大学（校名题写：李政道）",
+        "外文名": "South University of Science and Technology of China",
+        "简称": "南科大（SUSTC）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "东莞理工学院",
+        "外文名": "Dongguan University of Technology",
+        "简称": "莞工、DGUT",
+        "学校属性": "卓越计划院校"
+    },
+    {
+        "中文名": "广东科技学院",
+        "外文名": "Guangdong University of Science and Technology",
+        "简称": "广科",
+        "学校属性": ""
+    },
+    {
+        "中文名": "广东海洋大学",
+        "外文名": "Guangdong Ocean University",
+        "简称": "广海，广东海大（GDOU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东医学院",
+        "外文名": "GUANGDONG MEDICAL COLLEGE",
+        "简称": "广医",
+        "学校属性": "省属重点建设大学"
+    },
+    {
+        "中文名": "湛江师范学院",
+        "外文名": "Zhanjiang Normal University",
+        "简称": "湛师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "韩山师范学院",
+        "外文名": "",
+        "简称": "韩山师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "佛山科学技术学院",
+        "外文名": "Foshan University",
+        "简称": "FSU、佛大、佛科院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "五邑大学",
+        "外文名": "Wuyi University",
+        "简称": "五邑、邑大（WU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广东石油化工学院",
+        "外文名": "Guangdong University of Petrochemical Technology",
+        "简称": "广石化、广油、茂名学院、油校",
+        "学校属性": ""
+    },
+    {
+        "中文名": "嘉应学院",
+        "外文名": "Jiaying University",
+        "简称": "嘉应",
+        "学校属性": "省市共建、以市为主"
+    },
+    {
+        "中文名": "汕头大学",
+        "外文名": "Shantou University",
+        "简称": "汕大",
+        "学校属性": "省部共建高校.广东省“211工程”"
+    },
+    {
+        "中文名": "韶关学院",
+        "外文名": "ShaoGuan University",
+        "简称": "韶大、韶院",
+        "学校属性": "普通高等学校"
+    },
+    {
+        "中文名": "肇庆学院",
+        "外文名": "Zhaoqing university",
+        "简称": "西大",
+        "学校属性": "普通高等学校"
+    },
+    {
+        "中文名": "惠州学院",
+        "外文名": "Huizhou University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中南大学",
+        "外文名": "Central South University(CSU)",
+        "简称": "中南、CSU",
+        "学校属性": "211工程,985工程"
+    },
+    {
+        "中文名": "长沙理工大学",
+        "外文名": "Changsha University of Science & Technology",
+        "简称": "长沙理工（CSUST）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "湖南农业大学",
+        "外文名": "Hunan Agricultural University",
+        "简称": "湖南农大（HAU） 湘农",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "湖南中医药大学",
+        "外文名": "Hunan University of Chinese Medicine",
+        "简称": "湖中大（HUCM）湖南中医大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南师范大学",
+        "外文名": "Hunan Normal University",
+        "简称": "湖南师大（HNU）",
+        "学校属性": "211工程、中西部100所"
+    },
+    {
+        "中文名": "长沙学院",
+        "外文名": "Changsha University",
+        "简称": "长大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南第一师范学院",
+        "外文名": "Hunan First Normal University",
+        "简称": "湖南一师、第一师范、一师范",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南财政经济学院",
+        "外文名": "Hunan College of Finance and Economics",
+        "简称": "湖南财院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南商学院",
+        "外文名": "Hunan University of Commerce",
+        "简称": "湖商",
+        "学校属性": "普通高等院校"
+    },
+    {
+        "中文名": "湖南警察学院",
+        "外文名": "Hunan Police Academy",
+        "简称": "湖南警院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南女子学院",
+        "外文名": "Hunan Women's University",
+        "简称": "湖南女院(HWU)",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南涉外经济学院",
+        "外文名": "Hunan International Economics University",
+        "简称": "涉外",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "湖南大学",
+        "外文名": "Hunan University",
+        "简称": "湖大（HNU）",
+        "学校属性": "211工程，985工程"
+    },
+    {
+        "中文名": "中南林业科技大学",
+        "外文名": "Central South University of Forestry and Technology",
+        "简称": "中南林、林科大、CSUFT",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "长沙师范学院",
+        "外文名": "Changsha Normal University",
+        "简称": "长沙师院",
+        "学校属性": "省属普通高校"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖南工学院",
+        "外文名": "Hunan Institute of Technology",
+        "简称": "湖工",
+        "学校属性": "省属重点建设大学"
+    },
+    {
+        "中文名": "衡阳师范学院",
+        "外文名": "Hengyang Normal University",
+        "简称": "衡师大",
+        "学校属性": "本科二批院校"
+    },
+    {
+        "中文名": "长沙医学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湘潭大学",
+        "外文名": "",
+        "简称": "湘大（XTU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖南科技大学",
+        "外文名": "Hunan University of Science and Technology",
+        "简称": "湖南科大 湖科 HNUST 湖科大",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "湖南工程学院",
+        "外文名": "Hunan Institute of Engineering",
+        "简称": "湖工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖南文理学院",
+        "外文名": "Hunan university of arts and science",
+        "简称": "湖南文理",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湘南学院",
+        "外文名": "XiangNan University",
+        "简称": "湘院",
+        "学校属性": "湖南省属大学"
+    },
+    {
+        "中文名": "怀化学院",
+        "外文名": "Huaihua University",
+        "简称": "怀化学院",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "吉首大学",
+        "外文名": "Jishou University",
+        "简称": "吉大，（JSU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "湖南人文科技学院",
+        "外文名": "Hunan University of Humanities, Science and Technology",
+        "简称": "HUHST",
+        "学校属性": ""
+    },
+    {
+        "中文名": "邵阳学院",
+        "外文名": "Shaoyang University",
+        "简称": "邵院（SYU）",
+        "学校属性": "湖南省属大学"
+    },
+    {
+        "中文名": "湖南城市学院",
+        "外文名": "Hunan City University",
+        "简称": "湖南城院 城院 湖南城大 城大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "湖南科技学院",
+        "外文名": "Hunan University of Science and Engineering",
+        "简称": "",
+        "学校属性": "湖南省属大学"
+    },
+    {
+        "中文名": "湖南理工学院",
+        "外文名": "Hunan Institute of Science and Technology",
+        "简称": "湖理、湖南理工",
+        "学校属性": "省属"
+    },
+    {
+        "中文名": "湖南工业大学",
+        "外文名": "Hunan University of Technology",
+        "简称": "湖南工大、湘工大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州大学",
+        "外文名": "Lanzhou University",
+        "简称": "兰大，英文缩写LZU",
+        "学校属性": "985工程、211工程、珠峰计划"
+    },
+    {
+        "中文名": "兰州理工大学",
+        "外文名": "Lanzhou University of Technology",
+        "简称": "兰州理工（LUT）",
+        "学校属性": "中西部高等教育振兴计划"
+    },
+    {
+        "中文名": "兰州交通大学",
+        "外文名": "Lanzhou JiaoTong University",
+        "简称": "兰州交大（LZJTU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "甘肃农业大学",
+        "外文名": "GanSu Agricultural University",
+        "简称": "甘农大（GSAU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西北师范大学",
+        "外文名": "Northwest Normal University",
+        "简称": "西北师大（NWNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "甘肃中医学院",
+        "外文名": "GANSU UNIVERSITY TRADITIONAL CHINESE MEDICINE",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州商学院",
+        "外文名": "Lanzhou University Of Finance & Economics",
+        "简称": "兰商",
+        "学校属性": ""
+    },
+    {
+        "中文名": "甘肃政法学院",
+        "外文名": "GANSU POLITICAL SCIENCE AND LAW INSTITUTE",
+        "简称": "甘政法",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州城市学院",
+        "外文名": "Lanzhou City University",
+        "简称": "兰城院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西北民族大学",
+        "外文名": "",
+        "简称": "西北民大（NWUN）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州理工大学技术工程学院",
+        "外文名": "College of Technology and Engineering,LUT",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西北师范大学知行学院",
+        "外文名": "ZHIXING COLLEGE OF NORTHWEST NORMAL UNIVERSITY",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州商学院长青学院",
+        "外文名": "Changqing School of Lanzhou University of Finance and Economics",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州交通大学博文学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州工业学院",
+        "外文名": "LanZhou Institute of Technology",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "兰州文理学院",
+        "外文名": "Lanzhou university of Arts and Science",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "甘肃民族师范学院",
+        "外文名": "Gansu Normal University For Nationalitles",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "天水师范学院",
+        "外文名": "Tianshui Normal University",
+        "简称": "天水师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "陇东学院",
+        "外文名": "Long Dong University",
+        "简称": "陇院",
+        "学校属性": "省市共建，以省为主"
+    },
+    {
+        "中文名": "河西学院",
+        "外文名": "HE XI UNIVERSITY",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川大学",
+        "外文名": "Sichuan University",
+        "简称": "川大",
+        "学校属性": "211工程、985工程、珠峰计划"
+    },
+    {
+        "中文名": "成都理工大学",
+        "外文名": "Chengdu University of Technology",
+        "简称": "成都理工（CDUT)",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "西华大学",
+        "外文名": "Xihua University",
+        "简称": "XHU",
+        "学校属性": "省属重点大学、小211工程"
+    },
+    {
+        "中文名": "成都中医药大学",
+        "外文名": "Chengdu University of TCM",
+        "简称": "成中医（CUTCM）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川师范大学",
+        "外文名": "Sichuan Normal University",
+        "简称": "四川师大（sicnu）、川师",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "成都信息工程大学",
+        "外文名": "Chengdu University of Information Technology",
+        "简称": "成信(CUIT)",
+        "学校属性": "小211工程"
+    },
+    {
+        "中文名": "成都医学院",
+        "外文名": "Chengdu Medical College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "成都体育学院",
+        "外文名": "Chengdu Sport University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "川音",
+        "学校属性": ""
+    },
+    {
+        "中文名": "成都学院（成都大学）",
+        "外文名": "Chengdu University",
+        "简称": "成大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "成都东软学院",
+        "外文名": "ChengDu Neusoft University",
+        "简称": "成都东软、东软学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西南民族大学",
+        "外文名": "Southwest University for Nationalities",
+        "简称": "西南民大/SWUN",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西南交通大学",
+        "外文名": "Southwest Jiaotong University",
+        "简称": "西南交大",
+        "学校属性": "211工程，特色985工程，2011计划"
+    },
+    {
+        "中文名": "电子科技大学",
+        "外文名": "",
+        "简称": "电子科大，成电",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西南财经大学",
+        "外文名": "Southwestern University of Finance and Economics",
+        "简称": "西南财大/西财/苏菲/SWUFE",
+        "学校属性": "211工程、985工程优势学科平台"
+    },
+    {
+        "中文名": "成都师范学院",
+        "外文名": "Chengdu Normal University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "成都工业学院",
+        "外文名": "Chengdu Technological University",
+        "简称": "成工院",
+        "学校属性": "四川首批卓越工程师培养试点高校"
+    },
+    {
+        "中文名": "四川传媒学院",
+        "外文名": "Sichuan University of Media and Communications",
+        "简称": "川传",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川旅游学院",
+        "外文名": "Sichuan Tourism University",
+        "简称": "川旅、川旅院（SCTU）",
+        "学校属性": "普通本科高校"
+    },
+    {
+        "中文名": "西华师范大学",
+        "外文名": "China West Normal University",
+        "简称": "西华 西华师大 CWNU",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "西南石油大学",
+        "外文名": "Southwest Petroleum University",
+        "简称": "西油",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "川北医学院",
+        "外文名": "North Sichuan Medical College",
+        "简称": "NSMC",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西南科技大学",
+        "外文名": "Southwest University of Science and Technology",
+        "简称": "西南科大（SWUST）",
+        "学校属性": "卓越计划、西部重点建设14所高校"
+    },
+    {
+        "中文名": "绵阳师范学院",
+        "外文名": "Mianyang Normal University",
+        "简称": "绵阳师院、绵师",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川文理学院",
+        "外文名": "Sichuan University of Arts and Science",
+        "简称": "川文理",
+        "学校属性": "普通本科学校"
+    },
+    {
+        "中文名": "四川民族学院",
+        "外文名": "Sichuan University for Nationalities",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中国民用航空飞行学院",
+        "外文名": "Civil Aviation Flight University of China",
+        "简称": "飞院（CAFUC）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "乐山师范学院",
+        "外文名": "Leshan Normal University",
+        "简称": "乐山师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "泸州医学院",
+        "外文名": "Luzhou Medical College",
+        "简称": "泸医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川警察学院",
+        "外文名": "Sichuan Police College",
+        "简称": "四川警院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "内江师范学院",
+        "外文名": "Neijiang Normal University",
+        "简称": "内江师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "攀枝花学院",
+        "外文名": "PANZHIHUA UNIVERSITY",
+        "简称": "PZH，攀大",
+        "学校属性": "省属综合性大学"
+    },
+    {
+        "中文名": "西昌学院",
+        "外文名": "XICHANG COLLEGE",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川农业大学",
+        "外文名": "Sichuan Agricultural University",
+        "简称": "川农（SICAU）或川农大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "宜宾学院",
+        "外文名": "Yibin University",
+        "简称": "宜院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川理工学院",
+        "外文名": "Sichuan University of Science & Engineering",
+        "简称": "川理工（SUSE）",
+        "学校属性": "小211"
+    },
+    {
+        "中文名": "山东大学",
+        "外文名": "Shandong University",
+        "简称": "山大(SDU)",
+        "学校属性": "211工程，985工程"
+    },
+    {
+        "中文名": "济南大学",
+        "外文名": "University of Jinan",
+        "简称": "济大",
+        "学校属性": "省部共建、卓越计划、特色名校"
+    },
+    {
+        "中文名": "山东建筑大学",
+        "外文名": "Shandong Jianzhu University",
+        "简称": "山建",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东中医药大学",
+        "外文名": "Shandong University of Traditional Chinese Medicin",
+        "简称": "山东中医大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东师范大学",
+        "外文名": "Shandong Normal University",
+        "简称": "山师",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "山东交通学院",
+        "外文名": "Shandong Jiaotong University",
+        "简称": "交通学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "齐鲁师范学院",
+        "外文名": "Qilu Normal University",
+        "简称": "齐鲁师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东财经大学",
+        "外文名": "Shandong University of Finance and Economics",
+        "简称": "山财大，山财，山财经",
+        "学校属性": "省部共建大学"
+    },
+    {
+        "中文名": "山东警察学院",
+        "外文名": "Shandong Police College",
+        "简称": "山东警院",
+        "学校属性": "公安类高等院校"
+    },
+    {
+        "中文名": "山东青年政治学院",
+        "外文名": "Shandong Youth University Of Political Science",
+        "简称": "山青，山青院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东政法学院",
+        "外文名": "Shandong University of Political Science and Law",
+        "简称": "山政、山政法、SUPSL",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东体育学院",
+        "外文名": "Shandong Sport University",
+        "简称": "山体",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东艺术学院",
+        "外文名": "SHANDONG UNIVERSITY OF ARTS",
+        "简称": "山艺",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东工艺美术学院",
+        "外文名": "SHANDONG UNIVERSITY OF ART & DESIGN",
+        "简称": "山工艺",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东女子学院",
+        "外文名": "Shangdong Women‘s University",
+        "简称": "女院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东英才学院",
+        "外文名": "Shandong Yingcai College",
+        "简称": "英才学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东协和学院",
+        "外文名": "Shandong Xiehe University",
+        "简称": "协和",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东管理学院",
+        "外文名": "Shandong Management University",
+        "简称": "山管",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东农业工程学院",
+        "外文名": "Shandong Agriculture And Engineering University",
+        "简称": "山工院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "齐鲁工业大学",
+        "外文名": "Qilu University Of Technology",
+        "简称": "齐鲁工大",
+        "学校属性": "省属高等院校 省版211工程"
+    },
+    {
+        "中文名": "青岛大学",
+        "外文名": "Qingdao University",
+        "简称": "青大（QDU）",
+        "学校属性": "卓越工程师计划，应用基础型名校"
+    },
+    {
+        "中文名": "山东科技大学",
+        "外文名": "Shandong University of Science and Technology",
+        "简称": "山东科大",
+        "学校属性": "省属重点高等院校"
+    },
+    {
+        "中文名": "青岛科技大学",
+        "外文名": "Qingdao University of Science & Technology",
+        "简称": "青科、青岛科大或QUST",
+        "学校属性": "卓越计划，省属重点大学"
+    },
+    {
+        "中文名": "青岛理工大学",
+        "外文名": "Qingdao Technological University",
+        "简称": "青岛理工（QTU）",
+        "学校属性": "省属大学"
+    },
+    {
+        "中文名": "青岛农业大学",
+        "外文名": "Qingdao Agricultural University",
+        "简称": "青岛农大（QAU）",
+        "学校属性": "省属高等院校、山东特色名校工程"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "青岛滨海学院",
+        "外文名": "Qingdao Binhai University",
+        "简称": "滨海学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "青岛黄海学院",
+        "外文名": "Qingdao Huanghai University",
+        "简称": "黄海",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "中国海洋大学",
+        "外文名": "Ocean University of China",
+        "简称": "中国海大、中海大，OUC",
+        "学校属性": "卓越计划，211工程，985工程"
+    },
+    {
+        "中文名": "中国石油大学（华东）",
+        "外文名": "China University of Petroleum",
+        "简称": "（中）石大",
+        "学校属性": "教育部直属、211工程大学"
+    },
+    {
+        "中文名": "潍坊学院",
+        "外文名": "WEIFANG UNIVERSITY",
+        "简称": "潍院 WFU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "潍坊医学院",
+        "外文名": "Weifang Medical University",
+        "简称": "潍医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "潍坊科技学院",
+        "外文名": "Weifang University of Science & Technology",
+        "简称": "潍科",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "曲阜师范大学",
+        "外文名": "Qufu Normal University",
+        "简称": "曲师大",
+        "学校属性": "省属重点、省211、国培计划"
+    },
+    {
+        "中文名": "济宁医学院",
+        "外文名": "Jining Medical University",
+        "简称": "济医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "济宁学院",
+        "外文名": "Jining University",
+        "简称": "济院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "烟台大学",
+        "外文名": "Yantai University",
+        "简称": "烟园、烟大",
+        "学校属性": "山东特色名校工程、卓越计划"
+    },
+    {
+        "中文名": "鲁东大学",
+        "外文名": "Ludong University",
+        "简称": "鲁大（LDU）",
+        "学校属性": "山东特色名校工程 省属重点大学"
+    },
+    {
+        "中文名": "山东工商学院",
+        "外文名": "Shandong Institute of Business and Technology",
+        "简称": "山工商",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "烟台南山学院",
+        "外文名": "Yantai Nanshan University",
+        "简称": "NSU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "滨州医学院",
+        "外文名": "Binzhou medical university",
+        "简称": "滨医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "滨州学院",
+        "外文名": "Binzhou University",
+        "简称": "滨院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东农业大学",
+        "外文名": "Shandong Agricultural University",
+        "简称": "山农，山东农大",
+        "学校属性": "省版211"
+    },
+    {
+        "中文名": "泰山医学院",
+        "外文名": "Taishan Medical University",
+        "简称": "泰医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "泰山学院",
+        "外文名": "TaiShan University",
+        "简称": "泰院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山东理工大学",
+        "外文名": "Shandong University of Technology",
+        "简称": "山理工（Shandong Tech，SDUT）",
+        "学校属性": "卓越计划，山东特色名校工程"
+    },
+    {
+        "中文名": "山东万杰医学院",
+        "外文名": "Shandong Wanjie Medical College",
+        "简称": "万医、万杰医学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "德州学院",
+        "外文名": "Dezhou University",
+        "简称": "德院",
+        "学校属性": "重点建设的省属综合性大学"
+    },
+    {
+        "中文名": "菏泽学院",
+        "外文名": "Heze University",
+        "简称": "菏院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "聊城大学",
+        "外文名": "LIAOCHENG UNIVERSITY",
+        "简称": "聊大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "临沂大学",
+        "外文名": "Linyi University",
+        "简称": "临大",
+        "学校属性": "省属综合性大学"
+    },
+    {
+        "中文名": "枣庄学院",
+        "外文名": "Zaozhuang University",
+        "简称": "枣院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "厦门大学",
+        "外文名": "Xiamen University",
+        "简称": "厦大 (XMU)",
+        "学校属性": "211工程，985工程，研究生院"
+    },
+    {
+        "中文名": "福建农林大学",
+        "外文名": "",
+        "简称": "农林大；闽农大；福农大",
+        "学校属性": "国家大学生创新性实验计划"
+    },
+    {
+        "中文名": "福州大学",
+        "外文名": "Fuzhou University",
+        "简称": "福大(FZU)",
+        "学校属性": "211工程、省部共建、研究生院"
+    },
+    {
+        "中文名": "福建医科大学",
+        "外文名": "Fujian Medical University (FMU)",
+        "简称": "福医大",
+        "学校属性": "省属本科重点建设高校"
+    },
+    {
+        "中文名": "福建中医药大学",
+        "外文名": "Fujian University of Traditional Chinese Medicine",
+        "简称": "",
+        "学校属性": "省属本科重点建设高校"
+    },
+    {
+        "中文名": "福建师范大学",
+        "外文名": "Fujian Normal University",
+        "简称": "福师大、福建师大(FJNU)",
+        "学校属性": "省部共建高校、研究生院"
+    },
+    {
+        "中文名": "福建工程学院",
+        "外文名": "FuJian University of Technology",
+        "简称": "闽工院（FJUT）",
+        "学校属性": "卓越计划、福建省重点建设高校"
+    },
+    {
+        "中文名": "福建警察学院",
+        "外文名": "Fujian Poice College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "闽江学院",
+        "外文名": "Minjiang University（MJU）",
+        "简称": "闽院",
+        "学校属性": "省市共建、以市为主"
+    },
+    {
+        "中文名": "福建江夏学院",
+        "外文名": "Fujian Jiangxia University（FJJXU）",
+        "简称": "江夏学院",
+        "学校属性": "省属本科层次普通高校"
+    },
+    {
+        "中文名": "福州外语外贸学院",
+        "外文名": "Fuzhou College of Foreign Studies and Trade",
+        "简称": "福外",
+        "学校属性": ""
+    },
+    {
+        "中文名": "泉州师范学院",
+        "外文名": "Quanzhou Normal University",
+        "简称": "泉州师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "仰恩大学",
+        "外文名": "Yang-En University",
+        "简称": "YEU",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "闽南理工学院",
+        "外文名": "Southern Polytechnic College",
+        "简称": "闽南理工学院",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "华侨大学/国立华侨大学",
+        "外文名": "Huaqiao University",
+        "简称": "华大/侨大（HQU)",
+        "学校属性": "中央部属高校"
+    },
+    {
+        "中文名": "集美大学",
+        "外文名": "JiMei University(JMU)",
+        "简称": "集大（JMU）",
+        "学校属性": "福建省重点建设大学"
+    },
+    {
+        "中文名": "厦门理工学院",
+        "外文名": "Xiamen University of Technology",
+        "简称": "厦理、厦门理工",
+        "学校属性": "卓越计划、福建省重点建设高校"
+    },
+    {
+        "中文名": "龙岩学院",
+        "外文名": "Longyan University",
+        "简称": "LYU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "武夷学院",
+        "外文名": "Wuyi University",
+        "简称": "武院（WYU）",
+        "学校属性": "公办二本院校"
+    },
+    {
+        "中文名": "宁德师范学院",
+        "外文名": "Ningde Normal University",
+        "简称": "宁德师院（NDNU）",
+        "学校属性": "公办全日制本科"
+    },
+    {
+        "中文名": "莆田学院",
+        "外文名": "Putian University",
+        "简称": "莆院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "三明学院",
+        "外文名": "Sanming University",
+        "简称": "三大（SMU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "闽南师范大学",
+        "外文名": "",
+        "简称": "闽南师大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "郑州大学",
+        "外文名": "Zhengzhou University",
+        "简称": "郑大(ZZU)",
+        "学校属性": "211工程、卓越计划、研究生院"
+    },
+    {
+        "中文名": "河南工业大学",
+        "外文名": "Henan University of Technology",
+        "简称": "河工大（HAUT）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "河南农业大学",
+        "外文名": "Henan Agricultural University",
+        "简称": "河南农大(HENAU)",
+        "学校属性": "省部共建大学，2011计划牵头高校"
+    },
+    {
+        "中文名": "河南财经政法大学",
+        "外文名": "Henan University of Economics and Law",
+        "简称": "河南财大,HUEL",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州轻工业学院",
+        "外文名": "Zhengzhou University of Light Industry",
+        "简称": "郑州轻院，郑轻",
+        "学校属性": "省部共建高等院校 卓越计划"
+    },
+    {
+        "中文名": "河南工程学院",
+        "外文名": "Henan Institute of Engineering",
+        "简称": "豫工院（HAUE）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "中原工学院",
+        "外文名": "Zhongyuan University of Technology",
+        "简称": "中工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州航空工业管理学院",
+        "外文名": "Zhengzhou Institute of Aeronautical Industry Management",
+        "简称": "郑航、郑州航院、ZZIA",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河南中医学院",
+        "外文名": "Henan University of Traditional Chinese Medicine",
+        "简称": "河中医（HUTCM）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "郑州师范学院",
+        "外文名": "Zhengzhou Normal University",
+        "简称": "郑师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河南警察学院",
+        "外文名": "Henan Police College",
+        "简称": "河南警院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州华信学院",
+        "外文名": "Zhengzhou Huaxin University",
+        "简称": "郑州华院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州科技学院",
+        "外文名": "Zhengzhou Institute of Science and Technology",
+        "简称": "郑科院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "黄河科技学院",
+        "外文名": "Huanghe Science and Technology College",
+        "简称": "黄河科技",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州升达经贸管理学院",
+        "外文名": "Shengda Trade Economics & Management College of Zhengzhou",
+        "简称": "升达、升达学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "郑州成功财经学院",
+        "外文名": "Zhengzhou Chenggong University of Finance and Economics",
+        "简称": "成功大学",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "铁道警察学院",
+        "外文名": "Railway Police College",
+        "简称": "铁警",
+        "学校属性": "部属高等高校"
+    },
+    {
+        "中文名": "华北水利水电大学",
+        "外文名": "North China University of Water Resources and Electric Power",
+        "简称": "华水（NCWU）",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "河南牧业经济学院",
+        "外文名": "Henan University of Animal Husbandry & Economy",
+        "简称": "HNUAHE",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河南科技大学",
+        "外文名": "Henan University of Science and Technology",
+        "简称": "河科大（HAUST）",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "洛阳理工学院",
+        "外文名": "Luoyang Institute of Science and Technology",
+        "简称": "洛阳理工（LIT）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "洛阳师范学院",
+        "外文名": "Luoyang Normal University",
+        "简称": "洛阳师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "安阳工学院",
+        "外文名": "Anyang Institute of Technology",
+        "简称": "安工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "安阳师范学院",
+        "外文名": "Anyang Normal University",
+        "简称": "安阳师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "南阳理工学院",
+        "外文名": "Nanyang Institute of Technology",
+        "简称": "南工",
+        "学校属性": "教育部卓越计划"
+    },
+    {
+        "中文名": "河南文理学院",
+        "外文名": "Henan liberal arts University",
+        "简称": "南阳师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "河南城建学院",
+        "外文名": "Henan University of Urban Construction",
+        "简称": "城建学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "平顶山学院",
+        "外文名": "Pingdingshan University",
+        "简称": "平院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "商丘师范学院",
+        "外文名": "Shangqiu Normal University",
+        "简称": "商师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "商丘工学院",
+        "外文名": "Shangqiu Institute of Technology",
+        "简称": "商工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "商丘学院",
+        "外文名": "Shangqiu University",
+        "简称": "商院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河南师范大学",
+        "外文名": "Henan Normal University",
+        "简称": "河师大（HNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "河南医药学院（新乡医学院）",
+        "外文名": "Xinxiang Medical University",
+        "简称": "新医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "新乡学院",
+        "外文名": "Xinxiang University",
+        "简称": "新院（XXU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河南科技学院",
+        "外文名": "Henan Institute of Science and Technology",
+        "简称": "河科院（hist）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "信阳师范学院",
+        "外文名": "Xinyang Normal University",
+        "简称": "“信阳师院”",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "信阳农林学院",
+        "外文名": "",
+        "简称": "信农，信阳农林（XYAF）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "河南理工大学",
+        "外文名": "Henan Polytechnic University",
+        "简称": "河理工（HPU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "河南大学",
+        "外文名": "Henan University",
+        "简称": "河大（HENU）",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "许昌学院",
+        "外文名": "Xuchang University",
+        "简称": "许院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "黄淮学院",
+        "外文名": "HuangHuai University",
+        "简称": "黄淮，HHU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "周口师范学院",
+        "外文名": "Zhoukou Normal University",
+        "简称": "周口师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "重庆大学",
+        "外文名": "Chongqing University",
+        "简称": "重大",
+        "学校属性": "211工程、985工程"
+    },
+    {
+        "中文名": "西南大学",
+        "外文名": "Southwest University",
+        "简称": "西大、西南大",
+        "学校属性": "985工程平台、211工程、111计划"
+    },
+    {
+        "中文名": "重庆交通大学",
+        "外文名": "Chongqing Jiaotong University",
+        "简称": "重庆交大、CQJTU",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "重庆邮电大学",
+        "外文名": "Chongqing university of Posts and Telecommunications",
+        "简称": "重邮",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "重庆理工大学",
+        "外文名": "Chongqing University of Technology",
+        "简称": "重庆理工、CQUT",
+        "学校属性": "省属重点大学、省企共建大学"
+    },
+    {
+        "中文名": "重庆医科大学",
+        "外文名": "ChongQing Medical University",
+        "简称": "重医 CQMU",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "重庆师范大学",
+        "外文名": "Chongqing Normal University",
+        "简称": "重庆师大 重师 CNU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工商大学",
+        "外文名": "Chongqing Technology and Business University",
+        "简称": "重庆工商（CTBU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "西南政法大学",
+        "外文名": "Southwest University of Political Science & Law",
+        "简称": "西政（SUPSL）",
+        "学校属性": "国立重点高等政法大学"
+    },
+    {
+        "中文名": "重庆科技学院",
+        "外文名": "Chongqing University Of Science & Technology",
+        "简称": "重科、科院、CQUST",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "长江师范学院",
+        "外文名": "Yangtze Normal University",
+        "简称": "长师",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川外国语大学",
+        "外文名": "Sichuan International Studies University",
+        "简称": "“川外”(SISU)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川美术学院",
+        "外文名": "Sichuan Fine Arts Institute",
+        "简称": "川美",
+        "学校属性": "重庆市属高等院校"
+    },
+    {
+        "中文名": "重庆文理学院",
+        "外文名": "CHONGQING UNIVERSITY OF ARTS AND SCIENCE",
+        "简称": "文理学院",
+        "学校属性": "普通本科·"
+    },
+    {
+        "中文名": "重庆三峡学院",
+        "外文名": "Chongqing Three Gorges University",
+        "简称": "重三大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆电力高等专科学校",
+        "外文名": "Chongqing Electric Power College",
+        "简称": "重庆电专 重庆电力高专",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆三峡医药高等专科学校",
+        "外文名": "Chongqing Three Gorges Medical College",
+        "简称": "三峡医专",
+        "学校属性": "重庆市示范高校"
+    },
+    {
+        "中文名": "重庆医药高等专科学校",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆化工职业学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工业职业技术学院",
+        "外文名": "Chongqing Industry Polytechnic College",
+        "简称": "工职院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆财经职业学院",
+        "外文名": "Chongqing College of Finance & Economics",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆水利电力职业技术学院",
+        "外文名": "",
+        "简称": "渝水职院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆三峡职业学院",
+        "外文名": "Chongqing Three Gorges Polytechnic College",
+        "简称": "CTGPC",
+        "学校属性": "重庆市示范高校"
+    },
+    {
+        "中文名": "重庆航天职业技术学院",
+        "外文名": "Chongqing Aerospace Polytechnic College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工贸职业技术学院",
+        "外文名": "Chongqing Industry & Trade Polytechnic",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆城市职业学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆传媒职业学院",
+        "外文名": "Chongqing Vocational College of Media",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆电子工程职业学院",
+        "外文名": "Chongqing College of Electronic Engineering",
+        "简称": "电子校",
+        "学校属性": "高职211"
+    },
+    {
+        "中文名": "重庆商务职业学院",
+        "外文名": "Chongqing Business Vocational College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆正大软件职业技术学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆科创职业学院",
+        "外文名": "Chongqing Creation Vocational College",
+        "简称": "",
+        "学校属性": "高等职业院校"
+    },
+    {
+        "中文名": "重庆工程职业技术学院",
+        "外文名": "Chongqing Vocational Institute of Engineering",
+        "简称": "重庆工程职院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆民生职业技术学院",
+        "外文名": "Chongqing Minsheng Vocational & Technical College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆建筑工程职业学院",
+        "外文名": "Chongqing JIANZHU college",
+        "简称": "重庆建工职院/重庆城建校",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆信息技术职业学院",
+        "外文名": "Chongqing Information Technology College",
+        "简称": "重庆信息学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆海联职业技术学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": "高等职业院校"
+    },
+    {
+        "中文名": "重庆能源职业学院",
+        "外文名": "Chongqing Energy College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆电讯职业学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆机电职业技术学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": "民办普通高等院校"
+    },
+    {
+        "中文名": "重庆房地产职业学院",
+        "外文名": "",
+        "简称": "重房院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆城市管理职业学院",
+        "外文名": "ChongQing City Management College",
+        "简称": "重庆城管校",
+        "学校属性": "“高职中的211”"
+    },
+    {
+        "中文名": "重庆青年职业技术学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工商职业学院",
+        "外文名": "Chongqing Technology & Business Institute",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆警察学院",
+        "外文名": "Chongqing Police College",
+        "简称": "重庆警院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆交通职业学院",
+        "外文名": "Chongqing Vocational College of Transportation",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆旅游职业学院",
+        "外文名": "Chongqing Vocational Institute of Tourism",
+        "简称": "重庆旅院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆安全技术职业学院",
+        "外文名": "Chongqing Vocational Insitute of Safety & Technology",
+        "简称": "重庆安全职院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆公共运输职业学院",
+        "外文名": "Chongqing Vocational College of Public Transportation",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆艺术工程职业学院",
+        "外文名": "Chongqing Vocational College of Art & Engineering",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆轻工职业学院",
+        "外文名": "",
+        "简称": "重庆轻院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆电信职业学院",
+        "外文名": "Chongqing Telecommunications College",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆经贸职业学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆人文科技学院",
+        "外文名": "Chongqing College of Humanities Science and Technology",
+        "简称": "重庆人文科院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "四川外语学院重庆南方翻译学院",
+        "外文名": "Chongqing Nanfang Translators College under Sichuan International Studies University",
+        "简称": "川外重庆南方翻译学院",
+        "学校属性": "本科三批院校"
+    },
+    {
+        "中文名": "重庆师范大学涉外商贸学院",
+        "外文名": "ChongQing Normal University Foreign Trade and Business College",
+        "简称": "海莱学院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工商大学融智学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆工商大学派斯学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆邮电大学移通学院",
+        "外文名": "",
+        "简称": "重邮移通",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆大学城市科技学院",
+        "外文名": "City College of Science and Technology.Chongqing University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "重庆第二师范学院",
+        "外文名": "Chongqing University of Education",
+        "简称": "重庆师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "云南大学",
+        "外文名": "Yunnan University",
+        "简称": "云大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "昆明理工大学",
+        "外文名": "Kunming University of Science and Technology",
+        "简称": "昆工（KMUST）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "云南农业大学",
+        "外文名": "Yunnan Agricultural University",
+        "简称": "云农大",
+        "学校属性": "中西部高校基础能力建设工程高校"
+    },
+    {
+        "中文名": "西南林业大学",
+        "外文名": "Southwest Forestry University",
+        "简称": "西林",
+        "学校属性": "中央与地方共建高校"
+    },
+    {
+        "中文名": "云南师范大学",
+        "外文名": "Yunnan Normal University",
+        "简称": "云南师大（YNNU）",
+        "学校属性": "省部共建大学、中西部小211工程"
+    },
+    {
+        "中文名": "云南财经大学",
+        "外文名": "Yunnan University of Finance and Economics",
+        "简称": "云南财大/云财/YNUFE",
+        "学校属性": "普通高校"
+    },
+    {
+        "中文名": "云南民族大学",
+        "外文名": "Yunnan University of Nationalities",
+        "简称": "云南民大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "昆明医科大学",
+        "外文名": "Kunming Medical University",
+        "简称": "昆医",
+        "学校属性": "省属重点大学、中西部小211工程"
+    },
+    {
+        "中文名": "云南中医学院",
+        "外文名": "Yunnan University of Traditional Chinese Medicine",
+        "简称": "云中(YNUTCM)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "云南警官学院",
+        "外文名": "Yunnan Poice College",
+        "简称": "忠诚、责任、奉献",
+        "学校属性": "省属"
+    },
+    {
+        "中文名": "云南艺术学院",
+        "外文名": "Yunnan Arts University",
+        "简称": "云艺",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "昆明学院",
+        "外文名": "Kunming University（KMU）",
+        "简称": "昆院（KMU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "云南工商学院",
+        "外文名": "Yunnan technology and business university",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "楚雄师范学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "大理学院",
+        "外文名": "DaLi University",
+        "简称": "大院",
+        "学校属性": "省属"
+    },
+    {
+        "中文名": "红河学院",
+        "外文名": "Honghe University",
+        "简称": "红院(HU)",
+        "学校属性": "省属公办本科院校"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "玉溪师范学院",
+        "外文名": "Yuxi Normal University",
+        "简称": "玉溪师院",
+        "学校属性": "省属高等师范院校"
+    },
+    {
+        "中文名": "昭通学院",
+        "外文名": "Zhaotong University",
+        "简称": "",
+        "学校属性": "省属应用型普通本科学校"
+    },
+    {
+        "中文名": "普洱学院",
+        "外文名": "Puer University",
+        "简称": "普大（PU）",
+        "学校属性": "省市共管共建"
+    },
+    {
+        "中文名": "曲靖师范学院",
+        "外文名": "QUJING NORMAL UNIVERSITY",
+        "简称": "曲靖师院",
+        "学校属性": "省属"
+    },
+    {
+        "中文名": "河北大学",
+        "外文名": "Hebei University",
+        "简称": "河大",
+        "学校属性": "一省一校、省部共建、卓越计划"
+    },
+    {
+        "中文名": "河北科技大学",
+        "外文名": "Hebei University of Science & Technology",
+        "简称": "河北科大（HEBUST）",
+        "学校属性": "卓越计划、 省部共建大学"
+    },
+    {
+        "中文名": "石家庄铁道大学",
+        "外文名": "Shijiazhuang Tiedao University",
+        "简称": "铁大（STU）",
+        "学校属性": "省部共建大学、 铁路重点高校"
+    },
+    {
+        "中文名": "河北医科大学",
+        "外文名": "Hebei Medical University",
+        "简称": "河北医大（HMU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北师范大学",
+        "外文名": "Hebei Normal University",
+        "简称": "河北师大（HEBNU）",
+        "学校属性": "省属重点本科大学"
+    },
+    {
+        "中文名": "河北经贸大学",
+        "外文名": "Hebei University of Economics and Business",
+        "简称": "经贸大（HUEB）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "石家庄经济学院",
+        "外文名": "Shijiazhuang University Of Economics",
+        "简称": "石家庄经院、石经院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北体育学院",
+        "外文名": "Hebei Institute of Physical Education",
+        "简称": "体院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "石家庄学院",
+        "外文名": "Shijiazhuang University",
+        "简称": "石院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北传媒学院",
+        "外文名": "Heibei Institute Of Communication College",
+        "简称": "河传",
+        "学校属性": ""
+    },
+    {
+        "中文名": "河北美术学院",
+        "外文名": "Hebei Academy of Fine Arts",
+        "简称": "河美",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北外国语学院",
+        "外文名": "Hebei International Studies University",
+        "简称": "河外",
+        "学校属性": ""
+    },
+    {
+        "中文名": "河北中医学院",
+        "外文名": "Hebei University of Traditional Chinese Medicine",
+        "简称": "河中医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北农业大学",
+        "外文名": "Agricultural University of Hebei",
+        "简称": "河北农大（AUH）",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "河北金融学院",
+        "外文名": "Heibei Finance university",
+        "简称": "河北金融",
+        "学校属性": "省部共建院校"
+    },
+    {
+        "中文名": "保定学院",
+        "外文名": "Baoding University",
+        "简称": "保院、保大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北科技学院",
+        "外文名": "Hebei Cllege of Science and Technology",
+        "简称": "河科院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "中央司法警官学院",
+        "外文名": "The Central Institute For Correctional Police",
+        "简称": "中警院 /CICP",
+        "学校属性": "中央部属高校"
+    },
+    {
+        "中文名": "承德医学院",
+        "外文名": "Chengde Medical College",
+        "简称": "承医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北民族师范学院",
+        "外文名": "Hebei Normal University for Nationalities",
+        "简称": "河北民师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北工程大学",
+        "外文名": "Hebei University of Engineering",
+        "简称": "河工程（HUE）",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "邯郸学院",
+        "外文名": "Handan College",
+        "简称": "邯院",
+        "学校属性": "全日制普通本科院校"
+    },
+    {
+        "中文名": "北华航天工业学院",
+        "外文名": "North China Institute of Aerospace Engineering",
+        "简称": "华航",
+        "学校属性": "工科综合"
+    },
+    {
+        "中文名": "廊坊师范学院",
+        "外文名": "Langfang Teachers University",
+        "简称": "廊坊师范",
+        "学校属性": "省属普通高等院校"
+    },
+    {
+        "中文名": "中国人民武装警察部队学院",
+        "外文名": "Chinese People's Armed Police Force Academy",
+        "简称": "武警学院",
+        "学校属性": "部属高等院校"
+    },
+    {
+        "中文名": "防灾科技学院",
+        "外文名": "Institute of Disaster Prevention Scinece and Technology",
+        "简称": "防灾（IODP、DPST）",
+        "学校属性": "部属高等院校"
+    },
+    {
+        "中文名": "华北科技学院",
+        "外文名": "North China Institute of Science and Technology",
+        "简称": "华科（NCIST）",
+        "学校属性": "教育部卓越计划、部属高等院校"
+    },
+    {
+        "中文名": "燕京理工学院",
+        "外文名": "Yanching Institute of Technology",
+        "简称": "燕京理工",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北联合大学",
+        "外文名": "Hebei United University",
+        "简称": "河北联大",
+        "学校属性": "卓越计划、 省部共建大学"
+    },
+    {
+        "中文名": "唐山师范学院",
+        "外文名": "Tangshan Normal University",
+        "简称": "唐山师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "唐山学院",
+        "外文名": "Tangshan College",
+        "简称": "唐院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北建筑工程学院",
+        "外文名": "HeBei University of Architecture",
+        "简称": "河北建工学院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北北方学院",
+        "外文名": "He Bei North University",
+        "简称": "北院/HBNU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "张家口学院",
+        "外文名": "Zhangjiakou University",
+        "简称": "张院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北科技师范学院",
+        "外文名": "Hebei Normal University of Science & Technology",
+        "简称": "河北科师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "燕山大学",
+        "外文名": "Yanshan University",
+        "简称": "燕大(YSU)",
+        "学校属性": "全国重点大学"
+    },
+    {
+        "中文名": "沧州师范学院",
+        "外文名": "Cangzhou Normal University",
+        "简称": "沧州师院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "河北工业大学",
+        "外文名": "Hebei University of Technology",
+        "简称": "河工大（HEBUT）",
+        "学校属性": "211工程、卓越计划、研究生院"
+    },
+    {
+        "中文名": "邢台学院",
+        "外文名": "XingTai University",
+        "简称": "邢院",
+        "学校属性": "市属高等院校"
+    },
+    {
+        "中文名": "衡水学院",
+        "外文名": "Hengshui University",
+        "简称": "衡院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "南昌大学",
+        "外文名": "Nanchang University",
+        "简称": "昌大（NCU）",
+        "学校属性": "211工程、卓越计划"
+    },
+    {
+        "中文名": "华东交通大学",
+        "外文名": "East China Jiaotong University",
+        "简称": "ECJTU、华东交大",
+        "学校属性": "卓越工程师教育培养计划高校"
+    },
+    {
+        "中文名": "南昌航空大学",
+        "外文名": "Nanchang Hangkong University",
+        "简称": "昌航",
+        "学校属性": "卓越计划"
+    },
+    {
+        "中文名": "江西农业大学",
+        "外文名": "",
+        "简称": "江农、农大",
+        "学校属性": "全国重点大学、小211工程"
+    },
+    {
+        "中文名": "江西师范大学",
+        "外文名": "Jiangxi Normal University",
+        "简称": "江西师大(JXNU)",
+        "学校属性": "省部共建大学；小211工程"
+    },
+    {
+        "中文名": "江西财经大学",
+        "外文名": "Jiangxi University of Finance and Economics",
+        "简称": "江财、江西财大",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "南昌工程学院",
+        "外文名": "Nanchang Institute Of Technology",
+        "简称": "",
+        "学校属性": "卓越计划"
+    },
+    {
+        "中文名": "江西中医药大学",
+        "外文名": "Jiangxi University of Traditional Chinese Medicine",
+        "简称": "江中大",
+        "学校属性": "普通本科院校"
+    },
+    {
+        "中文名": "江西科技师范大学",
+        "外文名": "Jiangxi Science and Technology Normal University",
+        "简称": "科技师大、科大、STNU",
+        "学校属性": ""
+    },
+    {
+        "中文名": "江西警察学院",
+        "外文名": "Jiangxi Police Institute",
+        "简称": "江西警院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南昌工学院",
+        "外文名": "Nanchang Institute of Science and Technology",
+        "简称": "昌工",
+        "学校属性": "全日制普通高校"
+    },
+    {
+        "中文名": "南昌理工学院",
+        "外文名": "Nanchang Institute of Technology",
+        "简称": "南理(NUT)",
+        "学校属性": "全日制第二批普通本科高校"
+    },
+    {
+        "中文名": "江西服装学院",
+        "外文名": "Jiangxi Institute of Fashion Technology",
+        "简称": "江服",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "江西科技学院",
+        "外文名": "Jiangxi University of Technology",
+        "简称": "“江西科院”，JXUT",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南昌师范学院",
+        "外文名": "Nanchang Normal University",
+        "简称": "南昌师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "江西理工大学",
+        "外文名": "Jiangxi University of Science and Technology",
+        "简称": "江西理工、江理、JXUST",
+        "学校属性": "卓越计划、两部一省共建高校"
+    },
+    {
+        "中文名": "赣南医学院",
+        "外文名": "Gannan Medical University",
+        "简称": "赣医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "赣南师范学院",
+        "外文名": "",
+        "简称": "赣南师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "景德镇学院",
+        "外文名": "Jingdezhen University",
+        "简称": "景院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "景德镇陶瓷学院",
+        "外文名": "Jingdezhen Ceramic Institute",
+        "简称": "景陶，陶院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "东华理工大学",
+        "外文名": "East China Institute of Technology",
+        "简称": "东理工",
+        "学校属性": "省部共建高校 中央与地方共建"
+    },
+    {
+        "中文名": "萍乡学院",
+        "外文名": "Pingxiang University",
+        "简称": "",
+        "学校属性": "普通本科院校"
+    },
+    {
+        "中文名": "井冈山大学",
+        "外文名": "Jinggangshan University",
+        "简称": "井大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "九江学院",
+        "外文名": "Jiujiang University",
+        "简称": "九院.JJU",
+        "学校属性": "军地共建，省市共建"
+    },
+    {
+        "中文名": "上饶师范学院",
+        "外文名": "Shangrao Normal University",
+        "简称": "上饶师院",
+        "学校属性": "省属本科层次普通高校"
+    },
+    {
+        "中文名": "新余学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "宜春学院",
+        "外文名": "Yichun University",
+        "简称": "宜院（YCU）",
+        "学校属性": "863计划、卓越医生教育培养计划"
+    },
+    {
+        "中文名": "太原理工大学",
+        "外文名": "Taiyuan University of Technology",
+        "简称": "TUT",
+        "学校属性": "211工程、卓越计划、研究生院"
+    },
+    {
+        "中文名": "山西大学",
+        "外文名": "Shanxi University",
+        "简称": "山大",
+        "学校属性": "一省一校 省部共建大学"
+    },
+    {
+        "中文名": "中北大学",
+        "外文名": "",
+        "简称": "中北(NUC)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "太原科技大学",
+        "外文名": "Taiyuan University of Science and Technology",
+        "简称": "太原科大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山西医科大学",
+        "外文名": "Shanxi Medical University",
+        "简称": "山医大（SMU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山西财经大学",
+        "外文名": "Shanxi University of Finance and Economics",
+        "简称": "山西财大，山财，SXUFE",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "太原工业学院",
+        "外文名": "Taiyuan Institute of Technology",
+        "简称": "太工（TIT）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山西中医学院",
+        "外文名": "Shanxi University of Traditional Chinese medicine",
+        "简称": "山西中医",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "太原师范学院",
+        "外文名": "Taiyuan Normal University",
+        "简称": "太原师院、太师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山西工商学院",
+        "外文名": "Shanxi Technology and Business College",
+        "简称": "山西工商",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "太原学院",
+        "外文名": "Taiyuan University",
+        "简称": "太大、太院",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "山西传媒学院",
+        "外文名": "Commumication University of Shanxi",
+        "简称": "山传（CUSX）",
+        "学校属性": "普通本科院校"
+    },
+    {
+        "中文名": "长治医学院",
+        "外文名": "ChangZhi Medical College",
+        "简称": "长医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "长治学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "山西大同大学",
+        "外文名": "ShanxiDatong University",
+        "简称": "同大",
+        "学校属性": "山西省属综合性大学"
+    },
+    {
+        "中文名": "山西师范大学",
+        "外文名": "Shanxi Normal University",
+        "简称": "山师大（SXNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "吕梁学院",
+        "外文名": "Luliang University",
+        "简称": "吕院",
+        "学校属性": "地方性普通本科院校"
+    },
+    {
+        "中文名": "山西农业大学",
+        "外文名": "Shanxi Agricultural University",
+        "简称": "山西农大（SXAU）",
+        "学校属性": "全国重点大学  省部共建高校"
+    },
+    {
+        "中文名": "忻州师范学院",
+        "外文名": "Xinzhou Teachers University",
+        "简称": "忻州师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "晋中学院",
+        "外文名": "Jinzhong University",
+        "简称": "",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "运城学院",
+        "外文名": "Yuncheng University",
+        "简称": "运院",
+        "学校属性": "普通本科院校"
+    },
+    {
+        "中文名": "贵州大学",
+        "外文名": "Guizhou University",
+        "简称": "贵大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "贵州师范大学",
+        "外文名": "Guizhou Normal University",
+        "简称": "贵州师大（GZNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "贵阳医学院",
+        "外文名": "Guiyang Medicial University",
+        "简称": "贵医",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "贵阳中医学院",
+        "外文名": "GuiYang college of Traditional Chinese Medicine",
+        "简称": "贵中医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "贵州师范学院",
+        "外文名": "Guizhou Normal College",
+        "简称": "贵州师院",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "贵州财经大学",
+        "外文名": "GuiZhou University of Finance & Economics.GZIFE",
+        "简称": "贵州财大,贵财",
+        "学校属性": "普通本科、研究生培养"
+    },
+    {
+        "中文名": "贵州民族大学",
+        "外文名": "Guizhou Minzu University",
+        "简称": "贵州民大（GMU）",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "贵阳学院",
+        "外文名": "Guiyang University",
+        "简称": "",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "贵州理工学院",
+        "外文名": "Guizhou Institute of Technology",
+        "简称": "贵理工（GIT）",
+        "学校属性": "省属高校"
+    },
+    {
+        "中文名": "遵义医学院",
+        "外文名": "ZunYi Medical college",
+        "简称": "",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "遵义师范学院",
+        "外文名": "Zunyi Normal University",
+        "简称": "遵师",
+        "学校属性": ""
+    },
+    {
+        "中文名": "安顺学院",
+        "外文名": "Anshun University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "毕节学院",
+        "外文名": "Bijie University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "黔南民族师范学院",
+        "外文名": "Qiannan Normal College for Nationalities",
+        "简称": "黔南师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "凯里学院",
+        "外文名": "Kaili University",
+        "简称": "凯院",
+        "学校属性": "普通本科"
+    },
+    {
+        "中文名": "六盘水师范学院",
+        "外文名": "Liupanshui Normal College",
+        "简称": "六盘水师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "铜仁学院",
+        "外文名": "Tongren University",
+        "简称": "铜院",
+        "学校属性": "全日制普通本科院校"
+    },
+    {
+        "中文名": "兴义民族师范学院",
+        "外文名": "Xingyi Normal University for Nationalities",
+        "简称": "兴义师院",
+        "学校属性": "省州共建的全日制本科院校"
+    },
+    {
+        "中文名": "广西大学",
+        "外文名": "GuangXi University",
+        "简称": "西大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "广西医科大学",
+        "外文名": "Guangxi Medical University",
+        "简称": "广西医大（GXMU）",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "广西中医药大学",
+        "外文名": "Guangxi University of Chinese Medicine",
+        "简称": "广药（GUCM）",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "广西师范学院",
+        "外文名": "Guangxi Teachers Education University",
+        "简称": "广西师院（GTEU）",
+        "学校属性": "普通本科高校"
+    },
+    {
+        "中文名": "广西财经学院",
+        "外文名": "Guangxi University Of Finance and Economics",
+        "简称": "广财",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "广西艺术学院",
+        "外文名": "Guangxi Arts Institute",
+        "简称": "广艺",
+        "学校属性": "区属高等院校、省部共建大学"
+    },
+    {
+        "中文名": "广西民族大学",
+        "外文名": "GuangXi University for Nationalities",
+        "简称": "广西民大、民大",
+        "学校属性": "小211、省属重点"
+    },
+    {
+        "中文名": "南宁学院",
+        "外文名": "Nanning University",
+        "简称": "南院（NNU）",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "广西外国语学院",
+        "外文名": "Guangxi University Of Foreign Languages",
+        "简称": "广西外院",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "右江民族医学院",
+        "外文名": "Youjiang Medical College For Nationalities",
+        "简称": "右医",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "百色学院",
+        "外文名": "Baise University",
+        "简称": "百院",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "桂林电子科技大学",
+        "外文名": "GUILIN UNIVERSITY OF ELECTRONIC TECHNOLOGY",
+        "简称": "桂电",
+        "学校属性": "省部共建高校"
+    },
+    {
+        "中文名": "桂林理工大学",
+        "外文名": "Guilin University of Technology",
+        "简称": "桂工(GUT)",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "广西师范大学",
+        "外文名": "Guangxi Normal University",
+        "简称": "广西师大、广师（GNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "桂林医学院",
+        "外文名": "Guilin Medical University",
+        "简称": "桂医",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "桂林航天工业学院",
+        "外文名": "Guilin University Of Aerospace Technology",
+        "简称": "桂航",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "贺州学院",
+        "外文名": "Hezhou University",
+        "简称": "贺院",
+        "学校属性": "区市共建"
+    },
+    {
+        "中文名": "广西民族师范学院",
+        "外文名": "Guangxi Normal University for Nationalities",
+        "简称": "民师院",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "钦州学院",
+        "外文名": "Qinzhou University",
+        "简称": "钦院 南“北大”",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "梧州学院",
+        "外文名": "Wuzhou University",
+        "简称": "梧院",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "河池学院",
+        "外文名": "Hechi University",
+        "简称": "河院",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "玉林师范学院",
+        "外文名": "",
+        "简称": "玉师",
+        "学校属性": ""
+    },
+    {
+        "中文名": "广西科技大学",
+        "外文名": "Guangxi University of Science and Technology",
+        "简称": "广科大（GXUST）",
+        "学校属性": "区属高等院校"
+    },
+    {
+        "中文名": "内蒙古大学",
+        "外文名": "Inner Mongolia University",
+        "简称": "内大(IMU)",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "内蒙古工业大学",
+        "外文名": "Inner Mongolia University of Technology",
+        "简称": "内工大（IMUT）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "内蒙古农业大学",
+        "外文名": "Inner Mongolia Agricultural University",
+        "简称": "内农大（IMAU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "内蒙古师范大学",
+        "外文名": "Inner Mongolia Normal University",
+        "简称": "内师大（IMNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "内蒙古医科大学",
+        "外文名": "Inner Mongolia Medical University",
+        "简称": "内医大（IMMU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "呼和浩特民族学院",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "内蒙古财经大学",
+        "外文名": "Inner Mongolia University of Finance and Economics",
+        "简称": "内财（IMUFE）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "内蒙古科技大学",
+        "外文名": "Inner Mongolia University of Science&Technology",
+        "简称": "内科大（IMUST）",
+        "学校属性": "卓越工程师计划"
+    },
+    {
+        "中文名": "赤峰学院",
+        "外文名": "Chifeng University",
+        "简称": "赤院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "集宁师范学院",
+        "外文名": "Jining Teachers College",
+        "简称": "集宁师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "内蒙古民族大学",
+        "外文名": "Inner Mongolia University For The Nationlities",
+        "简称": "内蒙民大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "河套学院",
+        "外文名": "Hetao University",
+        "简称": "河院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "宁夏大学",
+        "外文名": "Ningxia University",
+        "简称": "宁大（NXU）",
+        "学校属性": "211工程、中西部高校联盟"
+    },
+    {
+        "中文名": "宁夏医科大学",
+        "外文名": "Ningxia Medical University",
+        "简称": "宁医大(NXMU)",
+        "学校属性": "普通高等学校"
+    },
+    {
+        "中文名": "北方民族大学",
+        "外文名": "",
+        "简称": "北方民大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "银川能源学院",
+        "外文名": "Yinchuan Energy Institute",
+        "简称": "银大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "宁夏师范学院",
+        "外文名": "Ningxia Teachers University",
+        "简称": "宁夏师院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "宁工",
+        "学校属性": ""
+    },
+    {
+        "中文名": "青海大学",
+        "外文名": "Qinghai university",
+        "简称": "青大，QHU",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "青海师范大学",
+        "外文名": "Qinghai Normal University",
+        "简称": "青海师大（QNU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "青海民族大学",
+        "外文名": "Qinghai Nationalities University",
+        "简称": "青海民大（QNU）",
+        "学校属性": "小211工程"
+    },
+    {
+        "中文名": "石河子大学",
+        "外文名": "SHIHEZI UNIVERSITY",
+        "简称": "",
+        "学校属性": "211工程、中西部高校联盟成员"
+    },
+    {
+        "中文名": "新疆大学",
+        "外文名": "Xinjiang University",
+        "简称": "新大（XJU）",
+        "学校属性": "211工程、中西部100所"
+    },
+    {
+        "中文名": "新疆农业大学",
+        "外文名": "Xinjiang Agricultural University",
+        "简称": "新农大（XAU）",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "新疆医科大学",
+        "外文名": "Xinjiang medical university",
+        "简称": "新疆医科大（XJMU）",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "新疆师范大学",
+        "外文名": "Xinjiang Normal University",
+        "简称": "新疆师大（XJNU）",
+        "学校属性": "省属重点大学、小“211”工程"
+    },
+    {
+        "中文名": "新疆财经大学",
+        "外文名": "Xinjiang university of finance",
+        "简称": "新财大",
+        "学校属性": "省属重点大学"
+    },
+    {
+        "中文名": "新疆艺术学院",
+        "外文名": "Xinjiang Arts University",
+        "简称": "新艺（XJArt）",
+        "学校属性": "中西部高校基础建设工程"
+    },
+    {
+        "中文名": "新疆工程学院",
+        "外文名": "Xinjiang Institute of Engineering",
+        "简称": "新工院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "新疆警察学院",
+        "外文名": "Xinjiang police college",
+        "简称": "新警",
+        "学校属性": ""
+    },
+    {
+        "中文名": "塔里木大学",
+        "外文名": "Tarim University",
+        "简称": "塔大",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "昌吉学院",
+        "外文名": "Changji University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "喀什师范学院",
+        "外文名": "Kashi Normal University",
+        "简称": "喀师（KNU）",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "伊犁师范学院",
+        "外文名": "YiLi Normal University",
+        "简称": "伊犁师范",
+        "学校属性": ""
+    },
+    {
+        "中文名": "海南大学",
+        "外文名": "Hainan University",
+        "简称": "海大",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "海南师范大学",
+        "外文名": "Hainan Normal University",
+        "简称": "海师",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "海南医学院",
+        "外文名": "",
+        "简称": "海医",
+        "学校属性": ""
+    },
+    {
+        "中文名": "海口经济学院",
+        "外文名": "haikou college of economics",
+        "简称": "海经",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "琼州学院",
+        "外文名": "QiongZhou University",
+        "简称": "琼院，琼大",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "三亚学院",
+        "外文名": "Sanya University",
+        "简称": "SYU",
+        "学校属性": "省属高等院校"
+    },
+    {
+        "中文名": "西藏大学",
+        "外文名": "Tibet University",
+        "简称": "TU",
+        "学校属性": "211工程"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "西藏民族学院",
+        "外文名": "Tibet University for Nationalities",
+        "简称": "",
+        "学校属性": "中西部高校基础能力建设工程"
+    },
+    {
+        "中文名": "香港大学",
+        "外文名": "The University of Hong Kong",
+        "简称": "港大(HKU)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "香港中文大学",
+        "外文名": "The Chinese University of Hong Kong",
+        "简称": "香港中大/中大（CUHK）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "香港科技大学",
+        "外文名": "The Hong Kong University of Science and Technology",
+        "简称": "香港科大（HKUST）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "香港城市大学",
+        "外文名": "City University of Hong Kong",
+        "简称": "城大（CityU）",
+        "学校属性": "国家提前批重点院校"
+    },
+    {
+        "中文名": "香港理工大学",
+        "外文名": "The Hong Kong Polytechnic University",
+        "简称": "理大（PolyU）",
+        "学校属性": "亚洲名校、香港八大院校"
+    },
+    {
+        "中文名": "香港浸会大学",
+        "外文名": "Hong Kong Baptist University",
+        "简称": "浸大(HKBU)",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "澳门大学",
+        "外文名": "University of Macau",
+        "简称": "澳大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "澳门理工学院",
+        "外文名": "Macao Polytechnic Institute",
+        "简称": "澳理工（IPM）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "澳门管理学院",
+        "外文名": "Macau Institute of Management",
+        "简称": "MIM",
+        "学校属性": ""
+    },
+    {
+        "中文名": "澳门城市大学",
+        "外文名": "City University of Macau",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "澳门科技大学",
+        "外文名": "Macau University of Science and Technology",
+        "简称": "澳科大（MUST)",
+        "学校属性": "两岸三地百强大学"
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台湾大学",
+        "外文名": "National Taiwan University",
+        "简称": "台大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立清华大学",
+        "外文名": "National Tsing Hua University",
+        "简称": "清华、清大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立交通大学",
+        "外文名": "National Chiao Tung University",
+        "简称": "台湾交通大学，新竹交通大学",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立阳明大学",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台北大学",
+        "外文名": "Taipei University",
+        "简称": "台北大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台北市立体育学院",
+        "外文名": "Taipei Physical Education College",
+        "简称": "台北体院",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立台湾师范大学",
+        "外文名": "National Taiwan Normal University",
+        "简称": "台师大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立中山大学",
+        "外文名": "National Sun Yat-sen University",
+        "简称": "中山（NSYSU）",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立高雄大学",
+        "外文名": "National University of Kaohsiung",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立高雄师范大学",
+        "外文名": "National Kaohsiung Normal University",
+        "简称": "高雄师大/高师大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "成功大学",
+        "外文名": "National Cheng Kung University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立台南大学",
+        "外文名": "National University of Tainan",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立中兴大学",
+        "外文名": "",
+        "简称": "兴大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立政治大学",
+        "外文名": "National Chengchi University",
+        "简称": "政大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立新竹教育大学",
+        "外文名": "National Hsinchu University of Education",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立嘉义大学",
+        "外文名": "National Chiayi University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立东华大学",
+        "外文名": "National Dong Hwa University",
+        "简称": "东华大学",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台湾台东大学",
+        "外文名": "National Taitung University",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立彰化师范大学",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立屏东教育大学",
+        "外文名": "National PingTung University of Education",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "",
+        "外文名": "",
+        "简称": "",
+        "学校属性": ""
+    },
+    {
+        "中文名": "国立暨南国际大学",
+        "外文名": "National Chi Nan University",
+        "简称": "暨大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "台湾海洋大学",
+        "外文名": "National Taiwan Ocean University",
+        "简称": "海大",
+        "学校属性": ""
+    },
+    {
+        "中文名": "南京大学",
+        "外文名": "Nanjing University",
+        "简称": "南大(NJU)",
+        "学校属性": "211工程，985工程，C9联盟"
+    }
+]
