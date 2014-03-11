@@ -39,7 +39,8 @@ libraryDependencies ++= {
     "org.specs2" %% "specs2" % "1.14" % "test",
     "commons-io" % "commons-io" % "2.3",
     "org.jsoup" % "jsoup" % "1.7.3",
-    "junit" % "junit" % "4.8.2" % "test"
+    "org.apache.commons" % "commons-lang3" % "3.0",
+  "junit" % "junit" % "4.8.2" % "test"
   )
 }
 

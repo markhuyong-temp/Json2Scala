@@ -1,6 +1,6 @@
 [
     {
-        "key": "1",
+        "key": "CHS",
         "code": "0",
         "name": "中国"
     },
@@ -148,5 +148,80 @@
         "key": "AUT",
         "code": "29",
         "name": "奥地利"
+    },
+    {
+        "key": "ARG",
+        "code": "30",
+        "name": "阿根廷"
+    },
+    {
+        "key": "BRA",
+        "code": "31",
+        "name": "巴西"
+    },
+    {
+        "key": "BLR",
+        "code": "32",
+        "name": "白俄罗斯"
+    },
+    {
+        "key": "COL",
+        "code": "33",
+        "name": "哥伦比亚"
+    },
+    {
+        "key": "CUB",
+        "code": "34",
+        "name": "古巴"
+    },
+    {
+        "key": "EGY",
+        "code": "35",
+        "name": "埃及"
+    },
+    {
+        "key": "GRC",
+        "code": "36",
+        "name": "希腊"
+    },
+    {
+        "key": "HUN",
+        "code": "37",
+        "name": "匈牙利"
+    },
+    {
+        "key": "IDN",
+        "code": "38",
+        "name": "印度尼西亚"
+    },
+    {
+        "key": "IRN",
+        "code": "39",
+        "name": "伊朗"
+    },
+    {
+        "key": "MNG",
+        "code": "40",
+        "name": "蒙古"
+    },
+    {
+        "key": "MEX",
+        "code": "41",
+        "name": "墨西哥"
+    },
+    {
+        "key": "PRT",
+        "code": "42",
+        "name": "葡萄牙"
+    },
+    {
+        "key": "SAU",
+        "code": "43",
+        "name": "沙特阿拉伯"
+    },
+    {
+        "key": "TUR",
+        "code": "44",
+        "name": "土耳其"
     }
 ]

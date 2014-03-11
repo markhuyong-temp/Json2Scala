@@ -35,8 +35,6 @@ object JsonParserCn2 extends Loggable {
   val json = parse(jsonstr)
   val values = json.values
 
-//  json
- logger.debug("json1" + json)
 
   //get country
   val country_name = "ALA" :: "AFG" :: Nil
@@ -44,15 +42,6 @@ object JsonParserCn2 extends Loggable {
   def getCountry(countrys:List[String]):Map[String,JValue] = countrys match {
     case head :: Nil  => Map(head -> json \ head)
     case head :: tail => Map(head -> json \ head) ++ getCountry(tail)
-  }
-
-//    def getCountry(country:Seq[String] ) = json \ country
-
-  val couns= getCountry(country_name)
-
-  couns map { c =>
-
-    logger.debug(s"couns:name=${c._1}:${compactRender(c._2)}")
   }
 
   val alastr =
@@ -127,7 +116,6 @@ object JsonParserCn2 extends Loggable {
   val globle_key = "n"
   val alajson = parse(alastr)
 
-  logger.debug("alajson:: "+ alajson)
 
   def getAllCountry = alajson match {
     case JObject(cs) => cs map {
